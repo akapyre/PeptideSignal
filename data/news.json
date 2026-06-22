@@ -1,77 +1,1669 @@
 {
-  "generated_at": "2026-06-18T09:00:00Z",
+  "generated_at": "2026-06-22T18:59:55Z",
   "items": [
     {
-      "id": "fda-cat2-reclass-2026",
-      "category": "regulatory",
-      "compound": "BPC-157, TB-500, CJC-1295, Ipamorelin, GHK-Cu, Selank, Semax, MOTS-c, Thymosin Alpha-1, AOD-9604, KPV",
-      "title": "FDA moves 14 peptides off the restricted compounding list",
-      "summary": "HHS Secretary RFK Jr. announced that roughly 14 of the 19 peptides on FDA's Category 2 restricted compounding list — including BPC-157, TB-500, CJC-1295, and Ipamorelin — are being shifted back to Category 1, effective April 23, 2026. The FDA's Pharmacy Compounding Advisory Committee will formally review the change at its July 23–24 meeting. Five peptides, including Melanotan II, GHRP-2, GHRP-6, LL-37, and PEG-MGF, remain restricted.",
-      "why_it_matters": "This is the single biggest regulatory shift for compounded peptides since the 2023 ban. It doesn't mean FDA approval — it means compounding pharmacies can prepare these again under 503A/503B with a prescription. Good explainer content opportunity: 'reclassified' vs 'approved' is a distinction most of your audience is getting wrong right now.",
-      "source": "Pharmacy Times / Washington Post / Amanecia Health",
-      "url": "https://www.pharmacytimes.com/view/the-peptide-reclassification-everyone-s-talking-about-a-pharmacist-s-take-on-what-rfk-jr-s-announcement-actually-means",
-      "published": "2026-04-27",
-      "tags": ["FDA", "compounding", "legal status", "BPC-157", "TB-500"]
+      "id": "07529432959b",
+      "category": "research",
+      "compound": "KPV",
+      "title": "A new era of doping? Use of peptide and peptide-analog drugs in recreational and professional sport and bodybuilding: a critical review.",
+      "summary": "Published in J Sports Med Phys Fitness. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Sports Med Phys Fitness)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41880199/",
+      "published": "2026-07-01",
+      "tags": [
+        "kpv",
+        "research",
+        "pubmed"
+      ]
     },
     {
-      "id": "retatrutide-triumph1-may2026",
-      "category": "clinical-trial",
-      "compound": "Retatrutide",
-      "title": "TRIUMPH-1 Phase 3 results: up to 30% body weight loss at 80 weeks",
-      "summary": "Eli Lilly's TRIUMPH-1 trial (2,339 participants) showed average weight loss of 17.6% on 4mg, 23.7% on 9mg, and 25.0% on 12mg at 80 weeks, with participants with severe obesity on the highest dose losing up to 30% over two years. Discontinuation due to adverse events was 4.1–11.3% depending on dose, vs 4.9% on placebo. This is the dataset Lilly plans to anchor its FDA submission on.",
-      "why_it_matters": "You're personally running a retatrutide protocol — this is the most rigorous human data yet on dosing tolerance and efficacy at the doses your community asks about. Strong source for a 'what the actual trial data says vs. what TikTok says' video.",
-      "source": "Eli Lilly / Scientific American / The Pharmaceutical Journal",
-      "url": "https://www.scientificamerican.com/article/next-gen-weight-loss-drug-retatrutide-trial-brings-it-one-step-closer-to-fda-approval/",
-      "published": "2026-05-21",
-      "tags": ["retatrutide", "GLP-1", "weight loss", "phase 3"]
+      "id": "7ac0169662df",
+      "category": "research",
+      "compound": "Melanotan",
+      "title": "Five primary melanomas in situ in a patient with recent tanning bed use, melanotan exposure, and anabolic hormone use.",
+      "summary": "Published in JAAD Case Rep. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (JAAD Case Rep)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42328529/",
+      "published": "2026-07-01",
+      "tags": [
+        "melanotan",
+        "research",
+        "pubmed"
+      ]
     },
     {
-      "id": "pubmed-mots-c-mitochondrial-2026",
+      "id": "f9933d7db587",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Rapid and harmonized analytical workflow for the determination of peptidic and non-peptidic doping agents in dried and liquid blood matrices.",
+      "summary": "Published in Analyst. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Analyst)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42328738/",
+      "published": "2026-06-22",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "cbced634212e",
       "category": "research",
       "compound": "MOTS-c",
-      "title": "New review on MOTS-c and mitochondrial-derived peptide signaling",
-      "summary": "Recent literature continues to build out MOTS-c's role as a mitochondrial-derived peptide involved in metabolic stress response and exercise adaptation signaling pathways.",
-      "why_it_matters": "MOTS-c is one of your more requested 'mechanism deep dive' topics — useful citation-backed material for a Skool classroom post rather than TikTok claims.",
-      "source": "PubMed",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=MOTS-c+mitochondrial+peptide",
+      "title": "Mitochondrial-derived peptide MOTS-c activates metabolic signaling but blunts reparative function in human mesenchymal stromal cells.",
+      "summary": "Published in Inflamm Regen. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Inflamm Regen)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324588/",
+      "published": "2026-06-22",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "24d232c8ab38",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Immunomodulatory and Gut Microbiota-Regulating Effects of Lactobacillus helveticus LH76 in Healthy Adults: Preclinical Safety Assessment and a Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "summary": "Published in Probiotics Antimicrob Proteins. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Probiotics Antimicrob Proteins)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42329317/",
+      "published": "2026-06-22",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "ed8810394bd7",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Microvascular dysfunction and neurovascular signalling impairment in diabetic silent myocardial ischemia.",
+      "summary": "Published in Microvasc Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Microvasc Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324025/",
+      "published": "2026-06-21",
+      "tags": [
+        "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3ae5347e91ad",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "A synaptoid connectome differentiates tanycytic subpopulations and underlies neuroglial communication and neuroendocrine regulation.",
+      "summary": "Published in Nat Commun. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nat Commun)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42323316/",
+      "published": "2026-06-20",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e36172071dbb",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Mitochondrial peptide MOTS-c suppresses systemic and cardiac inflammasome activation in a diabetic rat model.",
+      "summary": "Published in Exp Physiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Exp Physiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42321010/",
+      "published": "2026-06-19",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "49050884692f",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Benefits and Harms of Pharmacologic Treatments in Adults With Overweight or Obesity: A Living Systematic Review and Network Meta-analysis for the American College of Physicians.",
+      "summary": "Published in Ann Intern Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Ann Intern Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42296503/",
+      "published": "2026-06-16",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "36929bdcf98c",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Hormonal regulation of metabolic and reproductive homeostasis in transition dairy cows: Current insights and future perspectives.",
+      "summary": "Published in Anim Reprod Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Anim Reprod Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42322727/",
+      "published": "2026-06-16",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "db168ab75c73",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Hierarchical regulation and mechanism of \"open-hollow-fibrous network\" structures: Osteogenic-angiogenic coupling responses of poly(\u03b3-benzyl-L-glutamate) microspheres.",
+      "summary": "Published in Biomater Adv. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biomater Adv)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42320090/",
+      "published": "2026-06-15",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "68f86a0ee81c",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Targeting Mitochondrial Dysfunction With Elamipretide (SS-31) Improves Skeletal Muscle Performance in a HFpEF Rat Model.",
+      "summary": "Published in Circ Heart Fail. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Circ Heart Fail)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42290373/",
+      "published": "2026-06-15",
+      "tags": [
+        "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "7ce2fe9529e2",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin Alpha-1 Restores Chemotherapy-Induced Antitumor Immunity by Chaperoning a MicroRNA Ligand of TLR7 in Dendritic Cells.",
+      "summary": "Published in Cancer Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cancer Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42295795/",
+      "published": "2026-06-15",
+      "tags": [
+        "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "988394879a0e",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide: Triple acting jab for type 2 diabetes lowers blood sugar and boosts weight loss, trial reports.",
+      "summary": "Published in BMJ. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMJ)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42264536/",
+      "published": "2026-06-09",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "7899dda690cb",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Redox imbalance and mitochondrial dysfunction in gestational diabetes mellitus: Implications for maternal health, placental function, and offspring metabolic programming.",
+      "summary": "Published in Free Radic Biol Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Free Radic Biol Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42242082/",
+      "published": "2026-06-04",
+      "tags": [
+        "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e651aec77a9e",
+      "category": "research",
+      "compound": "ARA-290",
+      "title": "Immunometabolic dysregulation drives selective executive cognitive dysfunction in male db/db mice.",
+      "summary": "Published in Neurobiol Dis. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Neurobiol Dis)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41933665/",
+      "published": "2026-06-01",
+      "tags": [
+        "ara-290",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "8331f26aeeb9",
+      "category": "research",
+      "compound": "KPV",
+      "title": "Lysine-proline-valine peptide attenuates hepatic lipid accumulation through ROS-dependent regulation of the PPAR\u03b3 pathway in HepG2 cells.",
+      "summary": "Published in Cytotechnology. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cytotechnology)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42064835/",
+      "published": "2026-06-01",
+      "tags": [
+        "kpv",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "eba965a467ba",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "BPC-157 and Its Novel Hybrid Analogs as Inhibitors of Acetylcholinesterase.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42278509/",
+      "published": "2026-05-30",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f3086521a7ae",
+      "category": "research",
+      "compound": "Melanotan",
+      "title": "Depigmented Facial and Neck Patches Following Melanotan Use in a Patient With Atopic Dermatitis and Alopecia Areata.",
+      "summary": "Published in Clin Exp Dermatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Clin Exp Dermatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42212476/",
+      "published": "2026-05-29",
+      "tags": [
+        "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "cc7e35bdefb5",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Middle-aged mice treated with GHK-Cu peptide administered intraperitoneally or intranasally show behavioral rescue but divergent hippocampal aging programs.",
+      "summary": "Published in Res Sq. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Res Sq)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42245779/",
+      "published": "2026-05-26",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "52b956a1a1a3",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Reduced Circulating MOTS-c Levels in Hashimoto's Thyroiditis Reflect Integrated Autoimmune and Metabolic Dysregulation: A Cross-Sectional Study.",
+      "summary": "Published in J Clin Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Clin Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42278864/",
+      "published": "2026-05-22",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6b46ac4155b9",
+      "category": "research",
+      "compound": "tesamorelin",
+      "title": "Differing Presentations of Excess Visceral Abdominal Fat in People Living With HIV: Two Clinical Cases Highlighting Distinct Therapeutic Pathways With Tesamorelin and Glucagon-Like Peptide-1 Receptor Agonists.",
+      "summary": "Published in Clin Infect Dis. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Clin Infect Dis)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42139091/",
+      "published": "2026-05-15",
+      "tags": [
+        "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "36ae1d36ccc5",
+      "category": "research",
+      "compound": "Semax",
+      "title": "Multi-Layer Magnetic Shields Based on Fe-Based Nanocrystalline and Co-Based Amorphous Ribbons.",
+      "summary": "Published in Materials (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Materials (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42195624/",
+      "published": "2026-05-11",
+      "tags": [
+        "semax",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "b57984ba054f",
+      "category": "research",
+      "compound": "tesamorelin",
+      "title": "Injectable Peptides in Sports Medicine: A Structured Narrative Review of Evidence, Safety, and Antidoping Implications.",
+      "summary": "Published in JBJS Rev. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (JBJS Rev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160466/",
       "published": "2026-05-01",
-      "tags": ["MOTS-c", "mitochondrial", "research"]
+      "tags": [
+        "tesamorelin",
+        "research",
+        "pubmed"
+      ]
     },
     {
-      "id": "fda-compounding-tightening-summit-2026",
-      "category": "regulatory",
-      "compound": "General / bulk drug substances",
-      "title": "FDA simultaneously tightening manufacturing-side rules even as access expands",
-      "summary": "While Category 2 reclassification opens compounding access for specific peptides, the FDA is separately enforcing stricter bulk drug substance rules for compounding pharmacies, raising the bar on manufacturing standards industry-wide.",
-      "why_it_matters": "Important nuance for your audience: 'more legal' and 'less regulated' are not the same thing. Good talking point to push back on oversimplified 'peptides are unbanned' takes circulating right now.",
-      "source": "Peptide Drug Summit 2026",
-      "url": "https://www.peptide-drug-summit.com/news/new-fda-rules-are-reshaping-the-peptide-industry",
+      "id": "7d8ff6180f71",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "IL-15 Plus Thymosin \u03b11 Reduces Senescent Hepatic CD8(+) T Cells in Hepatocellular Carcinoma via PI3K/AKT Suppression.",
+      "summary": "Published in J Gastroenterol Hepatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Gastroenterol Hepatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41883056/",
+      "published": "2026-05-01",
+      "tags": [
+        "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "5c66bae6def8",
+      "category": "research",
+      "compound": "tesamorelin",
+      "title": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42123471/",
+      "published": "2026-04-27",
+      "tags": [
+        "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "307d3ef2e9aa",
+      "category": "research",
+      "compound": "Semax",
+      "title": "Digitally Guided Hybrid Maxillary Expansion with Supragingival Mandibular Miniplates for Class III Correction in Late Adolescents: A Pilot Clinical Study.",
+      "summary": "Published in J Clin Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Clin Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42074872/",
+      "published": "2026-04-17",
+      "tags": [
+        "semax",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "35d6f1d3325b",
+      "category": "research",
+      "compound": "TB-500",
+      "title": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance.",
+      "summary": "Published in Sports Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Sports Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41966639/",
+      "published": "2026-04-12",
+      "tags": [
+        "tb-500",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6aab369139ab",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Peptide Therapies in Thyroid Health: Emerging Applications in Endocrine and Immune Modulation.",
+      "summary": "Published in Integr Med (Encinitas). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Integr Med (Encinitas))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42222211/",
       "published": "2026-04-01",
-      "tags": ["FDA", "compounding", "manufacturing", "regulatory"]
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
     },
     {
-      "id": "peptide-sciences-shutdown-2026",
-      "category": "industry",
-      "compound": "General / vendor landscape",
-      "title": "Peptide Sciences, largest US gray-market research peptide vendor, shuts down",
-      "summary": "Peptide Sciences voluntarily shut down operations on March 6, 2026, amid the shifting regulatory landscape — a sign of consolidation pressure on gray-market vendors as the compounding pathway opens up.",
-      "why_it_matters": "Directly relevant to your affiliate landscape — vendor instability is a recurring theme your community asks about. Worth tracking which vendors survive the shift to the compounding-pharmacy model.",
-      "source": "PeptideLaws.com",
-      "url": "https://peptidelaws.com/news/fda-peptide-regulations-2026",
-      "published": "2026-03-06",
-      "tags": ["vendors", "industry", "gray market"]
+      "id": "1f602cd9e5b4",
+      "category": "research",
+      "compound": "SLU-PP-332",
+      "title": "Chemical optimization of the exercise mimetic SLU-PP-332 enables insight into estrogen-related receptor signaling.",
+      "summary": "Published in Int J Biol Macromol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Biol Macromol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41850449/",
+      "published": "2026-04-01",
+      "tags": [
+        "slu-pp-332",
+        "research",
+        "pubmed"
+      ]
     },
     {
-      "id": "clinicaltrials-retatrutide-knee-oa",
+      "id": "3d5b92d69217",
+      "category": "research",
+      "compound": "SLU-PP-332",
+      "title": "Analysis and Identification of In\u00a0Vitro Metabolites of Exercise Mimetic SLU-PP-332 ERR\u03b1/\u03b2/\u03b3 Agonist for Doping-Control Purposes.",
+      "summary": "Published in Drug Test Anal. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Drug Test Anal)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41688415/",
+      "published": "2026-03-01",
+      "tags": [
+        "slu-pp-332",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6de9856488f1",
+      "category": "research",
+      "compound": "SLU-PP-332",
+      "title": "[Pharmacological Activation of ERR\u03b1/\u03b2/\u03b3 as an Exercise Mimetic: Potential Therapeutic Applications].",
+      "summary": "Published in Rev Med Chil. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Rev Med Chil)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42024694/",
+      "published": "2026-02-01",
+      "tags": [
+        "slu-pp-332",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6d17013c750f",
+      "category": "research",
+      "compound": "Melanotan",
+      "title": "Insights into Tanning Biology and Tanning Products.",
+      "summary": "Published in J Clin Aesthet Dermatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Clin Aesthet Dermatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41890775/",
+      "published": "2026-02-01",
+      "tags": [
+        "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "89cd1011f7cc",
+      "category": "research",
+      "compound": "BAM-15",
+      "title": "BAM 15 Exerts Molluscicidal Effects on Pomacea canaliculata Through the Induction of Oxidative Stress, Impaired Energy Metabolism, and Tissue Damage.",
+      "summary": "Published in Molecules. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Molecules)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41599409/",
+      "published": "2026-01-20",
+      "tags": [
+        "bam-15",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "137e9f6a0e0e",
+      "category": "research",
+      "compound": "KPV",
+      "title": "Inflammation-triggered self-immolative conjugates enable oral peptide delivery by overcoming gastrointestinal barriers.",
+      "summary": "Published in Sci Adv. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Sci Adv)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41533788/",
+      "published": "2026-01-16",
+      "tags": [
+        "kpv",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "db5e4b670501",
       "category": "clinical-trial",
-      "compound": "Retatrutide",
-      "title": "Retatrutide knee osteoarthritis + obesity trial (NCT05931367) completed",
-      "summary": "ClinicalTrials.gov record for the retatrutide trial in participants with obesity/overweight and knee osteoarthritis was marked completed and last updated January 21, 2026. This is the TRIUMPH-4 dataset showing 28.7% body weight loss at 68 weeks.",
-      "why_it_matters": "Primary source record — good for fact-checking content and linking back to the actual registry entry rather than secondary write-ups.",
+      "compound": "retatrutide",
+      "title": "A Study to Investigate the Response of Participants With Type 2 Diabetes Mellitus on Once-Weekly Retatrutide to Hypoglycemia",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-06-18.",
+      "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05931367",
-      "published": "2026-01-21",
-      "tags": ["retatrutide", "clinicaltrials.gov", "osteoarthritis"]
+      "url": "https://clinicaltrials.gov/study/NCT06982846",
+      "published": "2026-01-06",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "06c61b33c7b4",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-06-17.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06383390",
+      "published": "2026-01-06",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
+      "id": "92f07908188c",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) in Participants Without Type 2 Diabetes Who Have Obesity or Overweight",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-06-09.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07357415",
+      "published": "2026-01-06",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
+      "id": "86eb53c8d1fe",
+      "category": "clinical-trial",
+      "compound": "MOTS-c",
+      "title": "Mitophagy and Mitochondrial DNA Dynamics During Ramadan Dry Fasting vs 16:8 Time-Restricted Feeding",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-06-11.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07638696",
+      "published": "2026-01-06",
+      "tags": [
+        "mots-c",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "74ba0972d455",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Neoadjuvant Chemoradiotherapy Combined With PD-1 Inhibitor and Thymalfasin for Locally Advanced Mid-low Rectal Cancer",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-06-18.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06024356",
+      "published": "2026-01-06",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "d10fdcb977d5",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin Alpha 1 Combined With Anti-PD-1 Monoclonal Antibody in Elderly Patients With Advanced Melanoma",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-06-12.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07644897",
+      "published": "2026-01-06",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
+      ]
+    },
+    {
+      "id": "120156eaa612",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "published": "2026-01-05",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "17d1a0da7511",
+      "category": "clinical-trial",
+      "compound": "MOTS-c",
+      "title": "MOTS-c for Improving Insulin Sensitivity in Adults With Prediabetes and Overweight/Obesity",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505745",
+      "published": "2026-01-04",
+      "tags": [
+        "mots-c",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "eec2501f2232",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kissing as a Protective Factor Against Acidic pH in Saliva",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-04-24.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06501729",
+      "published": "2026-01-04",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "0d80080d3f3c",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-04-15.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-04",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
+      "id": "4b49f2d4e621",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "Crosstalk Between Mucosal-Associated Invariant T (MAIT) Cells and the Gut Microbiota and Mucosa in the Development of Type 1 Diabetes in Children",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05054361",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "c3e72ef84dd7",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "a9b4085a86c4",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "a5c14d438cfd",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "TPF Concurrent Chemo-radiotherapy Plus Immunotherapy for Local Advanced Esophageal Squamous Cell Carcinoma",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-04-24.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06401447",
+      "published": "2026-01-04",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
+      "id": "84888b8ca571",
+      "category": "clinical-trial",
+      "compound": "TB-500",
+      "title": "TB-500 (Thymosin Beta 4 17-23 Fragment) for Cardiovascular Biomarkers in Stable ASCVD",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-03-23.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07487363",
+      "published": "2026-01-03",
+      "tags": [
+        "tb-500",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "0b6e7ca3a917",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin for Reduction of Liver Fat in Adults With Fatty Liver Disease (Mock Study)",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-03-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07481734",
+      "published": "2026-01-03",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "4e6d06f4b1a5",
+      "category": "clinical-trial",
+      "compound": "MOTS-c",
+      "title": "Exercise Post-Diagnosis of Breast Cancer",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-03-31.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT04013568",
+      "published": "2026-01-03",
+      "tags": [
+        "mots-c",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "09fb671d5515",
+      "category": "clinical-trial",
+      "compound": "BPC-157",
+      "title": "BPC 157 for Acute Hamstring Muscle Strain Repair",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-02-27.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07437547",
+      "published": "2026-01-02",
+      "tags": [
+        "bpc-157",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "13d72c15ffd0",
+      "category": "clinical-trial",
+      "compound": "GHK-Cu",
+      "title": "Topical GHK-Cu Gel for Acute Skin Wound Healing",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-02-27.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07437586",
+      "published": "2026-01-02",
+      "tags": [
+        "ghk-cu",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "ad9d6c32ed9d",
+      "category": "clinical-trial",
+      "compound": "Melanotan",
+      "title": "Melanotan II (MT-II) as an Adjunct to NB-UVB Phototherapy for Repigmentation in Stable Nonsegmental Vitiligo",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-02-27.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07437560",
+      "published": "2026-01-02",
+      "tags": [
+        "melanotan",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "41ddc5c13e00",
+      "category": "research",
+      "compound": "TB-500",
+      "title": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging.",
+      "summary": "Published in Front Aging. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Aging)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42021992/",
+      "published": "2026-01-01",
+      "tags": [
+        "tb-500",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "b6a3dd687ed1",
+      "category": "research",
+      "compound": "TB-500",
+      "title": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions.",
+      "summary": "Published in J Am Acad Orthop Surg Glob Res Rev. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Am Acad Orthop Surg Glob Res Rev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41490200/",
+      "published": "2026-01-01",
+      "tags": [
+        "tb-500",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "7184a284018a",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "GLP-1 Agonists in Adolescent Obesity: A Narrative Review of Single, Dual, and Triple Agonists.",
+      "summary": "Published in Diabetes Metab Syndr Obes. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Diabetes Metab Syndr Obes)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42318576/",
+      "published": "2026-01-01",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3d472766298a",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "The association between atopic dermatitis and rosacea: a comprehensive review from comorbidities to pathogenic mechanisms.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42327780/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "270dc6186bba",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Neurohormonal-Immune Dysregulation in Rosacea: Emerging Perspectives from the Skin-Gut-Brain Axis.",
+      "summary": "Published in Drug Des Devel Ther. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Drug Des Devel Ther)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42325915/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f4df3f913e77",
+      "category": "clinical-trial",
+      "compound": "SS-31",
+      "title": "FRDA Investigator Initiated Study (IIS) With Elamipretide",
+      "summary": "Status: COMPLETED. Registry entry updated 2025-12-12.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05168774",
+      "published": "2025-01-12",
+      "tags": [
+        "ss-31",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "0905b8f50272",
+      "category": "regulatory",
+      "compound": "BPC-157",
+      "title": "FDA enforcement report: BPC-157 for Injection, 15mg/10mL vial, all presentations, GenoGenix, LLC, 2840 NW 2nd Ave Ste 204 Boca Raton, FL 33431-6",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2025-01-10",
+      "tags": [
+        "bpc-157",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "47ffed4fadbc",
+      "category": "regulatory",
+      "compound": "retatrutide",
+      "title": "FDA enforcement report: Retatrutide for Injection, 60mg / 10mL vial, all presentations, GenoGenix, LLC, 2840 NW 2nd Ave Ste 204 Boca Raton, FL 3",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2025-01-10",
+      "tags": [
+        "retatrutide",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "7dbb4e6829cc",
+      "category": "regulatory",
+      "compound": "tesamorelin",
+      "title": "FDA enforcement report: Tesamorelin for Injection, 15mg, 10 mL Multi-Dose Vial, GenoGenix, LLC, 2840 NW 2nd Ave Ste 204 Boca Raton, FL 33431-669",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2025-01-10",
+      "tags": [
+        "tesamorelin",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "15b2b1858952",
+      "category": "regulatory",
+      "compound": "GHK-Cu",
+      "title": "FDA enforcement report: GHK-Cu (Copper Peptide) for Injection, all strengths and presentations, GenoGenix, LLC, 2840 NW 2nd Ave Ste 204 Boca Rat",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2025-01-10",
+      "tags": [
+        "ghk-cu",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "838c449b15b6",
+      "category": "clinical-trial",
+      "compound": "Selank",
+      "title": "Neural Mechanisms and Efficacy of Imagery Rescripting for Fear of Failure",
+      "summary": "Status: COMPLETED. Registry entry updated 2025-10-02.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07196085",
+      "published": "2025-01-10",
+      "tags": [
+        "selank",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "e86f07bd0d19",
+      "category": "clinical-trial",
+      "compound": "SS-31",
+      "title": "Evaluation of the Regeneration Capacity of Satellite Cells From the Quadriceps Compared to That of the Diaphragm",
+      "summary": "Status: COMPLETED. Registry entry updated 2024-12-06.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05194631",
+      "published": "2024-01-12",
+      "tags": [
+        "ss-31",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "ab9651911879",
+      "category": "clinical-trial",
+      "compound": "Selank",
+      "title": "Effects of PSAPs on Speech Processing",
+      "summary": "Status: COMPLETED. Registry entry updated 2024-12-05.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05076045",
+      "published": "2024-01-12",
+      "tags": [
+        "selank",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "28f1bdcb48cb",
+      "category": "clinical-trial",
+      "compound": "GHK-Cu",
+      "title": "Trial Assessing the Impact on Facial Skin Quality, Hydration, and Skin Barrier of Three (3) Hydrafacial Treatments in Adults of All Skin Types.",
+      "summary": "Status: COMPLETED. Registry entry updated 2024-10-24.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05932732",
+      "published": "2024-01-10",
+      "tags": [
+        "ghk-cu",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "39d85f7cea05",
+      "category": "clinical-trial",
+      "compound": "Selank",
+      "title": "The Study on Effects of Acute Exposure to High Altitude Hypoxia on Cognitive Function in Lowlanders",
+      "summary": "Status: COMPLETED. Registry entry updated 2024-10-15.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05411185",
+      "published": "2024-01-10",
+      "tags": [
+        "selank",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "646fc72f4790",
+      "category": "clinical-trial",
+      "compound": "ARA-290",
+      "title": "The Use of ARA290 for the Treatment of Diabetic Macular Oedema",
+      "summary": "Status: TERMINATED. Registry entry updated 2024-10-04.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06626971",
+      "published": "2024-01-10",
+      "tags": [
+        "ara-290",
+        "clinicaltrials.gov",
+        "terminated"
+      ]
+    },
+    {
+      "id": "7cf234732b81",
+      "category": "research",
+      "compound": "BAM-15",
+      "title": "Endogenous Energy Stores Maintain a High ATP Concentration for Hours in Glucose-Depleted Cultured Primary Rat Astrocytes.",
+      "summary": "Published in Neurochem Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Neurochem Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36914795/",
+      "published": "2023-07-01",
+      "tags": [
+        "bam-15",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a49d3225d545",
+      "category": "research",
+      "compound": "ARA-290",
+      "title": "Mechanistic Approach for Protective Effect of ARA290, a Specific Ligand for the Erythropoietin/CD131 Heteroreceptor, against Cisplatin-Induced Nephrotoxicity, the Involvement of Apoptosis and Inflammation Pathways.",
+      "summary": "Published in Inflammation. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Inflammation)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36085231/",
+      "published": "2023-02-01",
+      "tags": [
+        "ara-290",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a2f9f9c521f5",
+      "category": "research",
+      "compound": "Selank",
+      "title": "Selank, a Peptide Analog of Tuftsin, Attenuates Aversive Signs of Morphine Withdrawal in Rats.",
+      "summary": "Published in Bull Exp Biol Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Bull Exp Biol Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36322304/",
+      "published": "2022-10-01",
+      "tags": [
+        "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6fe8ec206945",
+      "category": "clinical-trial",
+      "compound": "BAM-15",
+      "title": "A Study of Immune System Proteins in Participants With Mild to Moderate COVID-19 Illness",
+      "summary": "Status: COMPLETED. Registry entry updated 2022-07-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT04634409",
+      "published": "2022-01-07",
+      "tags": [
+        "bam-15",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "9ab5b46b6457",
+      "category": "regulatory",
+      "compound": "Melanotan",
+      "title": "FDA enforcement report: Melanotan I 200mcg/mL (2mg/ml), a) 1.5mL-vial, b) 5 mL-vial, Refrigerate, Tailor Made Compounding",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2022-01-07",
+      "tags": [
+        "melanotan",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "b1f2961919fd",
+      "category": "regulatory",
+      "compound": "ARA-290",
+      "title": "FDA enforcement report: ARA-290 (Cibinetide Acetate) 6 mg/mL (4 mL) Injection, 4 mL vials, Rx only, Farmakeio 1736 N Greenville Ave Richardson, ",
+      "summary": "Lack of Assurance of Sterility: deviations from Current Good Manufacturing Practices (CGMP) that call into question the sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2022-01-04",
+      "tags": [
+        "ara-290",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "413ee6139f1b",
+      "category": "regulatory",
+      "compound": "LL-37",
+      "title": "FDA enforcement report: LL-37 2 mg/mL (5 mL) Injection, 5 mL vials, Rx only,  Farmakeio 1736 N Greenville Ave Richardson, TX 75081 USA",
+      "summary": "Lack of Assurance of Sterility: deviations from Current Good Manufacturing Practices (CGMP) that call into question the sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2022-01-04",
+      "tags": [
+        "ll-37",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "2884d1874b8f",
+      "category": "regulatory",
+      "compound": "Melanotan",
+      "title": "FDA enforcement report: Melanotan II 1 mg/mL (10 mL) Injection, 10mL vials, Rx only, Farmakeio 1736 N Greenville Ave Richardson, TX 75081 USA",
+      "summary": "Lack of Assurance of Sterility: deviations from Current Good Manufacturing Practices (CGMP) that call into question the sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2022-01-04",
+      "tags": [
+        "melanotan",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "d7e4f9679500",
+      "category": "research",
+      "compound": "ARA-290",
+      "title": "Synthesis and evaluation of (99m)Tc-DOTA-ARA-290 as potential SPECT tracer for targeting cardiac ischemic region.",
+      "summary": "Published in Iran J Basic Med Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Iran J Basic Med Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35317117/",
+      "published": "2021-11-01",
+      "tags": [
+        "ara-290",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f6327d9de7b7",
+      "category": "research",
+      "compound": "Selank",
+      "title": "Sedative-Hypnotic Agents That Impact Gamma-Aminobutyric Acid Receptors: Focus on Flunitrazepam, Gamma-Hydroxybutyric Acid, Phenibut, and Selank.",
+      "summary": "Published in J Clin Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Clin Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34396551/",
+      "published": "2021-08-01",
+      "tags": [
+        "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "c2b5e52e584e",
+      "category": "regulatory",
+      "compound": "CJC-1295",
+      "title": "FDA enforcement report: CJC-1295 4MG/IPAMORELIN 4MG VIAL 4MG/4MG INJECTABLE, Rx only, Talon Compounding Pharmacy, 2950 Thousand Oaks Drive Ste 2",
+      "summary": "Lack of assurance of sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2021-01-11",
+      "tags": [
+        "cjc-1295",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "056b75751f49",
+      "category": "regulatory",
+      "compound": "Ipamorelin",
+      "title": "FDA enforcement report: SERMORELIN ACETATE 6MG/IPAMORELIN 6MG - LYOPHILIZED   6MG/6MG VIAL, Rx only, Talon Compounding Pharmacy, 2950 Thousand O",
+      "summary": "Lack of assurance of sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2021-01-11",
+      "tags": [
+        "ipamorelin",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "5fddb87ee5a8",
+      "category": "regulatory",
+      "compound": "AOD-9604",
+      "title": "FDA enforcement report: Compounded Lyophilized AOD-9604, 3 mg For subcutaneous or intramuscular injection, Rx Only, Compounded by: Innoveix Addi",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2021-01-07",
+      "tags": [
+        "aod-9604",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "8a15fc3f46cc",
+      "category": "regulatory",
+      "compound": "BPC-157",
+      "title": "FDA enforcement report: BPC-157, 2000 MCG/ML, 5 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
+      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-12",
+      "tags": [
+        "bpc-157",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "42c15aa00148",
+      "category": "regulatory",
+      "compound": "GHK-Cu",
+      "title": "FDA enforcement report: GHK-CU, 10 MG/ML, 5 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
+      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-12",
+      "tags": [
+        "ghk-cu",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "cce5b9db55ad",
+      "category": "regulatory",
+      "compound": "CJC-1295",
+      "title": "FDA enforcement report: CJC-1295, 2000 MCG/ML, 5 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
+      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-12",
+      "tags": [
+        "cjc-1295",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "28dd16df27be",
+      "category": "regulatory",
+      "compound": "LL-37",
+      "title": "FDA enforcement report: LL-37, 2000 MCG/ML, 2 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
+      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-12",
+      "tags": [
+        "ll-37",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "d9d328219bba",
+      "category": "regulatory",
+      "compound": "AOD-9604",
+      "title": "FDA enforcement report: AOD-9604, 1200 MCG/ML, 5 ML vial The Guyer Institute of Molecular Medicine, Indianapolis, IN",
+      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-12",
+      "tags": [
+        "aod-9604",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "31bb9c2ae198",
+      "category": "regulatory",
+      "compound": "CJC-1295",
+      "title": "FDA enforcement report: CJC-1295 2000 mcg/Ipamorelin 2000 mcg/mL Inj. in 2 mL vial  Assurance Infusion (713) 533-8800",
+      "summary": "Lack of sterility assurance.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-01",
+      "tags": [
+        "cjc-1295",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "62e99b081eb1",
+      "category": "regulatory",
+      "compound": "BPC-157",
+      "title": "FDA enforcement report: BPC 157, 10mg injection, Rx Only, Promise Pharmacy Compounding Specialists 31818 US Hwy 19N, Palm Harbor, FL 34684",
+      "summary": "Lack of sterility assurance.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2019-01-02",
+      "tags": [
+        "bpc-157",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "da6c01c4f107",
+      "category": "regulatory",
+      "compound": "Melanotan",
+      "title": "FDA enforcement report: Melanotan II, 10mg injection, Rx Only, Promise Pharmacy Compounding Specialists 31818 US Hwy 19N, Palm Harbor, FL 34684",
+      "summary": "Lack of sterility assurance.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2019-01-02",
+      "tags": [
+        "melanotan",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "3cef1c5445b8",
+      "category": "regulatory",
+      "compound": "tesamorelin",
+      "title": "FDA enforcement report: Tesamorelin, 1mg/vial, 6mL vial, Lyophilized Powder for Reconstitution and Subcutaneous Injection, Rx Only, Tailor Made ",
+      "summary": "Labeling: Incorrect or Missing Lot and/or Expiration Date; vial indicates a 1 year expiration date instead of a 6 month expiration date",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2018-01-11",
+      "tags": [
+        "tesamorelin",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "787c9b5f2026",
+      "category": "regulatory",
+      "compound": "Ipamorelin",
+      "title": "FDA enforcement report: Ipamorelin 3 mg Lyophilized 1 vial 1109 East Hallandale Beach Blvd. Hallandale Beach, FL 33009",
+      "summary": "Lack of assurance of sterility.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2018-01-09",
+      "tags": [
+        "ipamorelin",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "42e10c6f8cb6",
+      "category": "clinical-trial",
+      "compound": "Ipamorelin",
+      "title": "Safety and Efficacy of Ipamorelin for Management of Post-Operative Ileus",
+      "summary": "Status: COMPLETED. Registry entry updated 2017-04-14.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT00672074",
+      "published": "2017-01-04",
+      "tags": [
+        "ipamorelin",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "13622bce2064",
+      "category": "clinical-trial",
+      "compound": "Ipamorelin",
+      "title": "Safety and Efficacy of Ipamorelin Compared to Placebo for the Recovery of Gastrointestinal Function",
+      "summary": "Status: COMPLETED. Registry entry updated 2017-04-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT01280344",
+      "published": "2017-01-04",
+      "tags": [
+        "ipamorelin",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "53b3c6c29554",
+      "category": "clinical-trial",
+      "compound": "ARA-290",
+      "title": "Study of Efficacy of ARA 290 on Corneal Nerve Fiber Density and Neuropathic Symptoms of Subjects With Sarcoidosis",
+      "summary": "Status: COMPLETED. Registry entry updated 2017-04-18.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT02039687",
+      "published": "2017-01-04",
+      "tags": [
+        "ara-290",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "9cb1edf913c9",
+      "category": "research",
+      "compound": "PE-22-28",
+      "title": "Shortened Spadin Analogs Display Better TREK-1 Inhibition, In Vivo Stability and Antidepressant Activity.",
+      "summary": "Published in Front Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28955242/",
+      "published": "2017-01-01",
+      "tags": [
+        "pe-22-28",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "2a845e56a85c",
+      "category": "research",
+      "compound": "AOD-9604",
+      "title": "Simplifying and expanding the screening for peptides <2 kDa by direct urine injection, liquid chromatography, and ion mobility mass spectrometry.",
+      "summary": "Published in J Sep Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Sep Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26578461/",
+      "published": "2016-01-01",
+      "tags": [
+        "aod-9604",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "1586d417b274",
+      "category": "clinical-trial",
+      "compound": "BPC-157",
+      "title": "PCO-02 - Safety and Pharmacokinetics Trial",
+      "summary": "Status: UNKNOWN. Registry entry updated 2015-12-22.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT02637284",
+      "published": "2015-01-12",
+      "tags": [
+        "bpc-157",
+        "clinicaltrials.gov",
+        "unknown"
+      ]
+    },
+    {
+      "id": "ac10207bd0df",
+      "category": "clinical-trial",
+      "compound": "ARA-290",
+      "title": "ARA290 in T2D (Effects of ARA 290, an Erythropoietin Analogue) in Prediabetes and Type 2 Diabetes)",
+      "summary": "Status: UNKNOWN. Registry entry updated 2015-09-03.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT01933529",
+      "published": "2015-01-09",
+      "tags": [
+        "ara-290",
+        "clinicaltrials.gov",
+        "unknown"
+      ]
+    },
+    {
+      "id": "a8ae9bb256a1",
+      "category": "clinical-trial",
+      "compound": "CJC-1295",
+      "title": "A Study to Evaluate CJC 1295 in HIV Patients With Visceral Obesity",
+      "summary": "Status: TERMINATED. Registry entry updated 2006-10-16.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT00267527",
+      "published": "2006-01-10",
+      "tags": [
+        "cjc-1295",
+        "clinicaltrials.gov",
+        "terminated"
+      ]
     }
   ]
 }
