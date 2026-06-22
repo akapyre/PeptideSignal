@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PYRE / SIGNAL — Peptide Research Monitor</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap');
+
+  :root {
+    --bg: #0a0d0c;
+    --bg-raised: #10140f;
+    --surface: #161c17;
+    --border: #2a352c;
+    --border-bright: #3d5c4a;
+    --text: #e8efe9;
+    --text-dim: #8fa698;
+    --text-faint: #5c7065;
+    --accent: #7de8a4;
+    --accent-dim: #4d8a68;
+    --alert: #ff9966;
+    --alert-dim: #8a5c40;
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'Inter', sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    background-image:
+      radial-gradient(circle at 20% 0%, rgba(125, 232, 164, 0.04), transparent 45%),
+      radial-gradient(circle at 80% 100%, rgba(125, 232, 164, 0.03), transparent 50%);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; }
+  }
+
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible, input:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  .wrap { max-width: 760px; margin: 0 auto; padding: 0 20px 80px; }
+
+  header { padding: 48px 0 0; }
+
+  .brand-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .brand {
+    font-family: var(--mono);
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0.04em;
+    color: var(--text);
+  }
+  .brand span { color: var(--accent); }
+
+  .tagline {
+    font-family: var(--sans);
+    color: var(--text-dim);
+    font-size: 14px;
+    margin-top: 4px;
+  }
+
+  .sync-strip {
+    margin-top: 28px;
+    border: 1px solid var(--border-bright);
+    background: var(--bg-raised);
+    border-radius: 3px;
+    padding: 12px 16px;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--accent);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    position: relative;
+    overflow: hidden;
+  }
+  .sync-strip::before {
+    content: '';
+    position: absolute;
+    top: 0; left: -100%;
+    width: 60%; height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(125,232,164,0.08), transparent);
+    animation: scan 4s ease-in-out infinite;
+  }
+  @keyframes scan {
+    0% { left: -60%; }
+    100% { left: 100%; }
+  }
+  .sync-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px var(--accent);
+    flex-shrink: 0;
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+  .sync-strip .sep { color: var(--text-faint); }
+  .sync-strip .label { color: var(--text-dim); }
+
+  .filters {
+    margin-top: 24px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .filter-btn {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    padding: 7px 12px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s, background 0.15s;
+  }
+  .filter-btn:hover { border-color: var(--border-bright); color: var(--text); }
+  .filter-btn.active {
+    border-color: var(--accent-dim);
+    color: var(--accent);
+    background: rgba(125, 232, 164, 0.06);
+  }
+
+  .search-row { margin-top: 12px; }
+  .search-input {
+    width: 100%;
+    background: var(--bg-raised);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 14px;
+    padding: 10px 12px;
+    border-radius: 3px;
+  }
+  .search-input::placeholder { color: var(--text-faint); }
+
+  .feed { margin-top: 32px; display: flex; flex-direction: column; gap: 14px; }
+
+  .card {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    border-radius: 4px;
+    padding: 20px;
+    position: relative;
+    transition: border-color 0.2s;
+  }
+  .card:hover { border-color: var(--border-bright); }
+  .card::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 2px;
+    background: var(--accent-dim);
+    border-radius: 4px 0 0 4px;
+  }
+  .card[data-category="regulatory"]::before { background: var(--alert-dim); }
+
+  .card-top {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+  }
+
+  .tag {
+    font-family: var(--mono);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 3px 7px;
+    border-radius: 2px;
+    border: 1px solid var(--border-bright);
+    color: var(--accent);
+    background: rgba(125, 232, 164, 0.05);
+  }
+  .tag.regulatory { color: var(--alert); border-color: var(--alert-dim); background: rgba(255, 153, 102, 0.06); }
+
+  .compound-label {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    color: var(--text-faint);
+    text-transform: uppercase;
+  }
+
+  .date-label {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text-faint);
+    margin-left: auto;
+  }
+
+  .card h3 {
+    font-family: var(--sans);
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0 0 8px;
+    color: var(--text);
+    line-height: 1.35;
+  }
+
+  .card p.summary {
+    font-size: 14px;
+    color: var(--text-dim);
+    margin: 0 0 12px;
+  }
+
+  .why-box {
+    border-left: 2px solid var(--border-bright);
+    padding: 8px 0 8px 12px;
+    margin: 12px 0;
+    font-size: 13px;
+    color: var(--text);
+  }
+  .why-box .why-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 12px;
+  }
+  .source-label { color: var(--text-faint); font-family: var(--mono); font-size: 11px; }
+  .read-link { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; }
+
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-faint);
+    font-family: var(--mono);
+    font-size: 13px;
+    border: 1px dashed var(--border);
+    border-radius: 4px;
+  }
+
+  footer {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text-faint);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  @media (max-width: 600px) {
+    .wrap { padding: 0 14px 60px; }
+    header { padding-top: 32px; }
+    .brand { font-size: 19px; }
+    .date-label { margin-left: 0; width: 100%; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="brand-row">
+      <div>
+        <div class="brand">PYRE / <span>SIGNAL</span></div>
+        <div class="tagline">Peptide research &amp; regulatory monitor — built for the PYRE community</div>
+      </div>
+    </div>
+
+    <div class="sync-strip" id="syncStrip">
+      <span class="sync-dot"></span>
+      <span class="label">SYNC</span>
+      <span id="syncTime">—</span>
+      <span class="sep">·</span>
+      <span id="entryCount">—</span>
+      <span class="sep">·</span>
+      <span class="label">NEXT SCAN</span>
+      <span id="nextScan">12H</span>
+    </div>
+
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="regulatory">Regulatory</button>
+      <button class="filter-btn" data-filter="clinical-trial">Clinical Trials</button>
+      <button class="filter-btn" data-filter="research">Research</button>
+      <button class="filter-btn" data-filter="industry">Industry</button>
+      <button class="filter-btn" data-filter="news">News</button>
+    </div>
+
+    <div class="search-row">
+      <input class="search-input" id="searchInput" type="text" placeholder="Search by compound — e.g. BPC-157, retatrutide, MOTS-c" />
+    </div>
+  </header>
+
+  <main class="feed" id="feed">
+    <!-- populated by JS -->
+  </main>
+
+  <footer>
+    <span>PYRE SIGNAL — auto-aggregated from PubMed, ClinicalTrials.gov, FDA &amp; news sources</span>
+    <span>Not medical advice. Verify primary sources.</span>
+  </footer>
+
+</div>
+
+<script>
+  const categoryLabels = {
+    "regulatory": "Regulatory",
+    "clinical-trial": "Clinical Trial",
+    "research": "Research",
+    "industry": "Industry",
+    "news": "News"
+  };
+
+  function formatDate(iso) {
+    if (!iso) return "";
+    const d = new Date(iso + "T00:00:00Z");
+    if (isNaN(d.getTime())) return iso;
+    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+  }
+
+  function timeAgo(generatedAt) {
+    const then = new Date(generatedAt);
+    const now = new Date();
+    const diffMs = now - then;
+    const hours = Math.floor(diffMs / 3600000);
+    if (hours < 1) return "just now";
+    if (hours === 1) return "1 hour ago";
+    if (hours < 24) return `${hours} hours ago`;
+    const days = Math.floor(hours / 24);
+    return `${days} day${days > 1 ? 's' : ''} ago`;
+  }
+
+  function renderSyncStrip(data) {
+    document.getElementById('syncTime').textContent =
+      data.generated_at + " (" + timeAgo(data.generated_at) + ")";
+    document.getElementById('entryCount').textContent = data.items.length + " ENTRIES";
+  }
+
+  function cardHTML(item) {
+    const catClass = item.category === 'regulatory' ? 'regulatory' : '';
+    const whyBlock = item.why_it_matters
+      ? `<div class="why-box"><span class="why-label">Why it matters for your content</span>${escapeHTML(item.why_it_matters)}</div>`
+      : '';
+    return `
+      <article class="card" data-category="${item.category}">
+        <div class="card-top">
+          <span class="tag ${catClass}">${categoryLabels[item.category] || item.category}</span>
+          <span class="compound-label">${escapeHTML(item.compound)}</span>
+          <span class="date-label">${formatDate(item.published)}</span>
+        </div>
+        <h3>${escapeHTML(item.title)}</h3>
+        <p class="summary">${escapeHTML(item.summary)}</p>
+        ${whyBlock}
+        <div class="card-footer">
+          <span class="source-label">${escapeHTML(item.source)}</span>
+          <a class="read-link" href="${item.url}" target="_blank" rel="noopener noreferrer">View source →</a>
+        </div>
+      </article>
+    `;
+  }
+
+  function escapeHTML(str) {
+    const div = document.createElement('div');
+    div.textContent = str || '';
+    return div.innerHTML;
+  }
+
+  let activeFilter = 'all';
+  let searchTerm = '';
+  let NEWS_DATA = { generated_at: null, items: [] };
+
+  function applyFilters() {
+    const feed = document.getElementById('feed');
+    let items = NEWS_DATA.items;
+
+    if (activeFilter !== 'all') {
+      items = items.filter(i => i.category === activeFilter);
+    }
+    if (searchTerm.trim()) {
+      const t = searchTerm.toLowerCase();
+      items = items.filter(i =>
+        (i.compound || '').toLowerCase().includes(t) ||
+        (i.title || '').toLowerCase().includes(t) ||
+        (i.tags || []).some(tag => tag.toLowerCase().includes(t))
+      );
+    }
+
+    if (items.length === 0) {
+      feed.innerHTML = `<div class="empty-state">NO MATCHING ENTRIES<br>Try a different filter or search term.</div>`;
+      return;
+    }
+
+    feed.innerHTML = items.map(cardHTML).join('');
+  }
+
+  async function loadNews() {
+    const feed = document.getElementById('feed');
+    feed.innerHTML = `<div class="empty-state">LOADING SIGNAL FEED…</div>`;
+    try {
+      const res = await fetch('data/news.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      NEWS_DATA = await res.json();
+      renderSyncStrip(NEWS_DATA);
+      applyFilters();
+    } catch (err) {
+      feed.innerHTML = `<div class="empty-state">COULD NOT LOAD FEED<br>${escapeHTML(err.message)}<br>Check that data/news.json exists and is reachable.</div>`;
+    }
+  }
+
+  document.getElementById('filters').addEventListener('click', (e) => {
+    const btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    applyFilters();
+  });
+
+  document.getElementById('searchInput').addEventListener('input', (e) => {
+    searchTerm = e.target.value;
+    applyFilters();
+  });
+
+  loadNews();
+</script>
+</body>
+</html>
