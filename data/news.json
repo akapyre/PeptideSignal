@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-06-18T09:00:00Z",
+  "items": [
+    {
+      "id": "fda-cat2-reclass-2026",
+      "category": "regulatory",
+      "compound": "BPC-157, TB-500, CJC-1295, Ipamorelin, GHK-Cu, Selank, Semax, MOTS-c, Thymosin Alpha-1, AOD-9604, KPV",
+      "title": "FDA moves 14 peptides off the restricted compounding list",
+      "summary": "HHS Secretary RFK Jr. announced that roughly 14 of the 19 peptides on FDA's Category 2 restricted compounding list — including BPC-157, TB-500, CJC-1295, and Ipamorelin — are being shifted back to Category 1, effective April 23, 2026. The FDA's Pharmacy Compounding Advisory Committee will formally review the change at its July 23–24 meeting. Five peptides, including Melanotan II, GHRP-2, GHRP-6, LL-37, and PEG-MGF, remain restricted.",
+      "why_it_matters": "This is the single biggest regulatory shift for compounded peptides since the 2023 ban. It doesn't mean FDA approval — it means compounding pharmacies can prepare these again under 503A/503B with a prescription. Good explainer content opportunity: 'reclassified' vs 'approved' is a distinction most of your audience is getting wrong right now.",
+      "source": "Pharmacy Times / Washington Post / Amanecia Health",
+      "url": "https://www.pharmacytimes.com/view/the-peptide-reclassification-everyone-s-talking-about-a-pharmacist-s-take-on-what-rfk-jr-s-announcement-actually-means",
+      "published": "2026-04-27",
+      "tags": ["FDA", "compounding", "legal status", "BPC-157", "TB-500"]
+    },
+    {
+      "id": "retatrutide-triumph1-may2026",
+      "category": "clinical-trial",
+      "compound": "Retatrutide",
+      "title": "TRIUMPH-1 Phase 3 results: up to 30% body weight loss at 80 weeks",
+      "summary": "Eli Lilly's TRIUMPH-1 trial (2,339 participants) showed average weight loss of 17.6% on 4mg, 23.7% on 9mg, and 25.0% on 12mg at 80 weeks, with participants with severe obesity on the highest dose losing up to 30% over two years. Discontinuation due to adverse events was 4.1–11.3% depending on dose, vs 4.9% on placebo. This is the dataset Lilly plans to anchor its FDA submission on.",
+      "why_it_matters": "You're personally running a retatrutide protocol — this is the most rigorous human data yet on dosing tolerance and efficacy at the doses your community asks about. Strong source for a 'what the actual trial data says vs. what TikTok says' video.",
+      "source": "Eli Lilly / Scientific American / The Pharmaceutical Journal",
+      "url": "https://www.scientificamerican.com/article/next-gen-weight-loss-drug-retatrutide-trial-brings-it-one-step-closer-to-fda-approval/",
+      "published": "2026-05-21",
+      "tags": ["retatrutide", "GLP-1", "weight loss", "phase 3"]
+    },
+    {
+      "id": "pubmed-mots-c-mitochondrial-2026",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "New review on MOTS-c and mitochondrial-derived peptide signaling",
+      "summary": "Recent literature continues to build out MOTS-c's role as a mitochondrial-derived peptide involved in metabolic stress response and exercise adaptation signaling pathways.",
+      "why_it_matters": "MOTS-c is one of your more requested 'mechanism deep dive' topics — useful citation-backed material for a Skool classroom post rather than TikTok claims.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=MOTS-c+mitochondrial+peptide",
+      "published": "2026-05-01",
+      "tags": ["MOTS-c", "mitochondrial", "research"]
+    },
+    {
+      "id": "fda-compounding-tightening-summit-2026",
+      "category": "regulatory",
+      "compound": "General / bulk drug substances",
+      "title": "FDA simultaneously tightening manufacturing-side rules even as access expands",
+      "summary": "While Category 2 reclassification opens compounding access for specific peptides, the FDA is separately enforcing stricter bulk drug substance rules for compounding pharmacies, raising the bar on manufacturing standards industry-wide.",
+      "why_it_matters": "Important nuance for your audience: 'more legal' and 'less regulated' are not the same thing. Good talking point to push back on oversimplified 'peptides are unbanned' takes circulating right now.",
+      "source": "Peptide Drug Summit 2026",
+      "url": "https://www.peptide-drug-summit.com/news/new-fda-rules-are-reshaping-the-peptide-industry",
+      "published": "2026-04-01",
+      "tags": ["FDA", "compounding", "manufacturing", "regulatory"]
+    },
+    {
+      "id": "peptide-sciences-shutdown-2026",
+      "category": "industry",
+      "compound": "General / vendor landscape",
+      "title": "Peptide Sciences, largest US gray-market research peptide vendor, shuts down",
+      "summary": "Peptide Sciences voluntarily shut down operations on March 6, 2026, amid the shifting regulatory landscape — a sign of consolidation pressure on gray-market vendors as the compounding pathway opens up.",
+      "why_it_matters": "Directly relevant to your affiliate landscape — vendor instability is a recurring theme your community asks about. Worth tracking which vendors survive the shift to the compounding-pharmacy model.",
+      "source": "PeptideLaws.com",
+      "url": "https://peptidelaws.com/news/fda-peptide-regulations-2026",
+      "published": "2026-03-06",
+      "tags": ["vendors", "industry", "gray market"]
+    },
+    {
+      "id": "clinicaltrials-retatrutide-knee-oa",
+      "category": "clinical-trial",
+      "compound": "Retatrutide",
+      "title": "Retatrutide knee osteoarthritis + obesity trial (NCT05931367) completed",
+      "summary": "ClinicalTrials.gov record for the retatrutide trial in participants with obesity/overweight and knee osteoarthritis was marked completed and last updated January 21, 2026. This is the TRIUMPH-4 dataset showing 28.7% body weight loss at 68 weeks.",
+      "why_it_matters": "Primary source record — good for fact-checking content and linking back to the actual registry entry rather than secondary write-ups.",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05931367",
+      "published": "2026-01-21",
+      "tags": ["retatrutide", "clinicaltrials.gov", "osteoarthritis"]
+    }
+  ]
+}
