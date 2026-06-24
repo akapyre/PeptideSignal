@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T22:48:07Z",
+  "generated_at": "2026-06-24T13:57:17Z",
   "items": [
     {
       "id": "07529432959b",
@@ -29,6 +29,38 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "998ac4ab1a76",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "The evolution and functional significance of neuropeptide cocktails: insights from SALMFamides in asteroid echinoderms.",
+      "summary": "Published in Open Biol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Open Biol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42336389/",
+      "published": "2026-06-24",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3c9c7152cbda",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "GABAergic signaling from arginine vasopressin neurons in the suprachiasmatic nucleus is essential for maintaining the estrous cycle in mice.",
+      "summary": "Published in J Neurosci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Neurosci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42336663/",
+      "published": "2026-06-23",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -98,22 +130,6 @@
       ]
     },
     {
-      "id": "3ae5347e91ad",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "A synaptoid connectome differentiates tanycytic subpopulations and underlies neuroglial communication and neuroendocrine regulation.",
-      "summary": "Published in Nat Commun. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Nat Commun)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42323316/",
-      "published": "2026-06-20",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "e36172071dbb",
       "category": "research",
       "compound": "MOTS-c",
@@ -141,22 +157,6 @@
       "published": "2026-06-16",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "36929bdcf98c",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Hormonal regulation of metabolic and reproductive homeostasis in transition dairy cows: Current insights and future perspectives.",
-      "summary": "Published in Anim Reprod Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Anim Reprod Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42322727/",
-      "published": "2026-06-16",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -658,22 +658,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -687,6 +671,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -770,22 +770,6 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
-      ]
-    },
-    {
       "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -799,6 +783,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "a9b4085a86c4",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
       ]
     },
     {
