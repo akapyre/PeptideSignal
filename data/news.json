@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T13:53:21Z",
+  "generated_at": "2026-06-25T23:03:05Z",
   "items": [
     {
       "id": "07529432959b",
@@ -29,38 +29,6 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "998ac4ab1a76",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "The evolution and functional significance of neuropeptide cocktails: insights from SALMFamides in asteroid echinoderms.",
-      "summary": "Published in Open Biol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Open Biol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42336389/",
-      "published": "2026-06-24",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "3c9c7152cbda",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "GABAergic signaling from arginine vasopressin neurons in the suprachiasmatic nucleus is essential for maintaining the estrous cycle in mice.",
-      "summary": "Published in J Neurosci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Neurosci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42336663/",
-      "published": "2026-06-23",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -194,6 +162,22 @@
       ]
     },
     {
+      "id": "de8f5a8c1025",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Biochemical, Immunohistochemical and Behavioral Effects of Spexin in a Methimazole-Induced Hypothyroidism Rat Model.",
+      "summary": "Published in Biology (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biology (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42345788/",
+      "published": "2026-06-15",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "7ce2fe9529e2",
       "category": "research",
       "compound": "Thymosin Alpha-1",
@@ -237,6 +221,22 @@
       "published": "2026-06-09",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "7b70c19a8f45",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin as a Precision Biomarker in Personalized Pharmacy: Implications for Individualized Monitoring of Early Pregnancy Viability.",
+      "summary": "Published in Pharmacy (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Pharmacy (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42347060/",
+      "published": "2026-06-09",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
