@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T22:49:52Z",
+  "generated_at": "2026-06-25T13:53:21Z",
   "items": [
     {
       "id": "07529432959b",
@@ -210,6 +210,22 @@
       ]
     },
     {
+      "id": "0d25909e6e70",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "[Effect of acupuncture on ovarian function in rats with premature ovarian insufficiency based on kisspeptin/GPR54 pathway].",
+      "summary": "Published in Zhongguo Zhen Jiu. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Zhongguo Zhen Jiu)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42343523/",
+      "published": "2026-06-12",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "988394879a0e",
       "category": "research",
       "compound": "retatrutide",
@@ -253,6 +269,22 @@
       "published": "2026-06-01",
       "tags": [
         "ara-290",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6443b4d00f46",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin \u03b11 Augments CD8\u207a T-Cell Activation and Reverses Exhaustion In Vitro.",
+      "summary": "Published in Asian Pac J Cancer Prev. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Asian Pac J Cancer Prev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42345155/",
+      "published": "2026-06-01",
+      "tags": [
+        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
@@ -381,22 +413,6 @@
       "published": "2026-05-01",
       "tags": [
         "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "7d8ff6180f71",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "IL-15 Plus Thymosin \u03b11 Reduces Senescent Hepatic CD8(+) T Cells in Hepatocellular Carcinoma via PI3K/AKT Suppression.",
-      "summary": "Published in J Gastroenterol Hepatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Gastroenterol Hepatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41883056/",
-      "published": "2026-05-01",
-      "tags": [
-        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
@@ -770,22 +786,6 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -799,6 +799,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "c3e72ef84dd7",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
