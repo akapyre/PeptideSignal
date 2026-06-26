@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-25T23:03:05Z",
+  "generated_at": "2026-06-26T13:35:35Z",
   "items": [
+    {
+      "id": "faaf9fd9f129",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Pre-qualifications, learning strategies, and study satisfaction among medical students: insights from a multicenter German study.",
+      "summary": "Published in Med Educ Online. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Med Educ Online)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42357949/",
+      "published": "2026-12-31",
+      "tags": [
+        "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
     {
       "id": "07529432959b",
       "category": "research",
@@ -29,6 +45,22 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "bc77ba74747a",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Circulating mitochondrial-derived microproteins at rest and in response to an acute bout of endurance exercise in individuals with cerebral palsy.",
+      "summary": "Published in Exp Physiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Exp Physiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42349896/",
+      "published": "2026-06-25",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
@@ -66,22 +98,6 @@
       ]
     },
     {
-      "id": "24d232c8ab38",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Immunomodulatory and Gut Microbiota-Regulating Effects of Lactobacillus helveticus LH76 in Healthy Adults: Preclinical Safety Assessment and a Randomized, Double-Blind, Placebo-Controlled Trial.",
-      "summary": "Published in Probiotics Antimicrob Proteins. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Probiotics Antimicrob Proteins)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42329317/",
-      "published": "2026-06-22",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "ed8810394bd7",
       "category": "research",
       "compound": "SS-31",
@@ -109,6 +125,22 @@
       "published": "2026-06-19",
       "tags": [
         "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "8b6818408973",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "\u03b2-Amyloid (A\u03b2) and Human Cathelicidin LL-37: Two Sides of the Same Coin?",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42353177/",
+      "published": "2026-06-17",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -210,6 +242,22 @@
       ]
     },
     {
+      "id": "8310d6ef16ad",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "The Role of Vitamin D in Modulating the Innate Immune Response in Children with Vesicoureteral Reflux.",
+      "summary": "Published in Children (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Children (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42353981/",
+      "published": "2026-06-12",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "988394879a0e",
       "category": "research",
       "compound": "retatrutide",
@@ -237,22 +285,6 @@
       "published": "2026-06-09",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "7899dda690cb",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Redox imbalance and mitochondrial dysfunction in gestational diabetes mellitus: Implications for maternal health, placental function, and offspring metabolic programming.",
-      "summary": "Published in Free Radic Biol Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Free Radic Biol Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42242082/",
-      "published": "2026-06-04",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
@@ -306,6 +338,22 @@
       ]
     },
     {
+      "id": "4f580584a9e0",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Unilateral Adrenalectomy, and the Stable Pentadecapeptide BPC 157 as Therapy in Rats-A Cytoprotection Approach.",
+      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Pharmaceuticals (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42356491/",
+      "published": "2026-05-30",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "eba965a467ba",
       "category": "research",
       "compound": "BPC-157",
@@ -349,22 +397,6 @@
       "published": "2026-05-26",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "52b956a1a1a3",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Reduced Circulating MOTS-c Levels in Hashimoto's Thyroiditis Reflect Integrated Autoimmune and Metabolic Dysregulation: A Cross-Sectional Study.",
-      "summary": "Published in J Clin Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Clin Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42278864/",
-      "published": "2026-05-22",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
@@ -466,22 +498,6 @@
       ]
     },
     {
-      "id": "6aab369139ab",
-      "category": "research",
-      "compound": "BPC-157",
-      "title": "Peptide Therapies in Thyroid Health: Emerging Applications in Endocrine and Immune Modulation.",
-      "summary": "Published in Integr Med (Encinitas). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Integr Med (Encinitas))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42222211/",
-      "published": "2026-04-01",
-      "tags": [
-        "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "1f602cd9e5b4",
       "category": "research",
       "compound": "SLU-PP-332",
@@ -493,6 +509,22 @@
       "published": "2026-04-01",
       "tags": [
         "slu-pp-332",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6aab369139ab",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Peptide Therapies in Thyroid Health: Emerging Applications in Endocrine and Immune Modulation.",
+      "summary": "Published in Integr Med (Encinitas). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Integr Med (Encinitas))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42222211/",
+      "published": "2026-04-01",
+      "tags": [
+        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
@@ -674,22 +706,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -703,6 +719,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -978,30 +1010,14 @@
       ]
     },
     {
-      "id": "3d472766298a",
+      "id": "2aa6d39026a5",
       "category": "research",
       "compound": "LL-37",
-      "title": "The association between atopic dermatitis and rosacea: a comprehensive review from comorbidities to pathogenic mechanisms.",
+      "title": "Immunomodulatory effects of synthetic antimicrobial peptides on LPS-induced inflammatory responses in THP-1 macrophages.",
       "summary": "Published in Front Immunol. See abstract for full findings.",
       "why_it_matters": "",
       "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42327780/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "270dc6186bba",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Neurohormonal-Immune Dysregulation in Rosacea: Emerging Perspectives from the Skin-Gut-Brain Axis.",
-      "summary": "Published in Drug Des Devel Ther. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Drug Des Devel Ther)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42325915/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42358966/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
