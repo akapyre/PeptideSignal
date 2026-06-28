@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T21:44:30Z",
+  "generated_at": "2026-06-28T12:01:23Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -45,6 +45,38 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "9a968785d1d6",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin-2 stimulates testicular function in adult pejerrey (Odontesthes bonariensis): Does it act directly on the testes?",
+      "summary": "Published in Comp Biochem Physiol A Mol Integr Physiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Comp Biochem Physiol A Mol Integr Physiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42364900/",
+      "published": "2026-06-27",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "998287213a5e",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin-10/basal LH ratio improves differentiation of central precocious puberty and premature thelarche.",
+      "summary": "Published in Clin Chim Acta. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Clin Chim Acta)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42364891/",
+      "published": "2026-06-27",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -194,22 +226,6 @@
       ]
     },
     {
-      "id": "de8f5a8c1025",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Biochemical, Immunohistochemical and Behavioral Effects of Spexin in a Methimazole-Induced Hypothyroidism Rat Model.",
-      "summary": "Published in Biology (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biology (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42345788/",
-      "published": "2026-06-15",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "7ce2fe9529e2",
       "category": "research",
       "compound": "Thymosin Alpha-1",
@@ -221,22 +237,6 @@
       "published": "2026-06-15",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "0d25909e6e70",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "[Effect of acupuncture on ovarian function in rats with premature ovarian insufficiency based on kisspeptin/GPR54 pathway].",
-      "summary": "Published in Zhongguo Zhen Jiu. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Zhongguo Zhen Jiu)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42343523/",
-      "published": "2026-06-12",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
