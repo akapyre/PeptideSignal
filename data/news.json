@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T22:19:45Z",
+  "generated_at": "2026-06-30T12:33:46Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -13,6 +13,22 @@
       "published": "2026-12-31",
       "tags": [
         "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0c5da516293b",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Antimicrobial peptoids pass rapidly through bacterial membranes and flocculate ribosomes and DNA: A single-cell fluorescence study.",
+      "summary": "Published in Proc Natl Acad Sci U S A. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Proc Natl Acad Sci U S A)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42372144/",
+      "published": "2026-07-07",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -61,6 +77,22 @@
       "published": "2026-06-29",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6e6b59c18d66",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Stress as a Neuroendocrine Modulator of the Reproductive Axis: Roles of Glucocorticoids, Kisspeptin and Serotonergic Signalling in Animal Models.",
+      "summary": "Published in Neuroendocrinology. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Neuroendocrinology)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42371829/",
+      "published": "2026-06-29",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -178,22 +210,6 @@
       ]
     },
     {
-      "id": "8b6818408973",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "\u03b2-Amyloid (A\u03b2) and Human Cathelicidin LL-37: Two Sides of the Same Coin?",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42353177/",
-      "published": "2026-06-17",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "49050884692f",
       "category": "research",
       "compound": "retatrutide",
@@ -269,22 +285,6 @@
       "published": "2026-06-12",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "7b70c19a8f45",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin as a Precision Biomarker in Personalized Pharmacy: Implications for Individualized Monitoring of Early Pregnancy Viability.",
-      "summary": "Published in Pharmacy (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Pharmacy (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42347060/",
-      "published": "2026-06-09",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -674,6 +674,22 @@
       ]
     },
     {
+      "id": "ec3dab912a6b",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin-\u03b11 for Recurrent Implantation Failure",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-06-30.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07675980",
+      "published": "2026-01-06",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "74ba0972d455",
       "category": "clinical-trial",
       "compound": "Thymosin Alpha-1",
@@ -818,22 +834,6 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -850,19 +850,19 @@
       ]
     },
     {
-      "id": "a5c14d438cfd",
+      "id": "c3e72ef84dd7",
       "category": "clinical-trial",
-      "compound": "Thymosin Alpha-1",
-      "title": "TPF Concurrent Chemo-radiotherapy Plus Immunotherapy for Local Advanced Esophageal Squamous Cell Carcinoma",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-04-24.",
+      "compound": "LL-37",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06401447",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
       "published": "2026-01-04",
       "tags": [
-        "thymosin alpha-1",
+        "ll-37",
         "clinicaltrials.gov",
-        "active_not_recruiting"
+        "recruiting"
       ]
     },
     {
