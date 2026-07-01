@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T22:54:19Z",
+  "generated_at": "2026-07-01T13:58:36Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -18,6 +18,22 @@
       ]
     },
     {
+      "id": "621865e9e550",
+      "category": "research",
+      "compound": "tesamorelin",
+      "title": "The effect of growth hormone-releasing hormone on cognition and brain connectivity in adults with cognition ranging from normal to mild cognitive impairment.",
+      "summary": "Published in eNeurologicalSci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (eNeurologicalSci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42382101/",
+      "published": "2026-09-01",
+      "tags": [
+        "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "0c5da516293b",
       "category": "research",
       "compound": "LL-37",
@@ -27,6 +43,22 @@
       "source": "PubMed (Proc Natl Acad Sci U S A)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42372144/",
       "published": "2026-07-07",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "8d233a43fb0d",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Corrigendum to \"Oroxylin A suppress LL-37 generated rosacea-like skin inflammation through the modulation of SIRT3-SOD2-NF-\u03baB signaling pathway\" [Int. Immunopharmacol. 129 (2024) 111636].",
+      "summary": "Published in Int Immunopharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int Immunopharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42379982/",
+      "published": "2026-07-01",
       "tags": [
         "ll-37",
         "research",
@@ -61,6 +93,22 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "82e26a0c1454",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "The kisspeptin analog C6 elicits greater tachyphylaxis and transcriptional activation than kisspeptin-10 and -54.",
+      "summary": "Published in Mol Cell Endocrinol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Mol Cell Endocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42379494/",
+      "published": "2026-06-30",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -106,22 +154,6 @@
       "why_it_matters": "",
       "source": "PubMed (Comp Biochem Physiol A Mol Integr Physiol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42364900/",
-      "published": "2026-06-27",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "998287213a5e",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin-10/basal LH ratio improves differentiation of central precocious puberty and premature thelarche.",
-      "summary": "Published in Clin Chim Acta. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Chim Acta)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42364891/",
       "published": "2026-06-27",
       "tags": [
         "kisspeptin",
@@ -269,22 +301,6 @@
       "published": "2026-06-15",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "8310d6ef16ad",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "The Role of Vitamin D in Modulating the Innate Immune Response in Children with Vesicoureteral Reflux.",
-      "summary": "Published in Children (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Children (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42353981/",
-      "published": "2026-06-12",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -452,7 +468,7 @@
     {
       "id": "5c66bae6def8",
       "category": "research",
-      "compound": "tesamorelin",
+      "compound": "GHK-Cu",
       "title": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives.",
       "summary": "Published in Int J Mol Sci. See abstract for full findings.",
       "why_it_matters": "",
@@ -460,7 +476,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42123471/",
       "published": "2026-04-27",
       "tags": [
-        "tesamorelin",
+        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -610,6 +626,22 @@
       ]
     },
     {
+      "id": "c52f2b41b1ec",
+      "category": "clinical-trial",
+      "compound": "MOTS-c",
+      "title": "COMPARISON OF THE EFFECTS OF GENERAL ANESTHESIA AND COMBINED SPINAL-EPIDURAL ANESTHESIA ON FERROPTOSIS, HUMANIN, AND MOTS-C LEVELS IN RENAL TRANSPLANTATION",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07678073",
+      "published": "2026-01-07",
+      "tags": [
+        "mots-c",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "d6e6c8a3bead",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -722,22 +754,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -751,6 +767,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -834,22 +866,6 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
-      ]
-    },
-    {
       "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -863,6 +879,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "a9b4085a86c4",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
       ]
     },
     {
@@ -895,22 +927,6 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "4e6d06f4b1a5",
-      "category": "clinical-trial",
-      "compound": "MOTS-c",
-      "title": "Exercise Post-Diagnosis of Breast Cancer",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-03-31.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT04013568",
-      "published": "2026-01-03",
-      "tags": [
-        "mots-c",
-        "clinicaltrials.gov",
-        "completed"
       ]
     },
     {
