@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T22:51:20Z",
+  "generated_at": "2026-07-02T12:33:48Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -34,15 +34,15 @@
       ]
     },
     {
-      "id": "0c5da516293b",
+      "id": "84c54285ae7f",
       "category": "research",
       "compound": "LL-37",
-      "title": "Antimicrobial peptoids pass rapidly through bacterial membranes and flocculate ribosomes and DNA: A single-cell fluorescence study.",
-      "summary": "Published in Proc Natl Acad Sci U S A. See abstract for full findings.",
+      "title": "LL-37 inhibits osteosarcoma progression by suppressing SQLE-mediated cholesterol synthesis via the PTEN/AKT/mTOR pathway.",
+      "summary": "Published in J Bone Oncol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Proc Natl Acad Sci U S A)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42372144/",
-      "published": "2026-07-07",
+      "source": "PubMed (J Bone Oncol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42388271/",
+      "published": "2026-08-01",
       "tags": [
         "ll-37",
         "research",
@@ -50,17 +50,33 @@
       ]
     },
     {
-      "id": "8d233a43fb0d",
+      "id": "68f2805ebdb8",
       "category": "research",
-      "compound": "LL-37",
-      "title": "Corrigendum to \"Oroxylin A suppress LL-37 generated rosacea-like skin inflammation through the modulation of SIRT3-SOD2-NF-\u03baB signaling pathway\" [Int. Immunopharmacol. 129 (2024) 111636].",
-      "summary": "Published in Int Immunopharmacol. See abstract for full findings.",
+      "compound": "retatrutide",
+      "title": "Effects of Retatrutide on Learning and Memory in Streptozotocin-Induced Male Diabetic Rats.",
+      "summary": "Published in Behav Brain Res. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Int Immunopharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42379982/",
+      "source": "PubMed (Behav Brain Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385950/",
       "published": "2026-07-01",
       "tags": [
-        "ll-37",
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "2e7100062ea3",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Clomiphene Citrate in off-Label Post-Cycle Therapy: Mechanisms, Efficacy and Diagnostic Challenges in Endocrine Recovery Following Anabolic Steroid Use.",
+      "summary": "Published in Andrology. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Andrology)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42387872/",
+      "published": "2026-07-01",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -130,31 +146,15 @@
       ]
     },
     {
-      "id": "6e6b59c18d66",
+      "id": "12a169eae7ab",
       "category": "research",
       "compound": "kisspeptin",
-      "title": "Stress as a Neuroendocrine Modulator of the Reproductive Axis: Roles of Glucocorticoids, Kisspeptin and Serotonergic Signalling in Animal Models.",
-      "summary": "Published in Neuroendocrinology. See abstract for full findings.",
+      "title": "Progesterone-KISS1 axis impairs amniotic epithelial cell function and promotes premature rupture of membranes.",
+      "summary": "Published in Placenta. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Neuroendocrinology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42371829/",
+      "source": "PubMed (Placenta)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385385/",
       "published": "2026-06-29",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "9a968785d1d6",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin-2 stimulates testicular function in adult pejerrey (Odontesthes bonariensis): Does it act directly on the testes?",
-      "summary": "Published in Comp Biochem Physiol A Mol Integr Physiol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Comp Biochem Physiol A Mol Integr Physiol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42364900/",
-      "published": "2026-06-27",
       "tags": [
         "kisspeptin",
         "research",
@@ -237,22 +237,6 @@
       "published": "2026-06-19",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "49050884692f",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Benefits and Harms of Pharmacologic Treatments in Adults With Overweight or Obesity: A Living Systematic Review and Network Meta-analysis for the American College of Physicians.",
-      "summary": "Published in Ann Intern Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Ann Intern Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42296503/",
-      "published": "2026-06-16",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -754,22 +738,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -783,6 +751,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -1042,14 +1026,30 @@
       ]
     },
     {
-      "id": "2aa6d39026a5",
+      "id": "ec0c84a80fd7",
       "category": "research",
       "compound": "LL-37",
-      "title": "Immunomodulatory effects of synthetic antimicrobial peptides on LPS-induced inflammatory responses in THP-1 macrophages.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
+      "title": "Vitamin D receptor BsmI haplotype BB confers lower 25(OH)D levels during tuberculosis: a pilot cross-sectional study.",
+      "summary": "Published in Ther Adv Infect Dis. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42358966/",
+      "source": "PubMed (Ther Adv Infect Dis)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42389554/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "4044bc2f8265",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Interaction between vitamin D insufficiency and periodontitis, GCF vitamin D and LL-37 levels in well-controlled diabetes patients with periodontitis.",
+      "summary": "Published in Eur Oral Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Eur Oral Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42388571/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
