@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T21:54:28Z",
+  "generated_at": "2026-07-03T12:31:45Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -53,7 +53,7 @@
       "id": "68f2805ebdb8",
       "category": "research",
       "compound": "retatrutide",
-      "title": "Effects of Retatrutide on Learning and Memory in Streptozotocin-Induced Male Diabetic Rats.",
+      "title": "Effects of retatrutide on learning and memory in streptozotocin-induced male diabetic rats.",
       "summary": "Published in Behav Brain Res. See abstract for full findings.",
       "why_it_matters": "",
       "source": "PubMed (Behav Brain Res)",
@@ -397,22 +397,6 @@
       "published": "2026-05-26",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "6b46ac4155b9",
-      "category": "research",
-      "compound": "tesamorelin",
-      "title": "Differing Presentations of Excess Visceral Abdominal Fat in People Living With HIV: Two Clinical Cases Highlighting Distinct Therapeutic Pathways With Tesamorelin and Glucagon-Like Peptide-1 Receptor Agonists.",
-      "summary": "Published in Clin Infect Dis. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Infect Dis)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42139091/",
-      "published": "2026-05-15",
-      "tags": [
-        "tesamorelin",
         "research",
         "pubmed"
       ]
@@ -994,17 +978,33 @@
       ]
     },
     {
-      "id": "7184a284018a",
+      "id": "bdf5f75d2a49",
       "category": "research",
       "compound": "retatrutide",
-      "title": "GLP-1 Agonists in Adolescent Obesity: A Narrative Review of Single, Dual, and Triple Agonists.",
-      "summary": "Published in Diabetes Metab Syndr Obes. See abstract for full findings.",
+      "title": "Efficacy and safety of incretin-based therapies in patients with type 2 diabetes mellitus: a network meta-analysis based on clinical trials.",
+      "summary": "Published in Front Pharmacol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Diabetes Metab Syndr Obes)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42318576/",
+      "source": "PubMed (Front Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394981/",
       "published": "2026-01-01",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "52c91de3fc2c",
+      "category": "research",
+      "compound": "tesamorelin",
+      "title": "The emerging landscape of performance-enhancing peptides modulating GH-IGF1 axis: bridging the gap between clinical evidence and patient self-administration.",
+      "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Endocrinol (Lausanne))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42395176/",
+      "published": "2026-01-01",
+      "tags": [
+        "tesamorelin",
         "research",
         "pubmed"
       ]
