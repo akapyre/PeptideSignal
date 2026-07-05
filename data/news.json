@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T21:17:13Z",
+  "generated_at": "2026-07-05T11:49:36Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -45,6 +45,22 @@
       "published": "2026-08-01",
       "tags": [
         "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a5faa72bdf44",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Neuroendocrine mechanisms of stress-induced KNDy-GnRH pulse generator suppression: Linking HPA-axis activation to female reproductive dysfunction.",
+      "summary": "Published in Front Neuroendocrinol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Neuroendocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401315/",
+      "published": "2026-07-04",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -109,22 +125,6 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "82e26a0c1454",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "The kisspeptin analog C6 elicits greater tachyphylaxis and transcriptional activation than kisspeptin-10 and -54.",
-      "summary": "Published in Mol Cell Endocrinol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Mol Cell Endocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42379494/",
-      "published": "2026-06-30",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
