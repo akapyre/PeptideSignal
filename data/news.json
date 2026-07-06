@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T21:38:37Z",
+  "generated_at": "2026-07-06T17:19:10Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -34,15 +34,31 @@
       ]
     },
     {
-      "id": "84c54285ae7f",
+      "id": "13fc15219571",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Copper peptide activated cascade catalysis for glucose regulation and hypoxia reversing in infected diabetic wound healing.",
+      "summary": "Published in Mater Today Bio. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Mater Today Bio)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42404628/",
+      "published": "2026-08-01",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "760453c51732",
       "category": "research",
       "compound": "LL-37",
-      "title": "LL-37 inhibits osteosarcoma progression by suppressing SQLE-mediated cholesterol synthesis via the PTEN/AKT/mTOR pathway.",
-      "summary": "Published in J Bone Oncol. See abstract for full findings.",
+      "title": "In Vivo Activity of Antimicrobial Peptoid Oligomers against HSV-1 in a Mouse Model of Herpes Labialis.",
+      "summary": "Published in ACS Infect Dis. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (J Bone Oncol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42388271/",
-      "published": "2026-08-01",
+      "source": "PubMed (ACS Infect Dis)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402200/",
+      "published": "2026-07-05",
       "tags": [
         "ll-37",
         "research",
@@ -436,7 +452,7 @@
     {
       "id": "5c66bae6def8",
       "category": "research",
-      "compound": "GHK-Cu",
+      "compound": "CJC-1295",
       "title": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives.",
       "summary": "Published in Int J Mol Sci. See abstract for full findings.",
       "why_it_matters": "",
@@ -444,7 +460,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42123471/",
       "published": "2026-04-27",
       "tags": [
-        "ghk-cu",
+        "cjc-1295",
         "research",
         "pubmed"
       ]
