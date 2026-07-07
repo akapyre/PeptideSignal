@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T22:46:35Z",
+  "generated_at": "2026-07-07T13:56:56Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -610,6 +610,22 @@
       ]
     },
     {
+      "id": "d6e6c8a3bead",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated Steatotic Liver Disease (SYNERGY-Outcomes)",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-07.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07165028",
+      "published": "2026-01-07",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "c52f2b41b1ec",
       "category": "clinical-trial",
       "compound": "MOTS-c",
@@ -621,22 +637,6 @@
       "published": "2026-01-07",
       "tags": [
         "mots-c",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "d6e6c8a3bead",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated Steatotic Liver Disease (SYNERGY-Outcomes)",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-06-23.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07165028",
-      "published": "2026-01-06",
-      "tags": [
-        "retatrutide",
         "clinicaltrials.gov",
         "recruiting"
       ]
@@ -738,22 +738,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -767,6 +751,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
