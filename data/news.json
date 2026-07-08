@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T12:01:04Z",
+  "generated_at": "2026-07-08T21:52:34Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -629,8 +629,8 @@
       "id": "c52f2b41b1ec",
       "category": "clinical-trial",
       "compound": "MOTS-c",
-      "title": "COMPARISON OF THE EFFECTS OF GENERAL ANESTHESIA AND COMBINED SPINAL-EPIDURAL ANESTHESIA ON FERROPTOSIS, HUMANIN, AND MOTS-C LEVELS IN RENAL TRANSPLANTATION",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-01.",
+      "title": "Comparison of the Effects of General Anesthesia and Combined Spinal-Epidural Anesthesia on Ferroptosis, Humanin and MOTS-c Levels in Renal Transplantation",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-08.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07678073",
@@ -738,22 +738,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -767,6 +751,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
