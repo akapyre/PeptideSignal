@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T16:13:54Z",
+  "generated_at": "2026-07-09T22:52:27Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -45,6 +45,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "99a58cb6d6c6",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Dynamic Profiles of Serum Kisspeptin and DLK1 During GnRH Stimulation in Central Precocious Puberty and Premature Thelarche.",
+      "summary": "Published in Neuroendocrinology. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Neuroendocrinology)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42424240/",
+      "published": "2026-07-09",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -125,22 +141,6 @@
       "published": "2026-07-05",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "a5faa72bdf44",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Neuroendocrine mechanisms of stress-induced KNDy-GnRH pulse generator suppression: Linking HPA-axis activation to female reproductive dysfunction.",
-      "summary": "Published in Front Neuroendocrinol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Neuroendocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401315/",
-      "published": "2026-07-04",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
