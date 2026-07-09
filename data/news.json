@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T21:52:34Z",
+  "generated_at": "2026-07-09T16:13:54Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -45,6 +45,70 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e7bac9349820",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Antioxidant supplementation in mammalian ovarian tissue cryopreservation: a scoping review of experimental models, protocols, and reported outcomes.",
+      "summary": "Published in J Ovarian Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Ovarian Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421056/",
+      "published": "2026-07-09",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "7b0efae8fbc7",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis.",
+      "summary": "Published in BMJ. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMJ)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42419792/",
+      "published": "2026-07-08",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "cd6679909be4",
+      "category": "research",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV (TRIUMPH): a clinical trial protocol.",
+      "summary": "Published in BMJ Open. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMJ Open)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42419889/",
+      "published": "2026-07-08",
+      "tags": [
+        "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6fd446379a04",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Corrigendum to \"Oroxylin A suppress LL-37 generated rosacea-like skin inflammation through the modulation of SIRT3-SOD2-NF-\u03baB signaling pathway\" [Int. Immunopharmacol. 129 (2024) 111636].",
+      "summary": "Published in Int Immunopharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int Immunopharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42420052/",
+      "published": "2026-07-08",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -98,22 +162,6 @@
       ]
     },
     {
-      "id": "2e7100062ea3",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Clomiphene Citrate in off-Label Post-Cycle Therapy: Mechanisms, Efficacy and Diagnostic Challenges in Endocrine Recovery Following Anabolic Steroid Use.",
-      "summary": "Published in Andrology. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Andrology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42387872/",
-      "published": "2026-07-01",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "07529432959b",
       "category": "research",
       "compound": "KPV",
@@ -146,38 +194,6 @@
       ]
     },
     {
-      "id": "e99c884e30ea",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Effect of Retatrutide, a Novel Triple Receptor Agonist, on Blood Pressure and Lipid Levels: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
-      "summary": "Published in High Blood Press Cardiovasc Prev. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (High Blood Press Cardiovasc Prev)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42371360/",
-      "published": "2026-06-29",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "12a169eae7ab",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Progesterone-KISS1 axis impairs amniotic epithelial cell function and promotes premature rupture of membranes.",
-      "summary": "Published in Placenta. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Placenta)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385385/",
-      "published": "2026-06-29",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "bc77ba74747a",
       "category": "research",
       "compound": "MOTS-c",
@@ -189,6 +205,22 @@
       "published": "2026-06-25",
       "tags": [
         "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "09471c02fdc9",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin-54 attenuates acute lung injury in septic mice through AMPK-mediated suppression of NLRP3 inflammasome.",
+      "summary": "Published in Neuropeptides. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Neuropeptides)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418889/",
+      "published": "2026-06-23",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -436,7 +468,7 @@
     {
       "id": "b57984ba054f",
       "category": "research",
-      "compound": "tesamorelin",
+      "compound": "CJC-1295",
       "title": "Injectable Peptides in Sports Medicine: A Structured Narrative Review of Evidence, Safety, and Antidoping Implications.",
       "summary": "Published in JBJS Rev. See abstract for full findings.",
       "why_it_matters": "",
@@ -444,7 +476,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42160466/",
       "published": "2026-05-01",
       "tags": [
-        "tesamorelin",
+        "cjc-1295",
         "research",
         "pubmed"
       ]
@@ -738,22 +770,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -767,6 +783,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -1050,22 +1082,6 @@
       "why_it_matters": "",
       "source": "PubMed (Ther Adv Infect Dis)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42389554/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "4044bc2f8265",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Interaction between vitamin D insufficiency and periodontitis, GCF vitamin D and LL-37 levels in well-controlled diabetes patients with periodontitis.",
-      "summary": "Published in Eur Oral Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Eur Oral Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42388571/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
