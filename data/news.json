@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T22:52:27Z",
+  "generated_at": "2026-07-10T13:28:59Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -45,6 +45,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "b9969a3a21f7",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide fact check: Has a man died after taking the unapproved weight loss jab?",
+      "summary": "Published in BMJ. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMJ)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425580/",
+      "published": "2026-07-09",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -141,22 +157,6 @@
       "published": "2026-07-05",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "68f2805ebdb8",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Effects of retatrutide on learning and memory in streptozotocin-induced male diabetic rats.",
-      "summary": "Published in Behav Brain Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Behav Brain Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385950/",
-      "published": "2026-07-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
