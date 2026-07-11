@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T21:39:52Z",
+  "generated_at": "2026-07-11T10:38:07Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -45,6 +45,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "8eaf8f0bda7f",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "The endogenous ghrelin antagonist, LEAP2, accelerates puberty onset in conditions of early obesity.",
+      "summary": "Published in Metabolism. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Metabolism)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42431255/",
+      "published": "2026-07-10",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -205,22 +221,6 @@
       "published": "2026-06-25",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "09471c02fdc9",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin-54 attenuates acute lung injury in septic mice through AMPK-mediated suppression of NLRP3 inflammasome.",
-      "summary": "Published in Neuropeptides. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Neuropeptides)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42418889/",
-      "published": "2026-06-23",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
