@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T20:30:32Z",
+  "generated_at": "2026-07-13T13:41:38Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -45,6 +45,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "fd757c647513",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Finite-concentration thermodynamics of amphipathic peptide adsorption on curved lipid membranes.",
+      "summary": "Published in Phys Chem Chem Phys. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Phys Chem Chem Phys)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42439051/",
+      "published": "2026-07-13",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -674,6 +690,54 @@
       ]
     },
     {
+      "id": "120156eaa612",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "bf61705fb673",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "ca61bf97035b",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "db5e4b670501",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -802,22 +866,6 @@
       ]
     },
     {
-      "id": "120156eaa612",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224490",
-      "published": "2026-01-05",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "17d1a0da7511",
       "category": "clinical-trial",
       "compound": "MOTS-c",
@@ -834,38 +882,6 @@
       ]
     },
     {
-      "id": "eec2501f2232",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kissing as a Protective Factor Against Acidic pH in Saliva",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-04-24.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06501729",
-      "published": "2026-01-04",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
-      "id": "0d80080d3f3c",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-04-15.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
-      "published": "2026-01-04",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
-      ]
-    },
-    {
       "id": "4b49f2d4e621",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -874,22 +890,6 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT05054361",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
@@ -911,6 +911,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "c3e72ef84dd7",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -1069,22 +1085,6 @@
       "published": "2026-01-01",
       "tags": [
         "semax",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "ec0c84a80fd7",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Vitamin D receptor BsmI haplotype BB confers lower 25(OH)D levels during tuberculosis: a pilot cross-sectional study.",
-      "summary": "Published in Ther Adv Infect Dis. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Ther Adv Infect Dis)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42389554/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
