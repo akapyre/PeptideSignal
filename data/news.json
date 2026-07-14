@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T21:31:25Z",
+  "generated_at": "2026-07-14T11:13:45Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -45,6 +45,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "cdbfc4578882",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Elamipretide (SS-31) and Nicotinamide Mononucleotide (NMN) Combination Therapy Targets TREM2 to Mitigate Post-ischemic Brain Injury in Mice.",
+      "summary": "Published in Neurochem Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Neurochem Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42443448/",
+      "published": "2026-07-14",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -178,22 +194,6 @@
       ]
     },
     {
-      "id": "760453c51732",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "In Vivo Activity of Antimicrobial Peptoid Oligomers against HSV-1 in a Mouse Model of Herpes Labialis.",
-      "summary": "Published in ACS Infect Dis. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (ACS Infect Dis)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402200/",
-      "published": "2026-07-05",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "07529432959b",
       "category": "research",
       "compound": "KPV",
@@ -317,22 +317,6 @@
       "published": "2026-06-15",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "68f86a0ee81c",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Targeting Mitochondrial Dysfunction With Elamipretide (SS-31) Improves Skeletal Muscle Performance in a HFpEF Rat Model.",
-      "summary": "Published in Circ Heart Fail. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Circ Heart Fail)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42290373/",
-      "published": "2026-06-15",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
@@ -1085,6 +1069,22 @@
       "published": "2026-01-01",
       "tags": [
         "semax",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "700e7bb00eb9",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "HBV pgRNA induces chronic inflammation in an IL-1\u03b2-dependent manner.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42440489/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
