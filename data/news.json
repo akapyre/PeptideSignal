@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T11:17:50Z",
+  "generated_at": "2026-07-15T21:32:58Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -642,6 +642,22 @@
       ]
     },
     {
+      "id": "d27516809f8a",
+      "category": "clinical-trial",
+      "compound": "GHK-Cu",
+      "title": "Two-Part Study of the Effects of the X39 Patch on Circulating GHK and GHK-Cu Levels in Healthy Adults",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-07-15.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07706361",
+      "published": "2026-01-07",
+      "tags": [
+        "ghk-cu",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
+      ]
+    },
+    {
       "id": "c52f2b41b1ec",
       "category": "clinical-trial",
       "compound": "MOTS-c",
@@ -658,14 +674,14 @@
       ]
     },
     {
-      "id": "bf61705fb673",
+      "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "url": "https://clinicaltrials.gov/study/NCT05896293",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -690,14 +706,14 @@
       ]
     },
     {
-      "id": "120156eaa612",
+      "id": "bf61705fb673",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "url": "https://clinicaltrials.gov/study/NCT07224438",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -802,22 +818,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -831,6 +831,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
