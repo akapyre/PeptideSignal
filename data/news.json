@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T21:33:50Z",
+  "generated_at": "2026-07-15T11:17:50Z",
   "items": [
     {
       "id": "faaf9fd9f129",
@@ -130,22 +130,6 @@
       ]
     },
     {
-      "id": "99a58cb6d6c6",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Dynamic Profiles of Serum Kisspeptin and DLK1 During GnRH Stimulation in Central Precocious Puberty and Premature Thelarche.",
-      "summary": "Published in Neuroendocrinology. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Neuroendocrinology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42424240/",
-      "published": "2026-07-09",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "7b0efae8fbc7",
       "category": "research",
       "compound": "retatrutide",
@@ -178,6 +162,22 @@
       ]
     },
     {
+      "id": "5ae8c368365d",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Effects of Water Avoidance Stress as a Psychological Stress Model and Coenzyme Q10 on Reproductive, Endocrine, and Ovarian Responses in Adult Female Rats.",
+      "summary": "Published in Animals (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Animals (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42450799/",
+      "published": "2026-07-06",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "07529432959b",
       "category": "research",
       "compound": "KPV",
@@ -205,6 +205,22 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "5d9c2c331c9b",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Mitochondrial-Targeted SS-31 Attenuates the Doxorubicin-Induced Cardiomyoblast H9C2 Cell Senescence.",
+      "summary": "Published in Biology (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biology (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42450582/",
+      "published": "2026-06-28",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -253,22 +269,6 @@
       "published": "2026-06-22",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "ed8810394bd7",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Microvascular dysfunction and neurovascular signalling impairment in diabetic silent myocardial ischemia.",
-      "summary": "Published in Microvasc Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Microvasc Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324025/",
-      "published": "2026-06-21",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
