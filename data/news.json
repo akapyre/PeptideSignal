@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-07-15T21:32:58Z",
+  "generated_at": "2026-07-16T11:56:48Z",
   "items": [
-    {
-      "id": "faaf9fd9f129",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Pre-qualifications, learning strategies, and study satisfaction among medical students: insights from a multicenter German study.",
-      "summary": "Published in Med Educ Online. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Med Educ Online)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42357949/",
-      "published": "2026-12-31",
-      "tags": [
-        "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
     {
       "id": "621865e9e550",
       "category": "research",
@@ -45,6 +29,38 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f1c34f0eba26",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Mitochondrial-targeted SS-31 peptide attenuates radiation-induced cardiomyocyte senescence.",
+      "summary": "Published in J Radiat Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Radiat Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456009/",
+      "published": "2026-07-15",
+      "tags": [
+        "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "9739adcabc0a",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin.",
+      "summary": "Published in Trends Endocrinol Metab. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Trends Endocrinol Metab)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42457610/",
+      "published": "2026-07-15",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -93,22 +109,6 @@
       "published": "2026-07-13",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "8eaf8f0bda7f",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "The endogenous ghrelin antagonist, LEAP2, accelerates puberty onset in conditions of early obesity.",
-      "summary": "Published in Metabolism. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Metabolism)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42431255/",
-      "published": "2026-07-10",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
