@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T11:56:48Z",
+  "generated_at": "2026-07-16T21:47:02Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -626,6 +626,22 @@
       ]
     },
     {
+      "id": "31489a8ef303",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study to Evaluate the Effect of Retatrutide on Insulin Secretion and Insulin Sensitivity in Adult Participants With Type 2 Diabetes Mellitus",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-16.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06982859",
+      "published": "2026-01-07",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
       "id": "d6e6c8a3bead",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -674,14 +690,14 @@
       ]
     },
     {
-      "id": "ca61bf97035b",
+      "id": "bf61705fb673",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "url": "https://clinicaltrials.gov/study/NCT07224438",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -706,17 +722,33 @@
       ]
     },
     {
-      "id": "bf61705fb673",
+      "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "cea6e2df7c2c",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymalfasin (Thymosin Alpha 1; Ta1) as an Enhancer of Vaccine Response Among Older Adults Receiving Booster Doses of COVID-19 Vaccine",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-16.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06821100",
+      "published": "2026-01-07",
+      "tags": [
+        "thymosin alpha-1",
         "clinicaltrials.gov",
         "recruiting"
       ]
@@ -735,22 +767,6 @@
         "retatrutide",
         "clinicaltrials.gov",
         "completed"
-      ]
-    },
-    {
-      "id": "06c61b33c7b4",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-06-17.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06383390",
-      "published": "2026-01-06",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
       ]
     },
     {
@@ -802,17 +818,17 @@
       ]
     },
     {
-      "id": "d10fdcb977d5",
+      "id": "b9a6eef753c7",
       "category": "clinical-trial",
-      "compound": "Thymosin Alpha-1",
-      "title": "Thymosin Alpha 1 Combined With Anti-PD-1 Monoclonal Antibody in Elderly Patients With Advanced Melanoma",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-06-12.",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07644897",
-      "published": "2026-01-06",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
       "tags": [
-        "thymosin alpha-1",
+        "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
       ]
@@ -831,22 +847,6 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
-      ]
-    },
-    {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
       ]
     },
     {
@@ -882,22 +882,6 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
-      ]
-    },
-    {
       "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -911,6 +895,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "a9b4085a86c4",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
       ]
     },
     {
