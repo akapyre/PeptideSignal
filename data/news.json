@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T21:47:02Z",
+  "generated_at": "2026-07-17T11:11:01Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -29,6 +29,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "d51dc87d9a79",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Comparison of the effects of atypical antipsychotics on decreased libido in zebrafish and their mechanisms.",
+      "summary": "Published in Behav Brain Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Behav Brain Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463028/",
+      "published": "2026-07-16",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -1053,22 +1069,6 @@
       "published": "2026-01-01",
       "tags": [
         "semax",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "c40ea9eedfe9",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Correction: IGF-1 supplementation improves in vitro maturation quality of Capra hircus oocytes via PDE3A activation, gap junction remodeling, apoptosis suppression, and kisspeptin signaling.",
-      "summary": "Published in Front Vet Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Vet Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42445326/",
-      "published": "2026-01-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
