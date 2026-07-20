@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T13:26:57Z",
+  "generated_at": "2026-07-20T21:52:12Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -29,6 +29,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "15d2c4c6ba40",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "RNA selectively modulates activity of virulent amyloid PSM\u03b13 and host-defense LL-37 via phase separation and aggregation dynamics.",
+      "summary": "Published in Elife. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Elife)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42474037/",
+      "published": "2026-07-20",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -109,22 +125,6 @@
       "published": "2026-07-14",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "fd757c647513",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Finite-concentration thermodynamics of amphipathic peptide adsorption on curved lipid membranes.",
-      "summary": "Published in Phys Chem Chem Phys. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Phys Chem Chem Phys)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42439051/",
-      "published": "2026-07-13",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
