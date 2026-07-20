@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T20:33:20Z",
+  "generated_at": "2026-07-20T13:26:57Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -642,30 +642,46 @@
       ]
     },
     {
-      "id": "d6e6c8a3bead",
+      "id": "06c61b33c7b4",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated Steatotic Liver Disease (SYNERGY-Outcomes)",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-17.",
+      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07165028",
+      "url": "https://clinicaltrials.gov/study/NCT06383390",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
         "clinicaltrials.gov",
-        "recruiting"
+        "active_not_recruiting"
       ]
     },
     {
-      "id": "31489a8ef303",
+      "id": "e1731bdb8c9f",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "A Study to Evaluate the Effect of Retatrutide on Insulin Secretion and Insulin Sensitivity in Adult Participants With Type 2 Diabetes Mellitus",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-16.",
+      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06982859",
+      "url": "https://clinicaltrials.gov/study/NCT06297603",
+      "published": "2026-01-07",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
+      "id": "6fe307d00e22",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) Compared to Tirzepatide (LY3298176) in Adults Who Have Obesity",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06662383",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -722,6 +738,22 @@
       ]
     },
     {
+      "id": "0d80080d3f3c",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
       "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -730,22 +762,6 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07224490",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "ca61bf97035b",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -767,22 +783,6 @@
         "thymosin alpha-1",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "db5e4b670501",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study to Investigate the Response of Participants With Type 2 Diabetes Mellitus on Once-Weekly Retatrutide to Hypoglycemia",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-06-18.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06982846",
-      "published": "2026-01-06",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "completed"
       ]
     },
     {
@@ -898,22 +898,6 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -927,6 +911,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "c3e72ef84dd7",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
