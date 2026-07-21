@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:52:12Z",
+  "generated_at": "2026-07-21T12:10:34Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -45,6 +45,22 @@
       "published": "2026-07-20",
       "tags": [
         "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "716cfbaebc09",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Involvement of cocaine- and amphetamine-regulated transcript neurons in glucoprivic suppression of pulsatile luteinizing hormone secretion in female rats.",
+      "summary": "Published in J Reprod Dev. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Reprod Dev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476751/",
+      "published": "2026-07-17",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -173,22 +189,6 @@
       "published": "2026-07-08",
       "tags": [
         "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "5ae8c368365d",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Effects of Water Avoidance Stress as a Psychological Stress Model and Coenzyme Q10 on Reproductive, Endocrine, and Ovarian Responses in Adult Female Rats.",
-      "summary": "Published in Animals (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Animals (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450799/",
-      "published": "2026-07-06",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
