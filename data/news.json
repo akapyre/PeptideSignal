@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:18:01Z",
+  "generated_at": "2026-07-22T19:26:01Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -13,6 +13,150 @@
       "published": "2026-09-01",
       "tags": [
         "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "13fc15219571",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Copper peptide activated cascade catalysis for glucose regulation and hypoxia reversing in infected diabetic wound healing.",
+      "summary": "Published in Mater Today Bio. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Mater Today Bio)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42404628/",
+      "published": "2026-08-01",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "15d2c4c6ba40",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "RNA selectively modulates activity of virulent amyloid PSM\u03b13 and host-defense LL-37 via phase separation and aggregation dynamics.",
+      "summary": "Published in Elife. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Elife)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42474037/",
+      "published": "2026-07-20",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "716cfbaebc09",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Involvement of cocaine- and amphetamine-regulated transcript neurons in glucoprivic suppression of pulsatile luteinizing hormone secretion in female rats.",
+      "summary": "Published in J Reprod Dev. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Reprod Dev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476751/",
+      "published": "2026-07-17",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "d51dc87d9a79",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Comparison of the effects of atypical antipsychotics on decreased libido in zebrafish and their mechanisms.",
+      "summary": "Published in Behav Brain Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Behav Brain Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463028/",
+      "published": "2026-07-16",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f1c34f0eba26",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Mitochondrial-targeted SS-31 peptide attenuates radiation-induced cardiomyocyte senescence.",
+      "summary": "Published in J Radiat Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Radiat Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456009/",
+      "published": "2026-07-15",
+      "tags": [
+        "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "15697bccd2e1",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Medical Treatments for Obesity: What Does the Future Have in Store?",
+      "summary": "Published in J Clin Endocrinol Metab. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Clin Endocrinol Metab)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42444567/",
+      "published": "2026-07-14",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "cdbfc4578882",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Elamipretide (SS-31) and Nicotinamide Mononucleotide (NMN) Combination Therapy Targets TREM2 to Mitigate Post-ischemic Brain Injury in Mice.",
+      "summary": "Published in Neurochem Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Neurochem Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42443448/",
+      "published": "2026-07-14",
+      "tags": [
+        "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "b9969a3a21f7",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide fact check: Has a man died after taking the unapproved weight loss jab?",
+      "summary": "Published in BMJ. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMJ)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425580/",
+      "published": "2026-07-09",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "7b0efae8fbc7",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis.",
+      "summary": "Published in BMJ. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMJ)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42419792/",
+      "published": "2026-07-08",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -61,6 +205,22 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "5d9c2c331c9b",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Mitochondrial-Targeted SS-31 Attenuates the Doxorubicin-Induced Cardiomyoblast H9C2 Cell Senescence.",
+      "summary": "Published in Biology (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biology (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42450582/",
+      "published": "2026-06-28",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -125,6 +285,22 @@
       "published": "2026-06-19",
       "tags": [
         "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "db168ab75c73",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Hierarchical regulation and mechanism of \"open-hollow-fibrous network\" structures: Osteogenic-angiogenic coupling responses of poly(\u03b3-benzyl-L-glutamate) microspheres.",
+      "summary": "Published in Biomater Adv. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biomater Adv)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42320090/",
+      "published": "2026-06-15",
+      "tags": [
+        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -242,6 +418,38 @@
       ]
     },
     {
+      "id": "cc7e35bdefb5",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Middle-aged mice treated with GHK-Cu peptide administered intraperitoneally or intranasally show behavioral rescue but divergent hippocampal aging programs.",
+      "summary": "Published in Res Sq. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Res Sq)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42245779/",
+      "published": "2026-05-26",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "36ae1d36ccc5",
+      "category": "research",
+      "compound": "Semax",
+      "title": "Multi-Layer Magnetic Shields Based on Fe-Based Nanocrystalline and Co-Based Amorphous Ribbons.",
+      "summary": "Published in Materials (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Materials (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42195624/",
+      "published": "2026-05-11",
+      "tags": [
+        "semax",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "b57984ba054f",
       "category": "research",
       "compound": "CJC-1295",
@@ -269,6 +477,22 @@
       "published": "2026-04-27",
       "tags": [
         "cjc-1295",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "307d3ef2e9aa",
+      "category": "research",
+      "compound": "Semax",
+      "title": "Digitally Guided Hybrid Maxillary Expansion with Supragingival Mandibular Miniplates for Class III Correction in Late Adolescents: A Pilot Clinical Study.",
+      "summary": "Published in J Clin Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Clin Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42074872/",
+      "published": "2026-04-17",
+      "tags": [
+        "semax",
         "research",
         "pubmed"
       ]
@@ -829,6 +1053,70 @@
       "published": "2026-01-01",
       "tags": [
         "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "bfa62fac1a41",
+      "category": "research",
+      "compound": "Semax",
+      "title": "[Effect of a combined physiotherapeutic approach on changes in functional parameters after endovitreal surgery of rhegmatogenous retinal detachment with a favorable anatomical outcome].",
+      "summary": "Published in Vestn Oftalmol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Vestn Oftalmol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366656/",
+      "published": "2026-01-01",
+      "tags": [
+        "semax",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0939d76ecf0b",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Regulation of ovarian function in domestic animals: translational insights into human ovarian dynamics and dysfunction.",
+      "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Endocrinol (Lausanne))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42483683/",
+      "published": "2026-01-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6b5415825976",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "A degradable hydrogel scaffold incorporating the LL-37 for gingival soft tissue regeneration.",
+      "summary": "Published in Regen Biomater. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Regen Biomater)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42445046/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "700e7bb00eb9",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "HBV pgRNA induces chronic inflammation in an IL-1\u03b2-dependent manner.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42440489/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1423,6 +1711,38 @@
         "ara-290",
         "clinicaltrials.gov",
         "completed"
+      ]
+    },
+    {
+      "id": "9cb1edf913c9",
+      "category": "research",
+      "compound": "PE-22-28",
+      "title": "Shortened Spadin Analogs Display Better TREK-1 Inhibition, In Vivo Stability and Antidepressant Activity.",
+      "summary": "Published in Front Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28955242/",
+      "published": "2017-01-01",
+      "tags": [
+        "pe-22-28",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "2a845e56a85c",
+      "category": "research",
+      "compound": "AOD-9604",
+      "title": "Simplifying and expanding the screening for peptides <2 kDa by direct urine injection, liquid chromatography, and ion mobility mass spectrometry.",
+      "summary": "Published in J Sep Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Sep Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26578461/",
+      "published": "2016-01-01",
+      "tags": [
+        "aod-9604",
+        "research",
+        "pubmed"
       ]
     },
     {
