@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:35:37Z",
+  "generated_at": "2026-07-23T19:23:18Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -34,6 +34,22 @@
       ]
     },
     {
+      "id": "f536b2b34e65",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Naringenin protects against renal ischemia-reperfusion injury following unilateral nephrectomy via modulation of oxidative stress and kisspeptin expression.",
+      "summary": "Published in Int Urol Nephrol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int Urol Nephrol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490039/",
+      "published": "2026-07-23",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "15d2c4c6ba40",
       "category": "research",
       "compound": "LL-37",
@@ -59,22 +75,6 @@
       "source": "PubMed (J Reprod Dev)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42476751/",
       "published": "2026-07-17",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "d51dc87d9a79",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Comparison of the effects of atypical antipsychotics on decreased libido in zebrafish and their mechanisms.",
-      "summary": "Published in Behav Brain Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Behav Brain Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42463028/",
-      "published": "2026-07-16",
       "tags": [
         "kisspeptin",
         "research",
@@ -626,30 +626,14 @@
       ]
     },
     {
-      "id": "e1731bdb8c9f",
+      "id": "e8de019c5736",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
+      "title": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight and Chronic Low Back Pain",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-23.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06297603",
-      "published": "2026-01-07",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
-      ]
-    },
-    {
-      "id": "06c61b33c7b4",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06383390",
+      "url": "https://clinicaltrials.gov/study/NCT07035093",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -666,6 +650,22 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT06662383",
+      "published": "2026-01-07",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
+      "id": "06c61b33c7b4",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06383390",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -722,22 +722,6 @@
       ]
     },
     {
-      "id": "0d80080d3f3c",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
       "id": "bf61705fb673",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -754,14 +738,30 @@
       ]
     },
     {
-      "id": "120156eaa612",
+      "id": "0d80080d3f3c",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "ca61bf97035b",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "url": "https://clinicaltrials.gov/study/NCT05896293",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -898,22 +898,6 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -927,6 +911,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "c3e72ef84dd7",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
