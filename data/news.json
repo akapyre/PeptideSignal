@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:32:08Z",
+  "generated_at": "2026-07-24T19:28:57Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -141,22 +141,6 @@
       "published": "2026-07-14",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "cdbfc4578882",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Elamipretide (SS-31) and Nicotinamide Mononucleotide (NMN) Combination Therapy Targets TREM2 to Mitigate Post-ischemic Brain Injury in Mice.",
-      "summary": "Published in Neurochem Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Neurochem Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42443448/",
-      "published": "2026-07-14",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
@@ -333,6 +317,22 @@
       "published": "2026-06-15",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "dc7b38df87fe",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "The Role of Oxidative Stress in Heart Failure: Mechanisms and Therapeutic Targets.",
+      "summary": "Published in Cureus. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cureus)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495453/",
+      "published": "2026-06-01",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -658,14 +658,14 @@
       ]
     },
     {
-      "id": "6fe307d00e22",
+      "id": "e1731bdb8c9f",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) Compared to Tirzepatide (LY3298176) in Adults Who Have Obesity",
+      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
       "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06662383",
+      "url": "https://clinicaltrials.gov/study/NCT06297603",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -674,14 +674,14 @@
       ]
     },
     {
-      "id": "06c61b33c7b4",
+      "id": "6fe307d00e22",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+      "title": "A Study of Retatrutide (LY3437943) Compared to Tirzepatide (LY3298176) in Adults Who Have Obesity",
       "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06383390",
+      "url": "https://clinicaltrials.gov/study/NCT06662383",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -754,22 +754,6 @@
       ]
     },
     {
-      "id": "0d80080d3f3c",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
       "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -783,6 +767,22 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "0d80080d3f3c",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
       ]
     },
     {
@@ -850,22 +850,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -879,6 +863,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -914,22 +914,6 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
-      ]
-    },
-    {
       "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -943,6 +927,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "a9b4085a86c4",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
       ]
     },
     {
