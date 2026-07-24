@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:23:18Z",
+  "generated_at": "2026-07-24T08:32:08Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -34,6 +34,22 @@
       ]
     },
     {
+      "id": "aade82320a3f",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide and the urinary tract infection signal: Is the answer hidden in timing?",
+      "summary": "Published in Eur J Intern Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Eur J Intern Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42493254/",
+      "published": "2026-07-23",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "f536b2b34e65",
       "category": "research",
       "compound": "kisspeptin",
@@ -45,6 +61,22 @@
       "published": "2026-07-23",
       "tags": [
         "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0697bb943db2",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Bile salt-mediated adaptation of Bacteroides spp.: in vitro analysis of colonization and metabolism.",
+      "summary": "Published in Anaerobe. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Anaerobe)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492756/",
+      "published": "2026-07-23",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -139,22 +171,6 @@
       "source": "PubMed (BMJ)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42425580/",
       "published": "2026-07-09",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "7b0efae8fbc7",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis.",
-      "summary": "Published in BMJ. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (BMJ)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42419792/",
-      "published": "2026-07-08",
       "tags": [
         "retatrutide",
         "research",
@@ -1098,22 +1114,6 @@
       "why_it_matters": "",
       "source": "PubMed (Regen Biomater)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42445046/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "700e7bb00eb9",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "HBV pgRNA induces chronic inflammation in an IL-1\u03b2-dependent manner.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42440489/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
