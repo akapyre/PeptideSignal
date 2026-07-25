@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:10:48Z",
+  "generated_at": "2026-07-25T19:12:04Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -29,6 +29,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f1c34f0eba26",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Mitochondrial-targeted SS-31 peptide attenuates radiation-induced cardiomyocyte senescence.",
+      "summary": "Published in J Radiat Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Radiat Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456009/",
+      "published": "2026-07-24",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -109,22 +125,6 @@
       "published": "2026-07-17",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f1c34f0eba26",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Mitochondrial-targeted SS-31 peptide attenuates radiation-induced cardiomyocyte senescence.",
-      "summary": "Published in J Radiat Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Radiat Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456009/",
-      "published": "2026-07-15",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
