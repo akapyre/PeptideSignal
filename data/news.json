@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:17:07Z",
+  "generated_at": "2026-07-27T09:57:51Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -29,6 +29,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "ff2e5b026793",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Ambient Air Pollution, Polycyclic Aromatic Hydrocarbons, and Pubertal Development: A Critical Review of Emerging Evidence.",
+      "summary": "Published in Curr Environ Health Rep. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Curr Environ Health Rep)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42503559/",
+      "published": "2026-07-27",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -109,22 +125,6 @@
       "published": "2026-07-20",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "716cfbaebc09",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Involvement of cocaine- and amphetamine-regulated transcript neurons in glucoprivic suppression of pulsatile luteinizing hormone secretion in female rats.",
-      "summary": "Published in J Reprod Dev. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Reprod Dev)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42476751/",
-      "published": "2026-07-17",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -1458,6 +1458,38 @@
       ]
     },
     {
+      "id": "c2b5e52e584e",
+      "category": "regulatory",
+      "compound": "CJC-1295",
+      "title": "FDA enforcement report: CJC-1295 4MG/IPAMORELIN 4MG VIAL 4MG/4MG INJECTABLE, Rx only, Talon Compounding Pharmacy, 2950 Thousand Oaks Drive Ste 2",
+      "summary": "Lack of assurance of sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2021-01-11",
+      "tags": [
+        "cjc-1295",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "056b75751f49",
+      "category": "regulatory",
+      "compound": "Ipamorelin",
+      "title": "FDA enforcement report: SERMORELIN ACETATE 6MG/IPAMORELIN 6MG - LYOPHILIZED   6MG/6MG VIAL, Rx only, Talon Compounding Pharmacy, 2950 Thousand O",
+      "summary": "Lack of assurance of sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2021-01-11",
+      "tags": [
+        "ipamorelin",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
       "id": "5fddb87ee5a8",
       "category": "regulatory",
       "compound": "AOD-9604",
@@ -1506,6 +1538,22 @@
       ]
     },
     {
+      "id": "cce5b9db55ad",
+      "category": "regulatory",
+      "compound": "CJC-1295",
+      "title": "FDA enforcement report: CJC-1295, 2000 MCG/ML, 5 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
+      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-12",
+      "tags": [
+        "cjc-1295",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
       "id": "28dd16df27be",
       "category": "regulatory",
       "compound": "LL-37",
@@ -1533,6 +1581,22 @@
       "published": "2020-01-12",
       "tags": [
         "aod-9604",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "31bb9c2ae198",
+      "category": "regulatory",
+      "compound": "CJC-1295",
+      "title": "FDA enforcement report: CJC-1295 2000 mcg/Ipamorelin 2000 mcg/mL Inj. in 2 mL vial  Assurance Infusion (713) 533-8800",
+      "summary": "Lack of sterility assurance.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-01",
+      "tags": [
+        "cjc-1295",
         "FDA",
         "enforcement"
       ]
@@ -1581,6 +1645,22 @@
       "published": "2018-01-11",
       "tags": [
         "tesamorelin",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "787c9b5f2026",
+      "category": "regulatory",
+      "compound": "Ipamorelin",
+      "title": "FDA enforcement report: Ipamorelin 3 mg Lyophilized 1 vial 1109 East Hallandale Beach Blvd. Hallandale Beach, FL 33009",
+      "summary": "Lack of assurance of sterility.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2018-01-09",
+      "tags": [
+        "ipamorelin",
         "FDA",
         "enforcement"
       ]
