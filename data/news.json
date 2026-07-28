@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:39:07Z",
+  "generated_at": "2026-07-28T08:39:08Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -29,6 +29,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f9933d7db587",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Rapid and harmonized analytical workflow for the determination of peptidic and non-peptidic doping agents in dried and liquid blood matrices.",
+      "summary": "Published in Analyst. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Analyst)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42328738/",
+      "published": "2026-07-27",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -237,22 +253,6 @@
       "published": "2026-06-25",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f9933d7db587",
-      "category": "research",
-      "compound": "BPC-157",
-      "title": "Rapid and harmonized analytical workflow for the determination of peptidic and non-peptidic doping agents in dried and liquid blood matrices.",
-      "summary": "Published in Analyst. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Analyst)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42328738/",
-      "published": "2026-06-22",
-      "tags": [
-        "bpc-157",
         "research",
         "pubmed"
       ]
