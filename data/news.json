@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T08:39:08Z",
+  "generated_at": "2026-07-28T19:37:17Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -146,6 +146,22 @@
       ]
     },
     {
+      "id": "1658625fc6b0",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Immunomodulatory Effects of Poly-D,L-Lactic Acid on LL-37-Driven Rosacea-like Inflammation via Suppression of mTORC1 Signaling.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511767/",
+      "published": "2026-07-19",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "15697bccd2e1",
       "category": "research",
       "compound": "retatrutide",
@@ -221,6 +237,22 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6ae4497749d3",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "A Torilis japonica Extract-GHK-Cu Complex Attenuates Th2 Cytokines and Promotes Keratinocyte Recovery: A Potential Antioxidant Strategy for Atopic Dermatitis.",
+      "summary": "Published in Antioxidants (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Antioxidants (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42510549/",
+      "published": "2026-06-29",
+      "tags": [
+        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -434,22 +466,6 @@
       ]
     },
     {
-      "id": "cc7e35bdefb5",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "Middle-aged mice treated with GHK-Cu peptide administered intraperitoneally or intranasally show behavioral rescue but divergent hippocampal aging programs.",
-      "summary": "Published in Res Sq. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Res Sq)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42245779/",
-      "published": "2026-05-26",
-      "tags": [
-        "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "36ae1d36ccc5",
       "category": "research",
       "compound": "Semax",
@@ -658,14 +674,14 @@
       ]
     },
     {
-      "id": "06c61b33c7b4",
+      "id": "e1731bdb8c9f",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
       "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06383390",
+      "url": "https://clinicaltrials.gov/study/NCT06297603",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -674,14 +690,14 @@
       ]
     },
     {
-      "id": "6fe307d00e22",
+      "id": "06c61b33c7b4",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) Compared to Tirzepatide (LY3298176) in Adults Who Have Obesity",
+      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
       "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06662383",
+      "url": "https://clinicaltrials.gov/study/NCT06383390",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -738,19 +754,19 @@
       ]
     },
     {
-      "id": "0d80080d3f3c",
+      "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
         "clinicaltrials.gov",
-        "completed"
+        "recruiting"
       ]
     },
     {
@@ -850,22 +866,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -879,6 +879,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -1101,22 +1117,6 @@
       "published": "2026-01-01",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "6b5415825976",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "A degradable hydrogel scaffold incorporating the LL-37 for gingival soft tissue regeneration.",
-      "summary": "Published in Regen Biomater. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Regen Biomater)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42445046/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
