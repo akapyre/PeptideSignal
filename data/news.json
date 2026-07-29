@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T19:37:17Z",
+  "generated_at": "2026-07-29T08:45:46Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -1106,14 +1106,14 @@
       ]
     },
     {
-      "id": "0939d76ecf0b",
+      "id": "f679531a5aa2",
       "category": "research",
       "compound": "kisspeptin",
-      "title": "Regulation of ovarian function in domestic animals: translational insights into human ovarian dynamics and dysfunction.",
-      "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
+      "title": "A brain-first framework for perimenopause management: the case for non-invasive neuromodulation.",
+      "summary": "Published in Front Glob Womens Health. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Front Endocrinol (Lausanne))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42483683/",
+      "source": "PubMed (Front Glob Womens Health)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42519421/",
       "published": "2026-01-01",
       "tags": [
         "kisspeptin",
