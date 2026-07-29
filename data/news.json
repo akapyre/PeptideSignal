@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T08:45:46Z",
+  "generated_at": "2026-07-29T19:21:38Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -29,6 +29,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "33d07a74aa2d",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Role of KNDy neurons in the negative-feedback suppression of gonadotropin secretion in female rats.",
+      "summary": "Published in Endocrinology. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Endocrinology)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522579/",
+      "published": "2026-07-29",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -93,22 +109,6 @@
       "published": "2026-07-23",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f536b2b34e65",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Naringenin protects against renal ischemia-reperfusion injury following unilateral nephrectomy via modulation of oxidative stress and kisspeptin expression.",
-      "summary": "Published in Int Urol Nephrol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int Urol Nephrol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42490039/",
-      "published": "2026-07-23",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -674,22 +674,6 @@
       ]
     },
     {
-      "id": "e1731bdb8c9f",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06297603",
-      "published": "2026-01-07",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
-      ]
-    },
-    {
       "id": "06c61b33c7b4",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -698,6 +682,22 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT06383390",
+      "published": "2026-01-07",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
+      "id": "e1731bdb8c9f",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06297603",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -930,22 +930,6 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -959,6 +943,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "c3e72ef84dd7",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
