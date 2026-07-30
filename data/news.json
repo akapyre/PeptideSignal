@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:21:38Z",
+  "generated_at": "2026-07-30T08:31:49Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -18,6 +18,22 @@
       ]
     },
     {
+      "id": "bea0af8a4a81",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide effects on diabetic rats' cognition.",
+      "summary": "Published in Lab Anim (NY). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Lab Anim (NY))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527705/",
+      "published": "2026-08-01",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "13fc15219571",
       "category": "research",
       "compound": "GHK-Cu",
@@ -29,6 +45,22 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0e832e90316c",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Signaling Suppresses HRas(G12V)-induced Tumor Growth and Metastasis by Inhibiting SP1-dependent N-cadherin Expression in NIH3T3 Cells.",
+      "summary": "Published in Anticancer Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Anticancer Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527090/",
+      "published": "2026-08-01",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -61,22 +93,6 @@
       "published": "2026-07-27",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "ff2e5b026793",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Ambient Air Pollution, Polycyclic Aromatic Hydrocarbons, and Pubertal Development: A Critical Review of Emerging Evidence.",
-      "summary": "Published in Curr Environ Health Rep. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Curr Environ Health Rep)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42503559/",
-      "published": "2026-07-27",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -171,22 +187,6 @@
       "source": "PubMed (J Clin Endocrinol Metab)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42444567/",
       "published": "2026-07-14",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "b9969a3a21f7",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide fact check: Has a man died after taking the unapproved weight loss jab?",
-      "summary": "Published in BMJ. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (BMJ)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42425580/",
-      "published": "2026-07-09",
       "tags": [
         "retatrutide",
         "research",
