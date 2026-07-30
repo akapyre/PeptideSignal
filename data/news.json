@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:31:49Z",
+  "generated_at": "2026-07-30T19:37:25Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -59,6 +59,22 @@
       "source": "PubMed (Anticancer Res)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42527090/",
       "published": "2026-08-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6b5293936e13",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Maternal-Neonatal Metabolic Continuity and Early Postnatal HPG Axis Activity in Healthy Term Neonates.",
+      "summary": "Published in Clin Endocrinol (Oxf). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Clin Endocrinol (Oxf))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529951/",
+      "published": "2026-07-30",
       "tags": [
         "kisspeptin",
         "research",
@@ -173,22 +189,6 @@
       "published": "2026-07-19",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "15697bccd2e1",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Medical Treatments for Obesity: What Does the Future Have in Store?",
-      "summary": "Published in J Clin Endocrinol Metab. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Clin Endocrinol Metab)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42444567/",
-      "published": "2026-07-14",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -349,6 +349,22 @@
       "published": "2026-06-15",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a28111051f2d",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Efficacy and Safety of Dual and Triple Glucagon-Like Peptide-1-Based Polyagonists in Metabolic Dysfunction-Associated Steatotic Liver Disease and Steatohepatitis: A Systematic Review and Meta-Analysis.",
+      "summary": "Published in Cureus. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cureus)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529769/",
+      "published": "2026-06-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -658,6 +674,38 @@
       ]
     },
     {
+      "id": "04c32c9e552a",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-30.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05929079",
+      "published": "2026-01-07",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "8f092735016a",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Obesity and Cardiovascular Disease",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-30.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05882045",
+      "published": "2026-01-07",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
       "id": "e8de019c5736",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -666,38 +714,6 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07035093",
-      "published": "2026-01-07",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
-      ]
-    },
-    {
-      "id": "06c61b33c7b4",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06383390",
-      "published": "2026-01-07",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
-      ]
-    },
-    {
-      "id": "e1731bdb8c9f",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-20.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06297603",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -770,19 +786,19 @@
       ]
     },
     {
-      "id": "bf61705fb673",
+      "id": "0d80080d3f3c",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
         "clinicaltrials.gov",
-        "recruiting"
+        "completed"
       ]
     },
     {
@@ -1101,22 +1117,6 @@
       "published": "2026-01-01",
       "tags": [
         "semax",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f679531a5aa2",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "A brain-first framework for perimenopause management: the case for non-invasive neuromodulation.",
-      "summary": "Published in Front Glob Womens Health. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Glob Womens Health)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42519421/",
-      "published": "2026-01-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
