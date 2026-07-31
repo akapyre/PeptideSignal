@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:54:19Z",
+  "generated_at": "2026-07-31T19:38:28Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -354,6 +354,22 @@
       ]
     },
     {
+      "id": "3f4c8f963132",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Stable pentadecapeptide therapy counteracts gentamicin-induced nephrotoxicity via nitric oxide-system modulation: evidence from a triple nitric oxide-agent approach in rats.",
+      "summary": "Published in J Physiol Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Physiol Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42533460/",
+      "published": "2026-06-01",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "a28111051f2d",
       "category": "research",
       "compound": "retatrutide",
@@ -442,22 +458,6 @@
       "why_it_matters": "",
       "source": "PubMed (Pharmaceuticals (Basel))",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42356491/",
-      "published": "2026-05-30",
-      "tags": [
-        "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "eba965a467ba",
-      "category": "research",
-      "compound": "BPC-157",
-      "title": "BPC-157 and Its Novel Hybrid Analogs as Inhibitors of Acetylcholinesterase.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42278509/",
       "published": "2026-05-30",
       "tags": [
         "bpc-157",
@@ -882,22 +882,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -911,6 +895,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -946,22 +946,6 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
-      ]
-    },
-    {
       "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -975,6 +959,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "a9b4085a86c4",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
       ]
     },
     {
