@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T19:37:25Z",
+  "generated_at": "2026-07-31T08:54:19Z",
   "items": [
     {
       "id": "621865e9e550",
@@ -45,6 +45,38 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "bc77ba74747a",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Circulating mitochondrial-derived microproteins at rest and in response to an acute bout of endurance exercise in individuals with cerebral palsy.",
+      "summary": "Published in Exp Physiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Exp Physiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42349896/",
+      "published": "2026-08-01",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e36172071dbb",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Mitochondrial peptide MOTS-c suppresses systemic and cardiac inflammasome activation in a diabetic rat model.",
+      "summary": "Published in Exp Physiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Exp Physiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42321010/",
+      "published": "2026-08-01",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
@@ -274,22 +306,6 @@
       ]
     },
     {
-      "id": "bc77ba74747a",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Circulating mitochondrial-derived microproteins at rest and in response to an acute bout of endurance exercise in individuals with cerebral palsy.",
-      "summary": "Published in Exp Physiol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Exp Physiol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42349896/",
-      "published": "2026-06-25",
-      "tags": [
-        "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "cbced634212e",
       "category": "research",
       "compound": "MOTS-c",
@@ -299,22 +315,6 @@
       "source": "PubMed (Inflamm Regen)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42324588/",
       "published": "2026-06-22",
-      "tags": [
-        "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "e36172071dbb",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Mitochondrial peptide MOTS-c suppresses systemic and cardiac inflammasome activation in a diabetic rat model.",
-      "summary": "Published in Exp Physiol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Exp Physiol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42321010/",
-      "published": "2026-06-19",
       "tags": [
         "mots-c",
         "research",
