@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-31T19:38:28Z",
+  "generated_at": "2026-08-01T08:25:23Z",
   "items": [
     {
-      "id": "621865e9e550",
+      "id": "db168ab75c73",
       "category": "research",
-      "compound": "tesamorelin",
-      "title": "The effect of growth hormone-releasing hormone on cognition and brain connectivity in adults with cognition ranging from normal to mild cognitive impairment.",
-      "summary": "Published in eNeurologicalSci. See abstract for full findings.",
+      "compound": "GHK-Cu",
+      "title": "Hierarchical regulation and mechanism of \"open-hollow-fibrous network\" structures: Osteogenic-angiogenic coupling responses of poly(\u03b3-benzyl-L-glutamate) microspheres.",
+      "summary": "Published in Biomater Adv. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (eNeurologicalSci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42382101/",
-      "published": "2026-09-01",
+      "source": "PubMed (Biomater Adv)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42320090/",
+      "published": "2026-11-01",
       "tags": [
-        "tesamorelin",
+        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -162,22 +162,6 @@
       ]
     },
     {
-      "id": "aade82320a3f",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide and the urinary tract infection signal: Is the answer hidden in timing?",
-      "summary": "Published in Eur J Intern Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Eur J Intern Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42493254/",
-      "published": "2026-07-23",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "0697bb943db2",
       "category": "research",
       "compound": "LL-37",
@@ -317,22 +301,6 @@
       "published": "2026-06-22",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "db168ab75c73",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "Hierarchical regulation and mechanism of \"open-hollow-fibrous network\" structures: Osteogenic-angiogenic coupling responses of poly(\u03b3-benzyl-L-glutamate) microspheres.",
-      "summary": "Published in Biomater Adv. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biomater Adv)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320090/",
-      "published": "2026-06-15",
-      "tags": [
-        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -1085,6 +1053,38 @@
       "published": "2026-01-01",
       "tags": [
         "tb-500",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0f3fffb8abc4",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "[An historical overview of GLP-1/GIP incretins. From hormone to \"swiss-army knife\" medications].",
+      "summary": "Published in Biol Aujourdhui. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biol Aujourdhui)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42536830/",
+      "published": "2026-01-01",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f694396de75f",
+      "category": "research",
+      "compound": "tesamorelin",
+      "title": "Efficacy and Safety of Tesamorelin in People Living With HIV (PLWH) With Lipodystrophy: A Systematic Review and Meta-Analysis.",
+      "summary": "Published in J Int Assoc Provid AIDS Care. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Int Assoc Provid AIDS Care)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538058/",
+      "published": "2026-01-01",
+      "tags": [
+        "tesamorelin",
         "research",
         "pubmed"
       ]
