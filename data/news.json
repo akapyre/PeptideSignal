@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T08:28:21Z",
+  "generated_at": "2026-08-02T19:15:18Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -146,22 +146,6 @@
       ]
     },
     {
-      "id": "f9933d7db587",
-      "category": "research",
-      "compound": "BPC-157",
-      "title": "Rapid and harmonized analytical workflow for the determination of peptidic and non-peptidic doping agents in dried and liquid blood matrices.",
-      "summary": "Published in Analyst. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Analyst)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42328738/",
-      "published": "2026-07-27",
-      "tags": [
-        "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "f1c34f0eba26",
       "category": "research",
       "compound": "SS-31",
@@ -173,6 +157,22 @@
       "published": "2026-07-24",
       "tags": [
         "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "af520930826c",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study.",
+      "summary": "Published in Jt Dis Relat Surg. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Jt Dis Relat Surg)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542926/",
+      "published": "2026-07-23",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -1042,22 +1042,6 @@
       ]
     },
     {
-      "id": "b6a3dd687ed1",
-      "category": "research",
-      "compound": "TB-500",
-      "title": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions.",
-      "summary": "Published in J Am Acad Orthop Surg Glob Res Rev. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Am Acad Orthop Surg Glob Res Rev)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41490200/",
-      "published": "2026-01-01",
-      "tags": [
-        "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "0f3fffb8abc4",
       "category": "research",
       "compound": "retatrutide",
@@ -1117,6 +1101,22 @@
       "published": "2026-01-01",
       "tags": [
         "semax",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "b6a3dd687ed1",
+      "category": "research",
+      "compound": "Selank",
+      "title": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions.",
+      "summary": "Published in J Am Acad Orthop Surg Glob Res Rev. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Am Acad Orthop Surg Glob Res Rev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41490200/",
+      "published": "2026-01-01",
+      "tags": [
+        "selank",
         "research",
         "pubmed"
       ]
