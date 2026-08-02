@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:13:08Z",
+  "generated_at": "2026-08-02T08:28:21Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -98,6 +98,38 @@
       ]
     },
     {
+      "id": "63687df2c67c",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Scalp Rosacea: Current Evidence.",
+      "summary": "Published in Dermatol Ther (Heidelb). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Dermatol Ther (Heidelb))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541637/",
+      "published": "2026-08-01",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "9e9ed262b648",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Positive actions of fibroblast growth factor 21 on female zebrafish reproductive axis.",
+      "summary": "Published in Theriogenology. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Theriogenology)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541973/",
+      "published": "2026-07-30",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "6b5293936e13",
       "category": "research",
       "compound": "kisspeptin",
@@ -107,22 +139,6 @@
       "source": "PubMed (Clin Endocrinol (Oxf))",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529951/",
       "published": "2026-07-30",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "33d07a74aa2d",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Role of KNDy neurons in the negative-feedback suppression of gonadotropin secretion in female rats.",
-      "summary": "Published in Endocrinology. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Endocrinology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42522579/",
-      "published": "2026-07-29",
       "tags": [
         "kisspeptin",
         "research",
@@ -171,22 +187,6 @@
       "source": "PubMed (Anaerobe)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42492756/",
       "published": "2026-07-23",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "15d2c4c6ba40",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "RNA selectively modulates activity of virulent amyloid PSM\u03b13 and host-defense LL-37 via phase separation and aggregation dynamics.",
-      "summary": "Published in Elife. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Elife)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42474037/",
-      "published": "2026-07-20",
       "tags": [
         "ll-37",
         "research",
