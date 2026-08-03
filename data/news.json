@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:52:07Z",
+  "generated_at": "2026-08-03T19:42:06Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -642,6 +642,22 @@
       ]
     },
     {
+      "id": "1ad9b7428d0e",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "The Impact of Thymosin \u03b1-1 on the Efficacy of Concurrent Chemoradiotherapy Followed by Immunotherpay Consolidation for Locally Advanced NSCLC",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-08-03.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06139419",
+      "published": "2026-01-08",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
       "id": "04c32c9e552a",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -738,22 +754,6 @@
       ]
     },
     {
-      "id": "120156eaa612",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224490",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "0d80080d3f3c",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -778,6 +778,22 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "120156eaa612",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -834,19 +850,19 @@
       ]
     },
     {
-      "id": "74ba0972d455",
+      "id": "e5a4855a4f0b",
       "category": "clinical-trial",
-      "compound": "Thymosin Alpha-1",
-      "title": "Neoadjuvant Chemoradiotherapy Combined With PD-1 Inhibitor and Thymalfasin for Locally Advanced Mid-low Rectal Cancer",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-06-18.",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06024356",
-      "published": "2026-01-06",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
       "tags": [
-        "thymosin alpha-1",
+        "tesamorelin",
         "clinicaltrials.gov",
-        "completed"
+        "terminated"
       ]
     },
     {
@@ -863,22 +879,6 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
       ]
     },
     {
@@ -914,22 +914,6 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -943,6 +927,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "c3e72ef84dd7",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
