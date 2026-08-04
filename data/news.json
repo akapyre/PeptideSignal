@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T19:42:06Z",
+  "generated_at": "2026-08-04T08:42:24Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -13,6 +13,22 @@
       "published": "2026-11-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "1eb7429ee701",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Disruption of hippocampal mitochondrial function underlies opioid-induced postoperative cognitive dysfunction in aged rats.",
+      "summary": "Published in Brain Behav Immun. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Brain Behav Immun)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42546889/",
+      "published": "2026-08-03",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -269,22 +285,6 @@
       "published": "2026-06-29",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "5d9c2c331c9b",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Mitochondrial-Targeted SS-31 Attenuates the Doxorubicin-Induced Cardiomyoblast H9C2 Cell Senescence.",
-      "summary": "Published in Biology (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biology (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450582/",
-      "published": "2026-06-28",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
