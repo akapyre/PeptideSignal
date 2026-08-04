@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T08:42:24Z",
+  "generated_at": "2026-08-04T19:41:44Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -13,6 +13,22 @@
       "published": "2026-11-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "501cf86d752c",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Chronic Subcutaneous Kisspeptin-10 Stimulates Gonadotropin Secretion for 12 Days in Healthy Men.",
+      "summary": "Published in Eur J Endocrinol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Eur J Endocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42549827/",
+      "published": "2026-08-04",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -93,22 +109,6 @@
       "published": "2026-08-01",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "0e832e90316c",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Signaling Suppresses HRas(G12V)-induced Tumor Growth and Metastasis by Inhibiting SP1-dependent N-cadherin Expression in NIH3T3 Cells.",
-      "summary": "Published in Anticancer Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Anticancer Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42527090/",
-      "published": "2026-08-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -658,22 +658,6 @@
       ]
     },
     {
-      "id": "04c32c9e552a",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-30.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05929079",
-      "published": "2026-01-07",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
       "id": "8f092735016a",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -682,6 +666,22 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT05882045",
+      "published": "2026-01-07",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "04c32c9e552a",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-30.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05929079",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -754,38 +754,6 @@
       ]
     },
     {
-      "id": "0d80080d3f3c",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
-      "id": "ca61bf97035b",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -799,6 +767,38 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "bf61705fb673",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "0d80080d3f3c",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
       ]
     },
     {
@@ -850,22 +850,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -879,6 +863,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -914,22 +914,6 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
-      ]
-    },
-    {
       "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -943,6 +927,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "a9b4085a86c4",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
       ]
     },
     {
