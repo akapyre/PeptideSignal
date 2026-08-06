@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:39:42Z",
+  "generated_at": "2026-08-06T08:41:34Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -45,6 +45,22 @@
       "published": "2026-08-03",
       "tags": [
         "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "262314c0a6eb",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Fabrication and characterization of biocompatible BPC-157 based chitosan hydrogel.",
+      "summary": "Published in 3 Biotech. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (3 Biotech)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555375/",
+      "published": "2026-08-01",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -114,6 +130,22 @@
       ]
     },
     {
+      "id": "bfab5608c678",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Daily Rhythmic Changes in Kisspeptin Gene Expression and Testosterone Hormone in Male Syrian Hamsters (Mesocricetus auratus).",
+      "summary": "Published in Zoolog Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Zoolog Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555223/",
+      "published": "2026-08-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "63687df2c67c",
       "category": "research",
       "compound": "LL-37",
@@ -138,22 +170,6 @@
       "why_it_matters": "",
       "source": "PubMed (Theriogenology)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42541973/",
-      "published": "2026-07-30",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "6b5293936e13",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Maternal-Neonatal Metabolic Continuity and Early Postnatal HPG Axis Activity in Healthy Term Neonates.",
-      "summary": "Published in Clin Endocrinol (Oxf). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Endocrinol (Oxf))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42529951/",
       "published": "2026-07-30",
       "tags": [
         "kisspeptin",
@@ -413,22 +429,6 @@
       "published": "2026-06-01",
       "tags": [
         "kpv",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "4f580584a9e0",
-      "category": "research",
-      "compound": "BPC-157",
-      "title": "Unilateral Adrenalectomy, and the Stable Pentadecapeptide BPC 157 as Therapy in Rats-A Cytoprotection Approach.",
-      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Pharmaceuticals (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42356491/",
-      "published": "2026-05-30",
-      "tags": [
-        "bpc-157",
         "research",
         "pubmed"
       ]
