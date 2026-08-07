@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:05:20Z",
+  "generated_at": "2026-08-07T07:20:32Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -29,6 +29,38 @@
       "published": "2026-09-01",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "58ffcaaf7e47",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Integrating GLP-1 Receptor Agonists Into Dermatology Practice: Safety and Monitoring Strategies.",
+      "summary": "Published in Clin Dermatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Clin Dermatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42562129/",
+      "published": "2026-08-06",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "891f08b4699a",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Stigmasterol alleviates central precocious puberty by targeting the IGF-1/PI3K/Akt/mTOR signaling pathway and modulating the Kisspeptin/GnRH axis.",
+      "summary": "Published in Biochim Biophys Acta Mol Basis Dis. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biochim Biophys Acta Mol Basis Dis)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42562054/",
+      "published": "2026-08-06",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -189,22 +221,6 @@
       "published": "2026-08-01",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "9e9ed262b648",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Positive actions of fibroblast growth factor 21 on female zebrafish reproductive axis.",
-      "summary": "Published in Theriogenology. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Theriogenology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541973/",
-      "published": "2026-07-30",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -1021,22 +1037,6 @@
       "published": "2026-01-01",
       "tags": [
         "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "0f3fffb8abc4",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "[An historical overview of GLP-1/GIP incretins. From hormone to \"swiss-army knife\" medications].",
-      "summary": "Published in Biol Aujourdhui. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biol Aujourdhui)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42536830/",
-      "published": "2026-01-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
