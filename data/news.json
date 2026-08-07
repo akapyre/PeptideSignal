@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:41:34Z",
+  "generated_at": "2026-08-07T00:05:20Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -13,6 +13,54 @@
       "published": "2026-11-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "bf1b1c1acf93",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Composition and Labelling Accuracy of Products Sold as Retatrutide in Australia.",
+      "summary": "Published in Drug Alcohol Rev. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Drug Alcohol Rev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42559975/",
+      "published": "2026-09-01",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "671323d0facc",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Antibiotic loaded solid lipid nanoparticles target bacteria in a pyogenic spondylitis rat model.",
+      "summary": "Published in Discov Nano. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Discov Nano)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42560613/",
+      "published": "2026-08-06",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "577ec3001466",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "The role of GLP-1 and GIP receptor agonists in the treatment of diabetes and obesity.",
+      "summary": "Published in Pharmacol Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Pharmacol Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556625/",
+      "published": "2026-08-05",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -61,22 +109,6 @@
       "published": "2026-08-01",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "bea0af8a4a81",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide effects on diabetic rats' cognition.",
-      "summary": "Published in Lab Anim (NY). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Lab Anim (NY))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42527705/",
-      "published": "2026-08-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -210,22 +242,6 @@
       ]
     },
     {
-      "id": "0697bb943db2",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Bile salt-mediated adaptation of Bacteroides spp.: in vitro analysis of colonization and metabolism.",
-      "summary": "Published in Anaerobe. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Anaerobe)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42492756/",
-      "published": "2026-07-23",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "1658625fc6b0",
       "category": "research",
       "compound": "LL-37",
@@ -349,22 +365,6 @@
       "published": "2026-06-01",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "a28111051f2d",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Efficacy and Safety of Dual and Triple Glucagon-Like Peptide-1-Based Polyagonists in Metabolic Dysfunction-Associated Steatotic Liver Disease and Steatohepatitis: A Systematic Review and Meta-Analysis.",
-      "summary": "Published in Cureus. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cureus)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42529769/",
-      "published": "2026-06-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -498,22 +498,6 @@
       ]
     },
     {
-      "id": "307d3ef2e9aa",
-      "category": "research",
-      "compound": "Semax",
-      "title": "Digitally Guided Hybrid Maxillary Expansion with Supragingival Mandibular Miniplates for Class III Correction in Late Adolescents: A Pilot Clinical Study.",
-      "summary": "Published in J Clin Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Clin Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42074872/",
-      "published": "2026-04-17",
-      "tags": [
-        "semax",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "35d6f1d3325b",
       "category": "research",
       "compound": "TB-500",
@@ -642,6 +626,38 @@
       ]
     },
     {
+      "id": "b36a3201efdf",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "Pre-approval Expanded Access of Retatrutide (LY3437943)",
+      "summary": "Status: AVAILABLE. Registry entry updated 2026-08-06.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07629401",
+      "published": "2026-01-08",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "available"
+      ]
+    },
+    {
+      "id": "d6e6c8a3bead",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated Steatotic Liver Disease (SYNERGY-Outcomes)",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-08-06.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07165028",
+      "published": "2026-01-08",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "1ad9b7428d0e",
       "category": "clinical-trial",
       "compound": "Thymosin Alpha-1",
@@ -653,22 +669,6 @@
       "published": "2026-01-08",
       "tags": [
         "thymosin alpha-1",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
-      "id": "8f092735016a",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants With Obesity and Cardiovascular Disease",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-30.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05882045",
-      "published": "2026-01-07",
-      "tags": [
-        "retatrutide",
         "clinicaltrials.gov",
         "completed"
       ]
@@ -687,22 +687,6 @@
         "retatrutide",
         "clinicaltrials.gov",
         "completed"
-      ]
-    },
-    {
-      "id": "e8de019c5736",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight and Chronic Low Back Pain",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-07-23.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07035093",
-      "published": "2026-01-07",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
       ]
     },
     {
@@ -754,38 +738,6 @@
       ]
     },
     {
-      "id": "0d80080d3f3c",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
-      "id": "bf61705fb673",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -799,6 +751,38 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "120156eaa612",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "0d80080d3f3c",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
       ]
     },
     {
@@ -914,22 +898,6 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
-      ]
-    },
-    {
       "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -943,6 +911,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "a9b4085a86c4",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
       ]
     },
     {
@@ -1085,6 +1069,22 @@
       "published": "2026-01-01",
       "tags": [
         "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "11198d93a59c",
+      "category": "research",
+      "compound": "Semax",
+      "title": "Quantitative MRI Pharmacokinetic Modeling and MALDI Mass Spectrometry Imaging Biodistribution of a pH Mapping MRI Contrast Agent.",
+      "summary": "Published in Theranostics. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Theranostics)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42559144/",
+      "published": "2026-01-01",
+      "tags": [
+        "semax",
         "research",
         "pubmed"
       ]
