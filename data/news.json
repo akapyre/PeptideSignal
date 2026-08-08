@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T19:01:32Z",
+  "generated_at": "2026-08-08T06:58:38Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -29,6 +29,38 @@
       "published": "2026-09-01",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f0308bebb4be",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide: Obesity drug opens to \"compassionate use\" in US after speculation Trump took it.",
+      "summary": "Published in BMJ. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMJ)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42567543/",
+      "published": "2026-08-07",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "59f1c7a927f2",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Seminal Plasma Kisspeptin-1 and Kisspeptin-54 Levels Are Associated With Semen Parameters and Oxidative Stress in Male Infertility.",
+      "summary": "Published in Clin Endocrinol (Oxf). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Clin Endocrinol (Oxf))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566672/",
+      "published": "2026-08-07",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -77,38 +109,6 @@
       "published": "2026-08-06",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "577ec3001466",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "The role of GLP-1 and GIP receptor agonists in the treatment of diabetes and obesity.",
-      "summary": "Published in Pharmacol Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Pharmacol Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42556625/",
-      "published": "2026-08-05",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "501cf86d752c",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Chronic Subcutaneous Kisspeptin-10 Stimulates Gonadotropin Secretion for 12 Days in Healthy Men.",
-      "summary": "Published in Eur J Endocrinol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Eur J Endocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42549827/",
-      "published": "2026-08-04",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -642,6 +642,54 @@
       ]
     },
     {
+      "id": "cc41790aec9f",
+      "category": "clinical-trial",
+      "compound": "BPC-157",
+      "title": "A Clinical Trial to Evaluate the Effects of Peptide Gummies on Markers of Inflammation, Physical Performance, and Recovery",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-08-07.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07752381",
+      "published": "2026-01-08",
+      "tags": [
+        "bpc-157",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "b36a3201efdf",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "Pre-approval Expanded Access of Retatrutide (LY3437943)",
+      "summary": "Status: AVAILABLE. Registry entry updated 2026-08-06.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07629401",
+      "published": "2026-01-08",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "available"
+      ]
+    },
+    {
+      "id": "d6e6c8a3bead",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated Steatotic Liver Disease (SYNERGY-Outcomes)",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-08-06.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07165028",
+      "published": "2026-01-08",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "1ad9b7428d0e",
       "category": "clinical-trial",
       "compound": "Thymosin Alpha-1",
@@ -655,6 +703,38 @@
         "thymosin alpha-1",
         "clinicaltrials.gov",
         "completed"
+      ]
+    },
+    {
+      "id": "8f092735016a",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Obesity and Cardiovascular Disease",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-30.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05882045",
+      "published": "2026-01-07",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "d27516809f8a",
+      "category": "clinical-trial",
+      "compound": "GHK-Cu",
+      "title": "Two-Part Study of the Effects of the X39 Patch on Circulating GHK and GHK-Cu Levels in Healthy Adults",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-07-15.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07706361",
+      "published": "2026-01-07",
+      "tags": [
+        "ghk-cu",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
       ]
     },
     {
@@ -786,6 +866,38 @@
       ]
     },
     {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
+      ]
+    },
+    {
       "id": "17d1a0da7511",
       "category": "clinical-trial",
       "compound": "MOTS-c",
@@ -847,6 +959,70 @@
         "ll-37",
         "clinicaltrials.gov",
         "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "84888b8ca571",
+      "category": "clinical-trial",
+      "compound": "TB-500",
+      "title": "TB-500 (Thymosin Beta 4 17-23 Fragment) for Cardiovascular Biomarkers in Stable ASCVD",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-03-23.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07487363",
+      "published": "2026-01-03",
+      "tags": [
+        "tb-500",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "0b6e7ca3a917",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin for Reduction of Liver Fat in Adults With Fatty Liver Disease (Mock Study)",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-03-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07481734",
+      "published": "2026-01-03",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "09fb671d5515",
+      "category": "clinical-trial",
+      "compound": "BPC-157",
+      "title": "BPC 157 for Acute Hamstring Muscle Strain Repair",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-02-27.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07437547",
+      "published": "2026-01-02",
+      "tags": [
+        "bpc-157",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "13d72c15ffd0",
+      "category": "clinical-trial",
+      "compound": "GHK-Cu",
+      "title": "Topical GHK-Cu Gel for Acute Skin Wound Healing",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-02-27.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07437586",
+      "published": "2026-01-02",
+      "tags": [
+        "ghk-cu",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -1085,6 +1261,22 @@
       "published": "2024-01-12",
       "tags": [
         "selank",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "28f1bdcb48cb",
+      "category": "clinical-trial",
+      "compound": "GHK-Cu",
+      "title": "Trial Assessing the Impact on Facial Skin Quality, Hydration, and Skin Barrier of Three (3) Hydrafacial Treatments in Adults of All Skin Types.",
+      "summary": "Status: COMPLETED. Registry entry updated 2024-10-24.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05932732",
+      "published": "2024-01-10",
+      "tags": [
+        "ghk-cu",
         "clinicaltrials.gov",
         "completed"
       ]
@@ -1567,6 +1759,22 @@
         "aod-9604",
         "research",
         "pubmed"
+      ]
+    },
+    {
+      "id": "1586d417b274",
+      "category": "clinical-trial",
+      "compound": "BPC-157",
+      "title": "PCO-02 - Safety and Pharmacokinetics Trial",
+      "summary": "Status: UNKNOWN. Registry entry updated 2015-12-22.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT02637284",
+      "published": "2015-01-12",
+      "tags": [
+        "bpc-157",
+        "clinicaltrials.gov",
+        "unknown"
       ]
     },
     {
