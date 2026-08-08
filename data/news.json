@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:58:38Z",
+  "generated_at": "2026-08-08T18:41:39Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -13,22 +13,6 @@
       "published": "2026-11-01",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "bf1b1c1acf93",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Composition and Labelling Accuracy of Products Sold as Retatrutide in Australia.",
-      "summary": "Published in Drug Alcohol Rev. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Drug Alcohol Rev)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42559975/",
-      "published": "2026-09-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -1053,6 +1037,22 @@
       "published": "2026-01-01",
       "tags": [
         "tb-500",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "ed8d22295ea9",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Incretin analogues as cardiovascular agents: a state-of-the-art review.",
+      "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Endocrinol (Lausanne))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42568490/",
+      "published": "2026-01-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
