@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:41:39Z",
+  "generated_at": "2026-08-09T07:01:10Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -13,6 +13,22 @@
       "published": "2026-11-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "5b41778b7bca",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Targeting Mitochondria for Postoperative Cognitive Dysfunction: From Mechanisms to Therapeutics.",
+      "summary": "Published in Mol Neurobiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Mol Neurobiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42570043/",
+      "published": "2026-08-08",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -205,22 +221,6 @@
       "published": "2026-08-01",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f1c34f0eba26",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Mitochondrial-targeted SS-31 peptide attenuates radiation-induced cardiomyocyte senescence.",
-      "summary": "Published in J Radiat Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Radiat Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456009/",
-      "published": "2026-07-24",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
