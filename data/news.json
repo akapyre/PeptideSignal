@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:01:10Z",
+  "generated_at": "2026-08-09T18:45:32Z",
   "items": [
     {
       "id": "db168ab75c73",
@@ -194,14 +194,14 @@
       ]
     },
     {
-      "id": "bfab5608c678",
+      "id": "4c4c7fc569eb",
       "category": "research",
       "compound": "kisspeptin",
-      "title": "Daily Rhythmic Changes in Kisspeptin Gene Expression and Testosterone Hormone in Male Syrian Hamsters (Mesocricetus auratus).",
-      "summary": "Published in Zoolog Sci. See abstract for full findings.",
+      "title": "Hyperkisspeptinemia and hypothalamic-pituitary-gonadal axis uncoupling in hemodialysis patients: clinical evidence suggestive of central desensitization.",
+      "summary": "Published in Clin Kidney J. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Zoolog Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555223/",
+      "source": "PubMed (Clin Kidney J)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42571597/",
       "published": "2026-08-01",
       "tags": [
         "kisspeptin",
