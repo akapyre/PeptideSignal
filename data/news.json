@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-08-10T07:47:26Z",
+  "generated_at": "2026-08-10T19:01:29Z",
   "items": [
-    {
-      "id": "db168ab75c73",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "Hierarchical regulation and mechanism of \"open-hollow-fibrous network\" structures: Osteogenic-angiogenic coupling responses of poly(\u03b3-benzyl-L-glutamate) microspheres.",
-      "summary": "Published in Biomater Adv. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biomater Adv)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42320090/",
-      "published": "2026-11-01",
-      "tags": [
-        "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
     {
       "id": "5b41778b7bca",
       "category": "research",
@@ -141,6 +125,38 @@
       "published": "2026-08-01",
       "tags": [
         "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "35d6f1d3325b",
+      "category": "research",
+      "compound": "TB-500",
+      "title": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance.",
+      "summary": "Published in Sports Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Sports Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41966639/",
+      "published": "2026-08-01",
+      "tags": [
+        "tb-500",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "2a702a2bcab9",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Augmented Skin Beneficial Effects of Thermus Thermophilus and Bacillus Subtilis Mixed-Culture Ferment Extract by Tripeptide GHK-Cu.",
+      "summary": "Published in Skin Res Technol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Skin Res Technol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42573538/",
+      "published": "2026-08-01",
+      "tags": [
+        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -498,22 +514,6 @@
       ]
     },
     {
-      "id": "35d6f1d3325b",
-      "category": "research",
-      "compound": "TB-500",
-      "title": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance.",
-      "summary": "Published in Sports Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Sports Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41966639/",
-      "published": "2026-04-12",
-      "tags": [
-        "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "1f602cd9e5b4",
       "category": "research",
       "compound": "SLU-PP-332",
@@ -690,14 +690,14 @@
       ]
     },
     {
-      "id": "8f092735016a",
+      "id": "04c32c9e552a",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants With Obesity and Cardiovascular Disease",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
       "summary": "Status: COMPLETED. Registry entry updated 2026-07-30.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05882045",
+      "url": "https://clinicaltrials.gov/study/NCT05929079",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -754,14 +754,14 @@
       ]
     },
     {
-      "id": "ca61bf97035b",
+      "id": "bf61705fb673",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "url": "https://clinicaltrials.gov/study/NCT07224438",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -770,14 +770,14 @@
       ]
     },
     {
-      "id": "120156eaa612",
+      "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "url": "https://clinicaltrials.gov/study/NCT05896293",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -850,22 +850,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -879,6 +863,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
