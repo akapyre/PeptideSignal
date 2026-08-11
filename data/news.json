@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-11T07:12:56Z",
+  "generated_at": "2026-08-11T19:05:59Z",
   "items": [
+    {
+      "id": "369e0559ede1",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine.",
+      "summary": "Published in Am J Sports Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Am J Sports Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42578445/",
+      "published": "2026-08-11",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "4e54aa2dc02e",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Emerging regulators of human physiology and disease; sORF-encoded microproteins.",
+      "summary": "Published in Epigenomics. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Epigenomics)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576277/",
+      "published": "2026-08-10",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
     {
       "id": "5b41778b7bca",
       "category": "research",
@@ -130,22 +162,6 @@
       ]
     },
     {
-      "id": "35d6f1d3325b",
-      "category": "research",
-      "compound": "TB-500",
-      "title": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance.",
-      "summary": "Published in Sports Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Sports Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41966639/",
-      "published": "2026-08-01",
-      "tags": [
-        "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "2a702a2bcab9",
       "category": "research",
       "compound": "GHK-Cu",
@@ -154,22 +170,6 @@
       "why_it_matters": "",
       "source": "PubMed (Skin Res Technol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42573538/",
-      "published": "2026-08-01",
-      "tags": [
-        "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "13fc15219571",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "Copper peptide activated cascade catalysis for glucose regulation and hypoxia reversing in infected diabetic wound healing.",
-      "summary": "Published in Mater Today Bio. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Mater Today Bio)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42404628/",
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
@@ -194,22 +194,6 @@
       ]
     },
     {
-      "id": "e36172071dbb",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Mitochondrial peptide MOTS-c suppresses systemic and cardiac inflammasome activation in a diabetic rat model.",
-      "summary": "Published in Exp Physiol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Exp Physiol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42321010/",
-      "published": "2026-08-01",
-      "tags": [
-        "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "4c4c7fc569eb",
       "category": "research",
       "compound": "kisspeptin",
@@ -221,6 +205,22 @@
       "published": "2026-08-01",
       "tags": [
         "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0fda2e0f92e8",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Antimicrobial Peptides of the Skin: Roles in Skin Cancer and Clinical Applications.",
+      "summary": "Published in Exp Dermatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Exp Dermatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576411/",
+      "published": "2026-08-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -242,6 +242,22 @@
       ]
     },
     {
+      "id": "35d6f1d3325b",
+      "category": "research",
+      "compound": "AOD-9604",
+      "title": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance.",
+      "summary": "Published in Sports Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Sports Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41966639/",
+      "published": "2026-08-01",
+      "tags": [
+        "aod-9604",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "af520930826c",
       "category": "research",
       "compound": "BPC-157",
@@ -253,22 +269,6 @@
       "published": "2026-07-23",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "1658625fc6b0",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Immunomodulatory Effects of Poly-D,L-Lactic Acid on LL-37-Driven Rosacea-like Inflammation via Suppression of mTORC1 Signaling.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511767/",
-      "published": "2026-07-19",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -365,22 +365,6 @@
       "published": "2026-06-15",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "3f4c8f963132",
-      "category": "research",
-      "compound": "BPC-157",
-      "title": "Stable pentadecapeptide therapy counteracts gentamicin-induced nephrotoxicity via nitric oxide-system modulation: evidence from a triple nitric oxide-agent approach in rats.",
-      "summary": "Published in J Physiol Pharmacol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Physiol Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42533460/",
-      "published": "2026-06-01",
-      "tags": [
-        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -491,22 +475,6 @@
       "source": "PubMed (JBJS Rev)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42160466/",
       "published": "2026-05-01",
-      "tags": [
-        "cjc-1295",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "5c66bae6def8",
-      "category": "research",
-      "compound": "CJC-1295",
-      "title": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42123471/",
-      "published": "2026-04-27",
       "tags": [
         "cjc-1295",
         "research",
@@ -642,22 +610,6 @@
       ]
     },
     {
-      "id": "b36a3201efdf",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "Pre-approval Expanded Access of Retatrutide (LY3437943)",
-      "summary": "Status: AVAILABLE. Registry entry updated 2026-08-06.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07629401",
-      "published": "2026-01-08",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "available"
-      ]
-    },
-    {
       "id": "d6e6c8a3bead",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -671,6 +623,22 @@
         "retatrutide",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "b36a3201efdf",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "Pre-approval Expanded Access of Retatrutide (LY3437943)",
+      "summary": "Status: AVAILABLE. Registry entry updated 2026-08-06.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07629401",
+      "published": "2026-01-08",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "available"
       ]
     },
     {
@@ -690,14 +658,14 @@
       ]
     },
     {
-      "id": "04c32c9e552a",
+      "id": "8f092735016a",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Obesity and Cardiovascular Disease",
       "summary": "Status: COMPLETED. Registry entry updated 2026-07-30.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05929079",
+      "url": "https://clinicaltrials.gov/study/NCT05882045",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -786,19 +754,19 @@
       ]
     },
     {
-      "id": "0d80080d3f3c",
+      "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
         "clinicaltrials.gov",
-        "completed"
+        "recruiting"
       ]
     },
     {
@@ -914,22 +882,6 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -943,6 +895,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "c3e72ef84dd7",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
