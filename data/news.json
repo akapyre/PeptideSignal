@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-08-12T19:05:24Z",
+  "generated_at": "2026-08-13T07:39:07Z",
   "items": [
+    {
+      "id": "24aac88669c2",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "A tea exosome-integrated self\u2011oxygenating cascade chitosan/oxidized alginate hydrogel for remodeling the hyperglycemic and hypoxic microenvironment in diabetic wound healing.",
+      "summary": "Published in Carbohydr Polym. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Carbohydr Polym)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42586657/",
+      "published": "2026-10-01",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
     {
       "id": "369e0559ede1",
       "category": "research",
@@ -29,6 +45,22 @@
       "published": "2026-08-10",
       "tags": [
         "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "40d409b80a6f",
+      "category": "research",
+      "compound": "KPV",
+      "title": "KPV attenuates adipogenesis and lipid metabolism through modulation of ROS-mediated AKT/mTORC1/PPAR\u03b3 signaling.",
+      "summary": "Published in Tissue Cell. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Tissue Cell)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585803/",
+      "published": "2026-08-09",
+      "tags": [
+        "kpv",
         "research",
         "pubmed"
       ]
@@ -322,22 +354,6 @@
       ]
     },
     {
-      "id": "6ae4497749d3",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "A Torilis japonica Extract-GHK-Cu Complex Attenuates Th2 Cytokines and Promotes Keratinocyte Recovery: A Potential Antioxidant Strategy for Atopic Dermatitis.",
-      "summary": "Published in Antioxidants (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Antioxidants (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42510549/",
-      "published": "2026-06-29",
-      "tags": [
-        "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "cbced634212e",
       "category": "research",
       "compound": "MOTS-c",
@@ -573,22 +589,6 @@
       "published": "2026-01-20",
       "tags": [
         "bam-15",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "137e9f6a0e0e",
-      "category": "research",
-      "compound": "KPV",
-      "title": "Inflammation-triggered self-immolative conjugates enable oral peptide delivery by overcoming gastrointestinal barriers.",
-      "summary": "Published in Sci Adv. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Sci Adv)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41533788/",
-      "published": "2026-01-16",
-      "tags": [
-        "kpv",
         "research",
         "pubmed"
       ]
