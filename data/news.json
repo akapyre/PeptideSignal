@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:39:07Z",
+  "generated_at": "2026-08-13T19:06:20Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -114,22 +114,6 @@
       ]
     },
     {
-      "id": "58ffcaaf7e47",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Integrating GLP-1 Receptor Agonists Into Dermatology Practice: Safety and Monitoring Strategies.",
-      "summary": "Published in Clin Dermatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Dermatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42562129/",
-      "published": "2026-08-06",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "891f08b4699a",
       "category": "research",
       "compound": "kisspeptin",
@@ -157,6 +141,22 @@
       "published": "2026-08-06",
       "tags": [
         "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "4bf1ffaf27db",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Anti-Obesity Medications in Longevity and Aesthetic Medicine.",
+      "summary": "Published in J Clin Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Clin Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42590128/",
+      "published": "2026-08-03",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -258,22 +258,6 @@
       ]
     },
     {
-      "id": "63687df2c67c",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Scalp Rosacea: Current Evidence.",
-      "summary": "Published in Dermatol Ther (Heidelb). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Dermatol Ther (Heidelb))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541637/",
-      "published": "2026-08-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "35d6f1d3325b",
       "category": "research",
       "compound": "AOD-9604",
@@ -349,22 +333,6 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "cbced634212e",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Mitochondrial-derived peptide MOTS-c activates metabolic signaling but blunts reparative function in human mesenchymal stromal cells.",
-      "summary": "Published in Inflamm Regen. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Inflamm Regen)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42324588/",
-      "published": "2026-06-22",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
@@ -738,6 +706,22 @@
       ]
     },
     {
+      "id": "120156eaa612",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "0d80080d3f3c",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -751,22 +735,6 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "completed"
-      ]
-    },
-    {
-      "id": "bf61705fb673",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
       ]
     },
     {
@@ -818,22 +786,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -847,6 +799,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -1058,6 +1026,22 @@
       ]
     },
     {
+      "id": "daadd149e0b8",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Mitochondrial dysfunction in ARDS: unraveling the regulatory networks and therapeutic opportunities.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42592019/",
+      "published": "2026-01-01",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "11198d93a59c",
       "category": "research",
       "compound": "Semax",
@@ -1101,6 +1085,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f71398bed14c",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Virtual screening identifies specnuezhenide as a potential therapeutic agent for rosacea via KLK5/TLR4/NF-\u03baB pathway inhibition and metabolic modulation.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42591656/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
