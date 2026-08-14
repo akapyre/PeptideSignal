@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:28:45Z",
+  "generated_at": "2026-08-14T18:58:32Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -237,22 +237,6 @@
       "published": "2026-08-01",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "0fda2e0f92e8",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Antimicrobial Peptides of the Skin: Roles in Skin Cancer and Clinical Applications.",
-      "summary": "Published in Exp Dermatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Exp Dermatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42576411/",
-      "published": "2026-08-01",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -578,22 +562,6 @@
       ]
     },
     {
-      "id": "b36a3201efdf",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "Pre-approval Expanded Access of Retatrutide (LY3437943)",
-      "summary": "Status: AVAILABLE. Registry entry updated 2026-08-06.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07629401",
-      "published": "2026-01-08",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "available"
-      ]
-    },
-    {
       "id": "d6e6c8a3bead",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -607,6 +575,22 @@
         "retatrutide",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "b36a3201efdf",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "Pre-approval Expanded Access of Retatrutide (LY3437943)",
+      "summary": "Status: AVAILABLE. Registry entry updated 2026-08-06.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07629401",
+      "published": "2026-01-08",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "available"
       ]
     },
     {
@@ -690,14 +674,30 @@
       ]
     },
     {
-      "id": "ca61bf97035b",
+      "id": "0d80080d3f3c",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "bf61705fb673",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "url": "https://clinicaltrials.gov/study/NCT07224438",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -719,22 +719,6 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "0d80080d3f3c",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "completed"
       ]
     },
     {
@@ -850,22 +834,6 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
-      ]
-    },
-    {
       "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -879,6 +847,22 @@
         "ll-37",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "a9b4085a86c4",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "published": "2026-01-04",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
       ]
     },
     {
@@ -1085,6 +1069,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "dcf843bd7d06",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Precision synbiotic intervention with 2'-fucosyllactose and infant-derived Bifidobacterium modulates gut-immune axis and reduces disease risk in toddlers: a randomized controlled trial.",
+      "summary": "Published in Front Nutr. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Nutr)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42598364/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
