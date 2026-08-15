@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:42:34Z",
+  "generated_at": "2026-08-15T18:34:21Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -109,22 +109,6 @@
       "published": "2026-08-08",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f0308bebb4be",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide: Obesity drug opens to \"compassionate use\" in US after speculation Trump took it.",
-      "summary": "Published in BMJ. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (BMJ)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567543/",
-      "published": "2026-08-07",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -957,6 +941,22 @@
       "published": "2026-01-01",
       "tags": [
         "tb-500",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "959ec4e523dc",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Glucagon-like peptide-1 and peptide YY multi-agonism with GEP44 to optimize weight loss and glycemic control while reducing gastrointestinal side effects: the future of anti-obesity pharmacotherapy?",
+      "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Endocrinol (Lausanne))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42602523/",
+      "published": "2026-01-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
