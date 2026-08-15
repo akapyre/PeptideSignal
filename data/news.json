@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:58:32Z",
+  "generated_at": "2026-08-15T06:42:34Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,22 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "8f02437fd840",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Seawater immersion reshapes the temporal dynamics of traumatic brain injury and reveals mitochondrial oxidative stress as a modifiable therapeutic target.",
+      "summary": "Published in Exp Neurol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Exp Neurol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600764/",
+      "published": "2026-08-14",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -333,22 +349,6 @@
       "published": "2026-06-15",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "dc7b38df87fe",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "The Role of Oxidative Stress in Heart Failure: Mechanisms and Therapeutic Targets.",
-      "summary": "Published in Cureus. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cureus)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42495453/",
-      "published": "2026-06-01",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
