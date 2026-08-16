@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T18:34:21Z",
+  "generated_at": "2026-08-16T06:44:18Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -269,6 +269,22 @@
       "published": "2026-07-23",
       "tags": [
         "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "5f61fb4a7fc0",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Development and validation of a multiplexed LC-HRMS method for nine GLP-1 receptor agonists and its pharmaceutical application.",
+      "summary": "Published in J Chromatogr A. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Chromatogr A)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603384/",
+      "published": "2026-07-21",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -954,22 +970,6 @@
       "why_it_matters": "",
       "source": "PubMed (Front Endocrinol (Lausanne))",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42602523/",
-      "published": "2026-01-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "ed8d22295ea9",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Incretin analogues as cardiovascular agents: a state-of-the-art review.",
-      "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Endocrinol (Lausanne))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42568490/",
       "published": "2026-01-01",
       "tags": [
         "retatrutide",
