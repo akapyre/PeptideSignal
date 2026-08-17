@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:01:13Z",
+  "generated_at": "2026-08-17T18:43:16Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -594,6 +594,22 @@
       ]
     },
     {
+      "id": "067650515f20",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "Salivary Antimicrobial Peptides and Severe Early Childhood Caries in Turkish Children",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-08-17.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07414030",
+      "published": "2026-01-08",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
       "id": "1ad9b7428d0e",
       "category": "clinical-trial",
       "compound": "Thymosin Alpha-1",
@@ -610,14 +626,14 @@
       ]
     },
     {
-      "id": "04c32c9e552a",
+      "id": "8f092735016a",
       "category": "clinical-trial",
       "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Obesity and Cardiovascular Disease",
       "summary": "Status: COMPLETED. Registry entry updated 2026-07-30.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05929079",
+      "url": "https://clinicaltrials.gov/study/NCT05882045",
       "published": "2026-01-07",
       "tags": [
         "retatrutide",
@@ -674,38 +690,6 @@
       ]
     },
     {
-      "id": "0d80080d3f3c",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
-      "id": "bf61705fb673",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -719,6 +703,38 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "ca61bf97035b",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "0d80080d3f3c",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
       ]
     },
     {
@@ -770,22 +786,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -799,6 +799,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -826,22 +842,6 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT05054361",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
