@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:43:16Z",
+  "generated_at": "2026-08-18T06:48:32Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,22 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0e14b4a68c21",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide-Associated Improvements in Cardiovascular Risk Biomarkers in Adults With Obesity With or Without Type 2 Diabetes.",
+      "summary": "Published in Diabetes Obes Metab. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Diabetes Obes Metab)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42608321/",
+      "published": "2026-08-17",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -141,22 +157,6 @@
       "published": "2026-08-06",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "4bf1ffaf27db",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Anti-Obesity Medications in Longevity and Aesthetic Medicine.",
-      "summary": "Published in J Clin Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Clin Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42590128/",
-      "published": "2026-08-03",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
