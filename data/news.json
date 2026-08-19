@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:41:36Z",
+  "generated_at": "2026-08-19T06:49:17Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,22 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "260e1f3fc1ce",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "MOTS-c is a mitochondrial-encoded interferon-linked host defense peptide.",
+      "summary": "Published in Elife. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Elife)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42611943/",
+      "published": "2026-08-18",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
@@ -205,22 +221,6 @@
       "published": "2026-08-01",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "bc77ba74747a",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Circulating mitochondrial-derived microproteins at rest and in response to an acute bout of endurance exercise in individuals with cerebral palsy.",
-      "summary": "Published in Exp Physiol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Exp Physiol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42349896/",
-      "published": "2026-08-01",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
