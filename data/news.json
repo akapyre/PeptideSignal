@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:51:30Z",
+  "generated_at": "2026-08-20T18:42:55Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -11,6 +11,22 @@
       "source": "PubMed (Carbohydr Polym)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42586657/",
       "published": "2026-10-01",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "73b5a09fd099",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "The Regenerative Potential of GHK-Cu in Aesthetic Medicine.",
+      "summary": "Published in Aesthet Surg J. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Aesthet Surg J)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42619529/",
+      "published": "2026-08-20",
       "tags": [
         "ghk-cu",
         "research",
@@ -205,22 +221,6 @@
       "published": "2026-08-01",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "2a702a2bcab9",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "Augmented Skin Beneficial Effects of Thermus Thermophilus and Bacillus Subtilis Mixed-Culture Ferment Extract by Tripeptide GHK-Cu.",
-      "summary": "Published in Skin Res Technol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Skin Res Technol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42573538/",
-      "published": "2026-08-01",
-      "tags": [
-        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -690,22 +690,6 @@
       ]
     },
     {
-      "id": "bf61705fb673",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -730,6 +714,22 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "bf61705fb673",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224438",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -850,19 +850,19 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
+      "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "recruiting"
+        "not_yet_recruiting"
       ]
     },
     {
