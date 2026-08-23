@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:34:47Z",
+  "generated_at": "2026-08-23T06:45:24Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,22 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "aa5ccafe71ff",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Comparative effects of semaglutide tirzepatide and retatrutide on renal fibrosis in UUO and aged mice.",
+      "summary": "Published in iScience. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (iScience)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42630988/",
+      "published": "2026-09-18",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -285,22 +301,6 @@
       "published": "2026-07-23",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "5f61fb4a7fc0",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Development and validation of a multiplexed LC-HRMS method for nine GLP-1 receptor agonists and its pharmaceutical application.",
-      "summary": "Published in J Chromatogr A. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Chromatogr A)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42603384/",
-      "published": "2026-07-21",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
