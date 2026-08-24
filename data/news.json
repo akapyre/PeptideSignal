@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T18:33:43Z",
+  "generated_at": "2026-08-24T07:03:54Z",
   "items": [
     {
       "id": "ada54eb8af20",
@@ -45,6 +45,22 @@
       "published": "2026-09-18",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "083e1fb2f47d",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "MOTS-c in sepsis-induced cardiomyopathy: Mechanisms and translational potential.",
+      "summary": "Published in Eur J Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Eur J Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42633878/",
+      "published": "2026-08-23",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
@@ -1005,22 +1021,6 @@
       "published": "2026-01-01",
       "tags": [
         "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "daadd149e0b8",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Mitochondrial dysfunction in ARDS: unraveling the regulatory networks and therapeutic opportunities.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42592019/",
-      "published": "2026-01-01",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
