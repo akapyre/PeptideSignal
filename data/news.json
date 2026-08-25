@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:44:06Z",
+  "generated_at": "2026-08-25T06:53:23Z",
   "items": [
     {
       "id": "ada54eb8af20",
@@ -45,6 +45,22 @@
       "published": "2026-09-18",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "832d3b896dcf",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Peptides in Regenerative Medicine: A Comprehensive Review of Clinical Applications in Tissue Repair and Chronic Pain Management.",
+      "summary": "Published in Curr Pain Headache Rep. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Curr Pain Headache Rep)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42635865/",
+      "published": "2026-08-24",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -308,7 +324,7 @@
     {
       "id": "af520930826c",
       "category": "research",
-      "compound": "BPC-157",
+      "compound": "TB-500",
       "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study.",
       "summary": "Published in Jt Dis Relat Surg. See abstract for full findings.",
       "why_it_matters": "",
@@ -316,7 +332,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542926/",
       "published": "2026-07-23",
       "tags": [
-        "bpc-157",
+        "tb-500",
         "research",
         "pubmed"
       ]
@@ -978,22 +994,6 @@
       ]
     },
     {
-      "id": "41ddc5c13e00",
-      "category": "research",
-      "compound": "TB-500",
-      "title": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging.",
-      "summary": "Published in Front Aging. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Aging)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42021992/",
-      "published": "2026-01-01",
-      "tags": [
-        "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "f694396de75f",
       "category": "research",
       "compound": "tesamorelin",
@@ -1407,22 +1407,6 @@
         "melanotan",
         "FDA",
         "enforcement"
-      ]
-    },
-    {
-      "id": "d7e4f9679500",
-      "category": "research",
-      "compound": "ARA-290",
-      "title": "Synthesis and evaluation of (99m)Tc-DOTA-ARA-290 as potential SPECT tracer for targeting cardiac ischemic region.",
-      "summary": "Published in Iran J Basic Med Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Iran J Basic Med Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/35317117/",
-      "published": "2021-11-01",
-      "tags": [
-        "ara-290",
-        "research",
-        "pubmed"
       ]
     },
     {
