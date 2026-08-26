@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:43:04Z",
+  "generated_at": "2026-08-26T06:54:29Z",
   "items": [
     {
       "id": "ada54eb8af20",
@@ -45,6 +45,54 @@
       "published": "2026-09-18",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "fc2951f71655",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Mitochondrial-derived peptides (MDPs) activated by physical exercise as therapeutic targets for\u00a0metabolic disorders: A systematic review.",
+      "summary": "Published in Physiol Int. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Physiol Int)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42640735/",
+      "published": "2026-08-25",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f8d86fd0715f",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Combinatorial therapy of LL-37 and ADSCs accelerates diabetic wound repair by orchestrating NRROS-mediated crosstalk between TGF-\u03b2/SMAD and hippo/TEAD1 axes.",
+      "summary": "Published in Cytokine. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cytokine)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641316/",
+      "published": "2026-08-25",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "20c8dc5920e8",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin \u03b1-1 in Cancer Therapy: Immunomodulatory Mechanisms, Clinical Applications, and Translational Perspectives.",
+      "summary": "Published in Eur J Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Eur J Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641753/",
+      "published": "2026-08-25",
+      "tags": [
+        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
@@ -125,22 +173,6 @@
       "published": "2026-08-20",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "260e1f3fc1ce",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "MOTS-c is a mitochondrial-encoded interferon-linked host defense peptide.",
-      "summary": "Published in Elife. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Elife)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42611943/",
-      "published": "2026-08-18",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
@@ -509,22 +541,6 @@
       "published": "2026-04-01",
       "tags": [
         "slu-pp-332",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "6aab369139ab",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "Peptide Therapies in Thyroid Health: Emerging Applications in Endocrine and Immune Modulation.",
-      "summary": "Published in Integr Med (Encinitas). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Integr Med (Encinitas))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42222211/",
-      "published": "2026-04-01",
-      "tags": [
-        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
@@ -1082,22 +1098,6 @@
       "why_it_matters": "",
       "source": "PubMed (Front Nutr)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42598364/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f71398bed14c",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Virtual screening identifies specnuezhenide as a potential therapeutic agent for rosacea via KLK5/TLR4/NF-\u03baB pathway inhibition and metabolic modulation.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42591656/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
