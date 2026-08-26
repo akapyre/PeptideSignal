@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:54:29Z",
+  "generated_at": "2026-08-26T19:50:21Z",
   "items": [
     {
       "id": "ada54eb8af20",
@@ -45,6 +45,22 @@
       "published": "2026-09-18",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "4a797e26f8d5",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Autoimmune neutropenia in children: Test cells versus beads and a role for pro-LL-37 and absolute neutrophil count.",
+      "summary": "Published in Br J Haematol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Br J Haematol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42644563/",
+      "published": "2026-08-26",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -205,22 +221,6 @@
       "published": "2026-08-14",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f7d944a1e79a",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Melanoma exosomal hsa-miR-221-5p suppresses keratinocyte LL-37 to promote tumor progression.",
-      "summary": "Published in Cell Rep. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cell Rep)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593966/",
-      "published": "2026-08-12",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -642,6 +642,22 @@
       ]
     },
     {
+      "id": "30d2da31bb9f",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-08-21.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05929066",
+      "published": "2026-01-08",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
       "id": "d6e6c8a3bead",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -658,17 +674,17 @@
       ]
     },
     {
-      "id": "30d2da31bb9f",
+      "id": "be86452af5c3",
       "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-08-21.",
+      "compound": "kisspeptin",
+      "title": "Prolonged Pulsatile Kisspeptin Administration in Hypogonadotropic Hypogonadism",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-08-26.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05929066",
+      "url": "https://clinicaltrials.gov/study/NCT04648969",
       "published": "2026-01-08",
       "tags": [
-        "retatrutide",
+        "kisspeptin",
         "clinicaltrials.gov",
         "completed"
       ]
@@ -786,35 +802,19 @@
       ]
     },
     {
-      "id": "bf61705fb673",
+      "id": "0d80080d3f3c",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
         "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "ca61bf97035b",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
+        "completed"
       ]
     },
     {
@@ -850,22 +850,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -879,6 +863,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
