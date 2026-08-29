@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:21:33Z",
+  "generated_at": "2026-08-29T12:29:42Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -29,6 +29,38 @@
       "published": "2026-09-18",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a7156da1b1ce",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Follicular kisspeptin-VEGF axis in polycystic ovary syndrome and ovarian hyperstimulation syndrome.",
+      "summary": "Published in J Assist Reprod Genet. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Assist Reprod Genet)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663893/",
+      "published": "2026-08-28",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "c6eaa5825ec1",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "The Murine Antimicrobial Peptide CRAMP Alleviates Neuroinflammation By Downregulating the cGAS-STING Signalling Pathway.",
+      "summary": "Published in Mol Neurobiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Mol Neurobiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663760/",
+      "published": "2026-08-28",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -178,22 +210,6 @@
       ]
     },
     {
-      "id": "f041f3bb12f6",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Occupational Contact Dermatitis in the Post-COVID Era: From Barrier Dysfunction and Microbiome Dysbiosis to Prevention and Precision Management.",
-      "summary": "Published in J Clin Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Clin Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42652757/",
-      "published": "2026-08-17",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "8f02437fd840",
       "category": "research",
       "compound": "SS-31",
@@ -253,22 +269,6 @@
       "published": "2026-08-08",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "59f1c7a927f2",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Seminal Plasma Kisspeptin-1 and Kisspeptin-54 Levels Are Associated With Semen Parameters and Oxidative Stress in Male Infertility.",
-      "summary": "Published in Clin Endocrinol (Oxf). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Endocrinol (Oxf))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566672/",
-      "published": "2026-08-07",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
