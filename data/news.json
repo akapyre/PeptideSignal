@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:29:42Z",
+  "generated_at": "2026-08-29T20:39:13Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -285,22 +285,6 @@
       "published": "2026-08-01",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "4c4c7fc569eb",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Hyperkisspeptinemia and hypothalamic-pituitary-gonadal axis uncoupling in hemodialysis patients: clinical evidence suggestive of central desensitization.",
-      "summary": "Published in Clin Kidney J. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Kidney J)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42571597/",
-      "published": "2026-08-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -1101,6 +1085,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "641a180f4b60",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Emerging peptide and neuroendocrine strategies for TRT-induced reproductive suppression and functional male hypogonadism: a narrative review.",
+      "summary": "Published in Front Reprod Health. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Reprod Health)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42666625/",
+      "published": "2026-01-01",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
