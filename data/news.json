@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:39:13Z",
+  "generated_at": "2026-08-30T11:31:49Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -29,6 +29,22 @@
       "published": "2026-09-18",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "5df66c8a0122",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Efficient Expression of Small Molecule Bioactive Peptides in Bacillus licheniformis.",
+      "summary": "Published in Appl Biochem Biotechnol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Appl Biochem Biotechnol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667535/",
+      "published": "2026-08-29",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -162,22 +178,6 @@
       ]
     },
     {
-      "id": "973927452b61",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "GLP-1 and dual GIP/GLP-1 receptor agonists' psychopharmacology and putative neuropsychiatric associated effects: a Bradford Hill-informed, systematic, evaluation.",
-      "summary": "Published in Curr Psychiatry Rep. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Curr Psychiatry Rep)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42624955/",
-      "published": "2026-08-21",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "87678bcfcff6",
       "category": "research",
       "compound": "kisspeptin",
@@ -274,17 +274,17 @@
       ]
     },
     {
-      "id": "262314c0a6eb",
+      "id": "920922d39edb",
       "category": "research",
-      "compound": "BPC-157",
-      "title": "Fabrication and characterization of biocompatible BPC-157 based chitosan hydrogel.",
-      "summary": "Published in 3 Biotech. See abstract for full findings.",
+      "compound": "retatrutide",
+      "title": "Online-Sourced Retatrutide Complicating Impending Diabetic Ketoacidosis in a Patient With Type 1 Diabetes and Concurrent Shigella Gastroenteritis.",
+      "summary": "Published in Cureus. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (3 Biotech)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555375/",
+      "source": "PubMed (Cureus)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42669023/",
       "published": "2026-08-01",
       "tags": [
-        "bpc-157",
+        "retatrutide",
         "research",
         "pubmed"
       ]
