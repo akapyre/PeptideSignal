@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:20:11Z",
+  "generated_at": "2026-09-01T20:46:04Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -34,6 +34,22 @@
       ]
     },
     {
+      "id": "d69dc7521204",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Dlk1-deficient mice achieve puberty despite low body weight and low levels of leptin and kisspeptin.",
+      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Neuroendocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42677749/",
+      "published": "2026-09-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "4d09fa494166",
       "category": "research",
       "compound": "LL-37",
@@ -61,22 +77,6 @@
       "published": "2026-08-29",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "a7156da1b1ce",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Follicular kisspeptin-VEGF axis in polycystic ovary syndrome and ovarian hyperstimulation syndrome.",
-      "summary": "Published in J Assist Reprod Genet. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Assist Reprod Genet)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663893/",
-      "published": "2026-08-28",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -189,22 +189,6 @@
       "published": "2026-08-23",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "87678bcfcff6",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Effects of Maternal Zinc Deficiency and Post-Weaning Zinc Status on Neuroendocrine Markers Associated with Pubertal Regulation in Female Rat Offspring.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42653477/",
-      "published": "2026-08-21",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -642,22 +626,6 @@
       ]
     },
     {
-      "id": "30d2da31bb9f",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-08-21.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05929066",
-      "published": "2026-01-08",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
       "id": "d6e6c8a3bead",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -671,6 +639,22 @@
         "retatrutide",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "30d2da31bb9f",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-08-21.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05929066",
+      "published": "2026-01-08",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "completed"
       ]
     },
     {
@@ -786,6 +770,22 @@
       ]
     },
     {
+      "id": "0d80080d3f3c",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
       "id": "bf61705fb673",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -794,22 +794,6 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07224438",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "120156eaa612",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224490",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -1085,6 +1069,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "d6c127e242ca",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Therapeutic potential of nasal kisspeptin-54 for reducing \u03b1-synuclein accumulation and restoring hippocampal synaptic plasticity in a 6-hydroxydopamine-induced rat model of Parkinson's disease.",
+      "summary": "Published in Turk J Med Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Turk J Med Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42676968/",
+      "published": "2026-01-01",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
