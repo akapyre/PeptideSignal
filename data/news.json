@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:38:55Z",
+  "generated_at": "2026-09-01T11:20:11Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -18,15 +18,15 @@
       ]
     },
     {
-      "id": "aa5ccafe71ff",
+      "id": "b45a6b614e47",
       "category": "research",
       "compound": "retatrutide",
-      "title": "Comparative effects of semaglutide tirzepatide and retatrutide on renal fibrosis in UUO and aged mice.",
-      "summary": "Published in iScience. See abstract for full findings.",
+      "title": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review.",
+      "summary": "Published in Ann Intern Med. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (iScience)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42630988/",
-      "published": "2026-09-18",
+      "source": "PubMed (Ann Intern Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673585/",
+      "published": "2026-09-01",
       "tags": [
         "retatrutide",
         "research",
