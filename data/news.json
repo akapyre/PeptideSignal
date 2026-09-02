@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:46:04Z",
+  "generated_at": "2026-09-02T10:54:42Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -18,6 +18,38 @@
       ]
     },
     {
+      "id": "7ce2fe9529e2",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin Alpha-1 Restores Chemotherapy-Induced Antitumor Immunity by Chaperoning a MicroRNA Ligand of TLR7 in Dendritic Cells.",
+      "summary": "Published in Cancer Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cancer Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42295795/",
+      "published": "2026-09-02",
+      "tags": [
+        "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f380c0767c70",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Incretin-based therapies in diabetic kidney disease: toward integrated cardio-kidney-metabolic disease modification.",
+      "summary": "Published in Kidney Res Clin Pract. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Kidney Res Clin Pract)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682157/",
+      "published": "2026-09-01",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "b45a6b614e47",
       "category": "research",
       "compound": "retatrutide",
@@ -29,6 +61,38 @@
       "published": "2026-09-01",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "c7fe274c253f",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin System: A Modulator of Neuroinflammation and Behaviour in Temporal Lobe Epileptic Rats.",
+      "summary": "Published in Mol Neurobiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Mol Neurobiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680947/",
+      "published": "2026-09-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "bd7a20801a5c",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Targeting Estrogen to the Brain via DHED does not seem to Protect Against Metabolic Dysfunction in Obese OVX Mice.",
+      "summary": "Published in Endocrinology. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Endocrinology)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678760/",
+      "published": "2026-09-01",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -58,7 +122,7 @@
       "why_it_matters": "",
       "source": "PubMed (Int J Biol Macromol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42669340/",
-      "published": "2026-08-30",
+      "published": "2026-08-31",
       "tags": [
         "ll-37",
         "research",
@@ -93,22 +157,6 @@
       "published": "2026-08-28",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "4989c5bedb68",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Disease-modifying anti-diabetic drugs (DMADDs): bridging the SIMPLE approach to disease interception.",
-      "summary": "Published in Cardiovasc Diabetol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cardiovasc Diabetol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649514/",
-      "published": "2026-08-26",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -397,22 +445,6 @@
       "published": "2026-07-01",
       "tags": [
         "melanotan",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "7ce2fe9529e2",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "Thymosin Alpha-1 Restores Chemotherapy-Induced Antitumor Immunity by Chaperoning a MicroRNA Ligand of TLR7 in Dendritic Cells.",
-      "summary": "Published in Cancer Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cancer Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42295795/",
-      "published": "2026-06-15",
-      "tags": [
-        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
@@ -1069,38 +1101,6 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "d6c127e242ca",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Therapeutic potential of nasal kisspeptin-54 for reducing \u03b1-synuclein accumulation and restoring hippocampal synaptic plasticity in a 6-hydroxydopamine-induced rat model of Parkinson's disease.",
-      "summary": "Published in Turk J Med Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Turk J Med Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42676968/",
-      "published": "2026-01-01",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "641a180f4b60",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Emerging peptide and neuroendocrine strategies for TRT-induced reproductive suppression and functional male hypogonadism: a narrative review.",
-      "summary": "Published in Front Reprod Health. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Reprod Health)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42666625/",
-      "published": "2026-01-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
