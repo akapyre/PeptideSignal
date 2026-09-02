@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:54:42Z",
+  "generated_at": "2026-09-02T20:45:13Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -29,6 +29,22 @@
       "published": "2026-09-02",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0e7fea151c5f",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Pharmacological management of obesity: Current landscape and emerging therapies.",
+      "summary": "Published in Indian J Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Indian J Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42683980/",
+      "published": "2026-09-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -317,22 +333,6 @@
       "published": "2026-08-08",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "920922d39edb",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Online-Sourced Retatrutide Complicating Impending Diabetic Ketoacidosis in a Patient With Type 1 Diabetes and Concurrent Shigella Gastroenteritis.",
-      "summary": "Published in Cureus. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cureus)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42669023/",
-      "published": "2026-08-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -802,19 +802,19 @@
       ]
     },
     {
-      "id": "0d80080d3f3c",
+      "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "url": "https://clinicaltrials.gov/study/NCT05896293",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
         "clinicaltrials.gov",
-        "completed"
+        "recruiting"
       ]
     },
     {
@@ -930,19 +930,19 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
+      "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "recruiting"
+        "not_yet_recruiting"
       ]
     },
     {
