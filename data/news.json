@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:45:13Z",
+  "generated_at": "2026-09-03T10:54:06Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -365,22 +365,6 @@
       "published": "2026-07-30",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "fa347e0e3831",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Dual-Function Antimicrobial Peptides as a Prospective Strategy Against Peri-Implantitis: Bridging Cutaneous Wound Healing and the Peri-Implant Soft-Tissue Seal.",
-      "summary": "Published in Medicina (Kaunas). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Medicina (Kaunas))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42654360/",
-      "published": "2026-07-28",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1101,6 +1085,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0d5e35bb296d",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Plasma levels of antimicrobial peptide LL-37 as a biomarker of sleep quality in patients with obstructive sleep apnea: A clinical observational study.",
+      "summary": "Published in PLoS One. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (PLoS One)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685028/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
