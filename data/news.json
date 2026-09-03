@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:54:06Z",
+  "generated_at": "2026-09-03T20:42:57Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -58,22 +58,6 @@
       "why_it_matters": "",
       "source": "PubMed (Kidney Res Clin Pract)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42682157/",
-      "published": "2026-09-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "b45a6b614e47",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review.",
-      "summary": "Published in Ann Intern Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Ann Intern Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42673585/",
       "published": "2026-09-01",
       "tags": [
         "retatrutide",
@@ -610,6 +594,22 @@
       ]
     },
     {
+      "id": "e6c239eb3ca4",
+      "category": "clinical-trial",
+      "compound": "BPC-157",
+      "title": "Impact of BPC-157 on Recovery Following Rotator Cuff Repair Surgery",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-09-03.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07803250",
+      "published": "2026-01-09",
+      "tags": [
+        "bpc-157",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
+      ]
+    },
+    {
       "id": "cc41790aec9f",
       "category": "clinical-trial",
       "compound": "BPC-157",
@@ -786,14 +786,14 @@
       ]
     },
     {
-      "id": "ca61bf97035b",
+      "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -802,19 +802,19 @@
       ]
     },
     {
-      "id": "bf61705fb673",
+      "id": "0d80080d3f3c",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
         "clinicaltrials.gov",
-        "recruiting"
+        "completed"
       ]
     },
     {
@@ -850,22 +850,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -879,6 +863,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -914,19 +914,19 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
+      "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "not_yet_recruiting"
+        "recruiting"
       ]
     },
     {
@@ -1007,6 +1007,22 @@
         "melanotan",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "ddb820c7a85b",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Comparative efficacy and safety of glucagon-like peptide 1 based drugs for weight loss in adults with overweight or obesity without diabetes: network meta-analysis of randomised controlled trials.",
+      "summary": "Published in BMJ Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMJ Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42688617/",
+      "published": "2026-01-01",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
       ]
     },
     {
@@ -1711,22 +1727,6 @@
         "aod-9604",
         "research",
         "pubmed"
-      ]
-    },
-    {
-      "id": "1586d417b274",
-      "category": "clinical-trial",
-      "compound": "BPC-157",
-      "title": "PCO-02 - Safety and Pharmacokinetics Trial",
-      "summary": "Status: UNKNOWN. Registry entry updated 2015-12-22.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT02637284",
-      "published": "2015-01-12",
-      "tags": [
-        "bpc-157",
-        "clinicaltrials.gov",
-        "unknown"
       ]
     },
     {
