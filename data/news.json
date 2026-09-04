@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:42:57Z",
+  "generated_at": "2026-09-04T10:53:30Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -18,15 +18,31 @@
       ]
     },
     {
-      "id": "7ce2fe9529e2",
+      "id": "8334080d0ae3",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "From insulin resistance to incretin receptor agonism in the prevention of type 2 diabetes mellitus in obese individuals.",
+      "summary": "Published in Curr Med Res Opin. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Curr Med Res Opin)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42690722/",
+      "published": "2026-09-03",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "d5f2308abd98",
       "category": "research",
       "compound": "Thymosin Alpha-1",
-      "title": "Thymosin Alpha-1 Restores Chemotherapy-Induced Antitumor Immunity by Chaperoning a MicroRNA Ligand of TLR7 in Dendritic Cells.",
-      "summary": "Published in Cancer Res. See abstract for full findings.",
+      "title": "Thymosin Alpha-1 Provides Direct Neuroprotection by Engaging the Orexin Receptor HCRTR1 to Suppress Neuronal Necroptosis.",
+      "summary": "Published in Adv Sci (Weinh). See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Cancer Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42295795/",
-      "published": "2026-09-02",
+      "source": "PubMed (Adv Sci (Weinh))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693587/",
+      "published": "2026-09-03",
       "tags": [
         "thymosin alpha-1",
         "research",
@@ -42,22 +58,6 @@
       "why_it_matters": "",
       "source": "PubMed (Indian J Pharmacol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42683980/",
-      "published": "2026-09-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f380c0767c70",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Incretin-based therapies in diabetic kidney disease: toward integrated cardio-kidney-metabolic disease modification.",
-      "summary": "Published in Kidney Res Clin Pract. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Kidney Res Clin Pract)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42682157/",
       "published": "2026-09-01",
       "tags": [
         "retatrutide",
