@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:05:37Z",
+  "generated_at": "2026-09-06T10:33:07Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -141,22 +141,6 @@
       "published": "2026-08-29",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "c6eaa5825ec1",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "The Murine Antimicrobial Peptide CRAMP Alleviates Neuroinflammation By Downregulating the cGAS-STING Signalling Pathway.",
-      "summary": "Published in Mol Neurobiol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Mol Neurobiol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663760/",
-      "published": "2026-08-28",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1101,6 +1085,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "dea5545b4ce3",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Salivary cathelicidin LL-37 as a non-invasive biomarker for oral cancer detection.",
+      "summary": "Published in Bioinformation. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Bioinformation)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701697/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
