@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:10:21Z",
+  "generated_at": "2026-09-07T11:56:51Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -66,6 +66,22 @@
       ]
     },
     {
+      "id": "1e674d71605d",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Molecular characterization of circannual interval timing in the preoptic area and anteroventral periventricular nucleus in the Djungarian hamster (Phodopus sungorus).",
+      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Neuroendocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702882/",
+      "published": "2026-09-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "c7fe274c253f",
       "category": "research",
       "compound": "kisspeptin",
@@ -90,22 +106,6 @@
       "why_it_matters": "",
       "source": "PubMed (Endocrinology)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42678760/",
-      "published": "2026-09-01",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "d69dc7521204",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Dlk1-deficient mice achieve puberty despite low body weight and low levels of leptin and kisspeptin.",
-      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Neuroendocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42677749/",
       "published": "2026-09-01",
       "tags": [
         "kisspeptin",
