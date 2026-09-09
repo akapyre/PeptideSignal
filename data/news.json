@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:57:57Z",
+  "generated_at": "2026-09-09T20:41:29Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -122,22 +122,6 @@
       "why_it_matters": "",
       "source": "PubMed (J Neuroendocrinol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42711067/",
-      "published": "2026-09-01",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "1e674d71605d",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Molecular characterization of circannual interval timing in the preoptic area and anteroventral periventricular nucleus in the Djungarian hamster (Phodopus sungorus).",
-      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Neuroendocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702882/",
       "published": "2026-09-01",
       "tags": [
         "kisspeptin",
@@ -898,19 +882,19 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
+      "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "not_yet_recruiting"
+        "recruiting"
       ]
     },
     {
@@ -1090,14 +1074,30 @@
       ]
     },
     {
-      "id": "096bbf9cad34",
+      "id": "1d6536a3bc28",
       "category": "research",
       "compound": "kisspeptin",
-      "title": "Structural basis for Kisspeptin-10 selectivity toward KISS1R: computational insights.",
-      "summary": "Published in In Silico Pharmacol. See abstract for full findings.",
+      "title": "Syndrome differentiation and treatment of pediatric central precocious puberty: role of the spleen-kidney axis.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (In Silico Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42707558/",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42713456/",
+      "published": "2026-01-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "05c3f4924d38",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Hypothalamic neuroimmune remodeling as an immunometabolic bridge between childhood obesity and earlier pubertal onset.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42713329/",
       "published": "2026-01-01",
       "tags": [
         "kisspeptin",
