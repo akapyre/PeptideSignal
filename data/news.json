@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:53:40Z",
+  "generated_at": "2026-09-09T10:57:57Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,22 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e19de01a9038",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Engineered Mitochondria-Targeted Biomimetic Hybrid Nanovesicles Ameliorate Rheumatoid Arthritis via Regulating Macrophage Autophagy and cGAS-STING Signaling.",
+      "summary": "Published in ACS Appl Mater Interfaces. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (ACS Appl Mater Interfaces)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709510/",
+      "published": "2026-09-08",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -98,14 +114,14 @@
       ]
     },
     {
-      "id": "1e674d71605d",
+      "id": "2d2e9559c148",
       "category": "research",
       "compound": "kisspeptin",
-      "title": "Molecular characterization of circannual interval timing in the preoptic area and anteroventral periventricular nucleus in the Djungarian hamster (Phodopus sungorus).",
+      "title": "Optical control of the hypothalamic arcuate nucleus kisspeptin neuronal network with a photoswitchable peptide that drives luteinizing hormone release in female mice.",
       "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
       "why_it_matters": "",
       "source": "PubMed (J Neuroendocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702882/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42711067/",
       "published": "2026-09-01",
       "tags": [
         "kisspeptin",
@@ -114,14 +130,14 @@
       ]
     },
     {
-      "id": "c7fe274c253f",
+      "id": "1e674d71605d",
       "category": "research",
       "compound": "kisspeptin",
-      "title": "Kisspeptin System: A Modulator of Neuroinflammation and Behaviour in Temporal Lobe Epileptic Rats.",
-      "summary": "Published in Mol Neurobiol. See abstract for full findings.",
+      "title": "Molecular characterization of circannual interval timing in the preoptic area and anteroventral periventricular nucleus in the Djungarian hamster (Phodopus sungorus).",
+      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Mol Neurobiol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42680947/",
+      "source": "PubMed (J Neuroendocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702882/",
       "published": "2026-09-01",
       "tags": [
         "kisspeptin",
@@ -253,22 +269,6 @@
       "published": "2026-08-20",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "8f02437fd840",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Seawater immersion reshapes the temporal dynamics of traumatic brain injury and reveals mitochondrial oxidative stress as a modifiable therapeutic target.",
-      "summary": "Published in Exp Neurol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Exp Neurol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42600764/",
-      "published": "2026-08-14",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
