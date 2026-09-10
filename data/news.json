@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:41:29Z",
+  "generated_at": "2026-09-10T10:54:39Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,22 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f3aca967dd08",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Correction: Reduced serum and skeletal muscle MOTS c levels in women with polycystic ovary syndrome are associated with mitochondrial dysfunction.",
+      "summary": "Published in Sci Rep. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Sci Rep)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716952/",
+      "published": "2026-09-09",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
@@ -221,22 +237,6 @@
       "published": "2026-08-24",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "083e1fb2f47d",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "MOTS-c in sepsis-induced cardiomyopathy: Mechanisms and translational potential.",
-      "summary": "Published in Eur J Pharmacol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Eur J Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42633878/",
-      "published": "2026-08-23",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
