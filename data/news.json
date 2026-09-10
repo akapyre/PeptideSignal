@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:54:39Z",
+  "generated_at": "2026-09-10T20:35:57Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -754,22 +754,6 @@
       ]
     },
     {
-      "id": "bf61705fb673",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -778,6 +762,22 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "bf61705fb673",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224438",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -882,19 +882,19 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
+      "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "recruiting"
+        "not_yet_recruiting"
       ]
     },
     {
