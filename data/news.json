@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:35:57Z",
+  "generated_at": "2026-09-11T10:51:59Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,22 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "5b6f2ba2e5f8",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "CARDIOVASCULAR EFFECTS OF INCRETIN RECEPTOR AGONISTS: BEYOND GLYCEMIC CONTROL.",
+      "summary": "Published in Can J Physiol Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Can J Physiol Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42721492/",
+      "published": "2026-09-10",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -114,14 +130,14 @@
       ]
     },
     {
-      "id": "0e7fea151c5f",
+      "id": "235204605631",
       "category": "research",
       "compound": "retatrutide",
-      "title": "Pharmacological management of obesity: Current landscape and emerging therapies.",
-      "summary": "Published in Indian J Pharmacol. See abstract for full findings.",
+      "title": "Beyond Fat Loss: Addressing the Sarcopenia Challenge of Incretin-Based Therapies.",
+      "summary": "Published in Diabetes Metab J. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Indian J Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42683980/",
+      "source": "PubMed (Diabetes Metab J)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722378/",
       "published": "2026-09-01",
       "tags": [
         "retatrutide",
@@ -975,22 +991,6 @@
         "melanotan",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "ddb820c7a85b",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Comparative efficacy and safety of glucagon-like peptide 1 based drugs for weight loss in adults with overweight or obesity without diabetes: network meta-analysis of randomised controlled trials.",
-      "summary": "Published in BMJ Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (BMJ Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42688617/",
-      "published": "2026-01-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
       ]
     },
     {
