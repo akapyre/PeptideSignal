@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:51:59Z",
+  "generated_at": "2026-09-11T20:41:25Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -770,14 +770,14 @@
       ]
     },
     {
-      "id": "ca61bf97035b",
+      "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -786,14 +786,14 @@
       ]
     },
     {
-      "id": "bf61705fb673",
+      "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "url": "https://clinicaltrials.gov/study/NCT05896293",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
