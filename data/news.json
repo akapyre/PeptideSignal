@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:41:25Z",
+  "generated_at": "2026-09-12T10:19:55Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,54 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "03edce0c3fd7",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Maternal Kisspeptin-10 Treatment Partially Rescues Fetal and Postnatal Cardiac Programming Disrupted by Maternal Hypothyroidism.",
+      "summary": "Published in Cardiovasc Toxicol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cardiovasc Toxicol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42726152/",
+      "published": "2026-09-11",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "47b557f6e887",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Effects of high frequency administration of GnRH or kisspeptin on LH pulse and surge profiles in ovariectomized Bos taurus and Bos indicus heifers\u2020.",
+      "summary": "Published in Biol Reprod. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biol Reprod)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725801/",
+      "published": "2026-09-11",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "62f865af10f2",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Calmodulin-tagging prevents aggregation and facilitates the proteolytic release of the recombinant human cathelicidin LL-37 by accommodating its hydrophobic regions.",
+      "summary": "Published in Int J Biol Macromol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Biol Macromol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727664/",
+      "published": "2026-09-11",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -141,22 +189,6 @@
       "published": "2026-09-01",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "2d2e9559c148",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Optical control of the hypothalamic arcuate nucleus kisspeptin neuronal network with a photoswitchable peptide that drives luteinizing hormone release in female mice.",
-      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Neuroendocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42711067/",
-      "published": "2026-09-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -1085,38 +1117,6 @@
       "published": "2026-01-01",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "05c3f4924d38",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Hypothalamic neuroimmune remodeling as an immunometabolic bridge between childhood obesity and earlier pubertal onset.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42713329/",
-      "published": "2026-01-01",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "dea5545b4ce3",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Salivary cathelicidin LL-37 as a non-invasive biomarker for oral cancer detection.",
-      "summary": "Published in Bioinformation. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Bioinformation)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42701697/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
