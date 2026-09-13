@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:20:29Z",
+  "generated_at": "2026-09-13T11:20:08Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,38 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "7f938f2a0fb2",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Effect of Zinc Status on Pubertal and Cognitive Functions in Male Offspring of Rats with Induced Zinc Deficiency During Gestation and Lactation.",
+      "summary": "Published in Biol Trace Elem Res. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biol Trace Elem Res)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730838/",
+      "published": "2026-09-12",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "084e9fc9b04c",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Rational hybrid design and computational characterization of PA-Hyb1: a novel peptide inhibitor targeting the MexB efflux pump in Pseudomonas aeruginosa.",
+      "summary": "Published in J Mol Model. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Mol Model)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730777/",
+      "published": "2026-09-12",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -123,22 +155,6 @@
       "source": "PubMed (Dalton Trans)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42708248/",
       "published": "2026-09-08",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "4c13007650ae",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Emerging antimicrobial peptides in gastrointestinal disorders: Dual role in immunity and therapy.",
-      "summary": "Published in World J Gastrointest Pharmacol Ther. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (World J Gastrointest Pharmacol Ther)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42707805/",
-      "published": "2026-09-05",
       "tags": [
         "ll-37",
         "research",
@@ -1101,22 +1117,6 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "1d6536a3bc28",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Syndrome differentiation and treatment of pediatric central precocious puberty: role of the spleen-kidney axis.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42713456/",
-      "published": "2026-01-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
