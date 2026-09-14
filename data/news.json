@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:30:47Z",
+  "generated_at": "2026-09-14T12:12:17Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -58,22 +58,6 @@
       "why_it_matters": "",
       "source": "PubMed (Cardiovasc Toxicol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42726152/",
-      "published": "2026-09-11",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "47b557f6e887",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Effects of high frequency administration of GnRH or kisspeptin on LH pulse and surge profiles in ovariectomized Bos taurus and Bos indicus heifers\u2020.",
-      "summary": "Published in Biol Reprod. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biol Reprod)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725801/",
       "published": "2026-09-11",
       "tags": [
         "kisspeptin",
@@ -205,6 +189,22 @@
       "published": "2026-09-01",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "dcb68b302614",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Intracerebroventricular injection of neuropeptide Y suppresses luteinizing hormone pulses in mice.",
+      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Neuroendocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733213/",
+      "published": "2026-09-01",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -658,6 +658,22 @@
       ]
     },
     {
+      "id": "3ba233accad2",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Protective Effect of Thymosin \u03b11 Against Negative Immune Dysregulation and Organ Dysfunction After Acute Aortic Dissection Surgery (PANDA II)",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-09-14.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05339529",
+      "published": "2026-01-09",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
       "id": "cc41790aec9f",
       "category": "clinical-trial",
       "compound": "BPC-157",
@@ -818,6 +834,22 @@
       ]
     },
     {
+      "id": "bf61705fb673",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -829,38 +861,6 @@
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "ca61bf97035b",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "cea6e2df7c2c",
-      "category": "clinical-trial",
-      "compound": "Thymosin Alpha-1",
-      "title": "Thymalfasin (Thymosin Alpha 1; Ta1) as an Enhancer of Vaccine Response Among Older Adults Receiving Booster Doses of COVID-19 Vaccine",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-16.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06821100",
-      "published": "2026-01-07",
-      "tags": [
-        "thymosin alpha-1",
         "clinicaltrials.gov",
         "recruiting"
       ]
@@ -946,19 +946,19 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
+      "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "not_yet_recruiting"
+        "recruiting"
       ]
     },
     {
