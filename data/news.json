@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:38:56Z",
+  "generated_at": "2026-09-15T11:21:54Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -18,17 +18,33 @@
       ]
     },
     {
-      "id": "7f938f2a0fb2",
+      "id": "4bec54694a66",
       "category": "research",
-      "compound": "kisspeptin",
-      "title": "Effect of Zinc Status on Pubertal and Cognitive Functions in Male Offspring of Rats with Induced Zinc Deficiency During Gestation and Lactation.",
-      "summary": "Published in Biol Trace Elem Res. See abstract for full findings.",
+      "compound": "retatrutide",
+      "title": "Obstructive sleep apnea, GLP-1 receptor agonist pharmacotherapy, and the oral microbiome: competing biological influences and implications for oral health monitoring.",
+      "summary": "Published in Clin Oral Investig. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Biol Trace Elem Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730838/",
-      "published": "2026-09-12",
+      "source": "PubMed (Clin Oral Investig)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42734711/",
+      "published": "2026-09-14",
       "tags": [
-        "kisspeptin",
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "4e30e985848c",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Mitokines as bioenergetic stress signals in cardiovascular disease: mitochondrial communication, endocrine adaptation, and translational implications.",
+      "summary": "Published in J Bioenerg Biomembr. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Bioenerg Biomembr)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42734848/",
+      "published": "2026-09-14",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
@@ -45,22 +61,6 @@
       "published": "2026-09-12",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "03edce0c3fd7",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Maternal Kisspeptin-10 Treatment Partially Rescues Fetal and Postnatal Cardiac Programming Disrupted by Maternal Hypothyroidism.",
-      "summary": "Published in Cardiovasc Toxicol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cardiovasc Toxicol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42726152/",
-      "published": "2026-09-11",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -146,22 +146,6 @@
       ]
     },
     {
-      "id": "8334080d0ae3",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "From insulin resistance to incretin receptor agonism in the prevention of type 2 diabetes mellitus in obese individuals.",
-      "summary": "Published in Curr Med Res Opin. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Curr Med Res Opin)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42690722/",
-      "published": "2026-09-03",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "d5f2308abd98",
       "category": "research",
       "compound": "Thymosin Alpha-1",
@@ -226,6 +210,22 @@
       ]
     },
     {
+      "id": "41cb6521938b",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Molecular Mechanisms of Endocrine-Disrupting Chemicals and Emerging-Pollutant Toxicity in Human Reproduction: From Xenobiotic Exposure to Fertility Impairment and Reproductive Carcinogenesis.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42737662/",
+      "published": "2026-08-30",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "5df66c8a0122",
       "category": "research",
       "compound": "BPC-157",
@@ -237,22 +237,6 @@
       "published": "2026-08-29",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "fc2951f71655",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Mitochondrial-derived peptides (MDPs) activated by physical exercise as therapeutic targets for\u00a0metabolic disorders: A systematic review.",
-      "summary": "Published in Physiol Int. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Physiol Int)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42640735/",
-      "published": "2026-08-25",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
@@ -317,6 +301,22 @@
       "published": "2026-08-20",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "85be09104854",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Transcriptome profiling of human hypothalamic agouti-related protein and proopiomelanocortin neurons regulating energy homeostasis.",
+      "summary": "Published in Nat Commun. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nat Commun)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736279/",
+      "published": "2026-08-15",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
