@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:21:54Z",
+  "generated_at": "2026-09-15T21:00:34Z",
   "items": [
     {
       "id": "24aac88669c2",
@@ -13,6 +13,22 @@
       "published": "2026-10-01",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e49dd04e249d",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Full-length brain-derived \u03b1-synuclein fibril models reveal fuzzy-coat control of peptide recognition.",
+      "summary": "Published in Protein Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Protein Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742050/",
+      "published": "2026-10-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -125,22 +141,6 @@
       "published": "2026-09-08",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f6f5afc5af52",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Coordination chemistry and antimicrobial activity of LL-37, its C-terminal fragment, and a peptidomimetic analogue.",
-      "summary": "Published in Dalton Trans. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Dalton Trans)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708248/",
-      "published": "2026-09-08",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -834,22 +834,6 @@
       ]
     },
     {
-      "id": "bf61705fb673",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -858,6 +842,22 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "ca61bf97035b",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05896293",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
