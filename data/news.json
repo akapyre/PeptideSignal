@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:05:51Z",
+  "generated_at": "2026-09-16T21:02:36Z",
   "items": [
     {
       "id": "8e72503b1705",
@@ -109,22 +109,6 @@
       "published": "2026-09-14",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "084e9fc9b04c",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Rational hybrid design and computational characterization of PA-Hyb1: a novel peptide inhibitor targeting the MexB efflux pump in Pseudomonas aeruginosa.",
-      "summary": "Published in J Mol Model. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Mol Model)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730777/",
-      "published": "2026-09-12",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -546,6 +530,22 @@
       ]
     },
     {
+      "id": "92eaa057109e",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Design of a multimodal synthetic peptide antibiotic derived from human cathelicidin.",
+      "summary": "Published in Cell Biomater. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cell Biomater)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42746282/",
+      "published": "2026-04-21",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "1f602cd9e5b4",
       "category": "research",
       "compound": "SLU-PP-332",
@@ -834,22 +834,6 @@
       ]
     },
     {
-      "id": "120156eaa612",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224490",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -858,6 +842,22 @@
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT05896293",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "120156eaa612",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07224490",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
@@ -882,22 +882,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -911,6 +895,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
