@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-09-15T21:00:34Z",
+  "generated_at": "2026-09-16T11:05:51Z",
   "items": [
+    {
+      "id": "8e72503b1705",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Detection and Excretion Profile of Retatrutide in Human Plasma and Urine by LC-HRMS: Implications for Antidoping Analysis.",
+      "summary": "Published in Rapid Commun Mass Spectrom. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Rapid Commun Mass Spectrom)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745421/",
+      "published": "2026-12-15",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
     {
       "id": "24aac88669c2",
       "category": "research",
@@ -29,6 +45,38 @@
       "published": "2026-10-01",
       "tags": [
         "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6d066791d89b",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Cathelicidin LL-37 inhibits angiogenesis and migration in gastric cancer via inhibition of NF-\u03baB/IL-6 signaling.",
+      "summary": "Published in Histol Histopathol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Histol Histopathol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745581/",
+      "published": "2026-09-16",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "9ba12223f28c",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Cagrilintide and retatrutide combination therapy enhances weight loss and metabolic outcomes in obese male rats.",
+      "summary": "Published in Nat Metab. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nat Metab)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42744908/",
+      "published": "2026-09-15",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -82,38 +130,6 @@
       ]
     },
     {
-      "id": "62f865af10f2",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Calmodulin-tagging prevents aggregation and facilitates the proteolytic release of the recombinant human cathelicidin LL-37 by accommodating its hydrophobic regions.",
-      "summary": "Published in Int J Biol Macromol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Biol Macromol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727664/",
-      "published": "2026-09-11",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "5b6f2ba2e5f8",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "CARDIOVASCULAR EFFECTS OF INCRETIN RECEPTOR AGONISTS: BEYOND GLYCEMIC CONTROL.",
-      "summary": "Published in Can J Physiol Pharmacol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Can J Physiol Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42721492/",
-      "published": "2026-09-10",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "f3aca967dd08",
       "category": "research",
       "compound": "MOTS-c",
@@ -157,22 +173,6 @@
       "published": "2026-09-03",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "235204605631",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Beyond Fat Loss: Addressing the Sarcopenia Challenge of Incretin-Based Therapies.",
-      "summary": "Published in Diabetes Metab J. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Diabetes Metab J)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722378/",
-      "published": "2026-09-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -245,12 +245,12 @@
       "id": "20c8dc5920e8",
       "category": "research",
       "compound": "Thymosin Alpha-1",
-      "title": "Thymosin \u03b1-1 in Cancer Therapy: Immunomodulatory Mechanisms, Clinical Applications, and Translational Perspectives.",
+      "title": "Thymosin \u03b1-1 in cancer therapy: Immunomodulatory mechanisms, clinical applications, and translational perspectives.",
       "summary": "Published in Eur J Pharmacol. See abstract for full findings.",
       "why_it_matters": "",
       "source": "PubMed (Eur J Pharmacol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42641753/",
-      "published": "2026-08-25",
+      "published": "2026-08-26",
       "tags": [
         "thymosin alpha-1",
         "research",
