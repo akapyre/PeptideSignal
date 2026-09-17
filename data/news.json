@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:15:50Z",
+  "generated_at": "2026-09-17T21:05:22Z",
   "items": [
     {
       "id": "8e72503b1705",
@@ -11,6 +11,22 @@
       "source": "PubMed (Rapid Commun Mass Spectrom)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42745421/",
       "published": "2026-12-15",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "721a733b5a2a",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Sustained weight loss exceeding 100\u2005kg with sequential incretin-based therapy in Prader-Willi syndrome.",
+      "summary": "Published in JCEM Case Rep. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (JCEM Case Rep)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751099/",
+      "published": "2026-10-01",
       "tags": [
         "retatrutide",
         "research",
@@ -75,22 +91,6 @@
       "source": "PubMed (Nat Metab)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42744908/",
       "published": "2026-09-15",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "4bec54694a66",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Obstructive sleep apnea, GLP-1 receptor agonist pharmacotherapy, and the oral microbiome: competing biological influences and implications for oral health monitoring.",
-      "summary": "Published in Clin Oral Investig. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Oral Investig)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42734711/",
-      "published": "2026-09-14",
       "tags": [
         "retatrutide",
         "research",
@@ -834,22 +834,6 @@
       ]
     },
     {
-      "id": "ca61bf97035b",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05896293",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "120156eaa612",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -863,6 +847,22 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "0d80080d3f3c",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
+      "published": "2026-01-07",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
       ]
     },
     {
@@ -946,19 +946,19 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
+      "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "recruiting"
+        "not_yet_recruiting"
       ]
     },
     {
