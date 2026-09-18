@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:48:29Z",
+  "generated_at": "2026-09-18T20:37:12Z",
   "items": [
     {
       "id": "8e72503b1705",
@@ -77,22 +77,6 @@
       "published": "2026-09-16",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "9ba12223f28c",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Cagrilintide and retatrutide combination therapy enhances weight loss and metabolic outcomes in obese male rats.",
-      "summary": "Published in Nat Metab. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Nat Metab)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42744908/",
-      "published": "2026-09-15",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -244,7 +228,7 @@
     {
       "id": "832d3b896dcf",
       "category": "research",
-      "compound": "BPC-157",
+      "compound": "TB-500",
       "title": "Peptides in Regenerative Medicine: A Comprehensive Review of Clinical Applications in Tissue Repair and Chronic Pain Management.",
       "summary": "Published in Curr Pain Headache Rep. See abstract for full findings.",
       "why_it_matters": "",
@@ -252,7 +236,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42635865/",
       "published": "2026-08-24",
       "tags": [
-        "bpc-157",
+        "tb-500",
         "research",
         "pubmed"
       ]
@@ -308,7 +292,7 @@
     {
       "id": "369e0559ede1",
       "category": "research",
-      "compound": "TB-500",
+      "compound": "CJC-1295",
       "title": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine.",
       "summary": "Published in Am J Sports Med. See abstract for full findings.",
       "why_it_matters": "",
@@ -316,7 +300,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42578445/",
       "published": "2026-08-11",
       "tags": [
-        "tb-500",
+        "cjc-1295",
         "research",
         "pubmed"
       ]
@@ -365,6 +349,22 @@
       "published": "2026-07-08",
       "tags": [
         "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "66b7c5d0280c",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Dangers of Injectable Peptides and Other Unregulated \"Biohacking\" Drugs.",
+      "summary": "Published in Mo Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Mo Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42757290/",
+      "published": "2026-07-01",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -546,22 +546,6 @@
       ]
     },
     {
-      "id": "6d17013c750f",
-      "category": "research",
-      "compound": "Melanotan",
-      "title": "Insights into Tanning Biology and Tanning Products.",
-      "summary": "Published in J Clin Aesthet Dermatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Clin Aesthet Dermatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41890775/",
-      "published": "2026-02-01",
-      "tags": [
-        "melanotan",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "89cd1011f7cc",
       "category": "research",
       "compound": "BAM-15",
@@ -605,6 +589,22 @@
       "published": "2026-01-09",
       "tags": [
         "retatrutide",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "af299e12f243",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Effects of Glucagon-like Peptide-1 (GLP-1) Agonist in Neuro-reproductive Function in Obese Adolescent Females With Polycystic Ovary Syndrome (PCOS)",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-09-18.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07169136",
+      "published": "2026-01-09",
+      "tags": [
+        "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
       ]
@@ -802,22 +802,6 @@
       ]
     },
     {
-      "id": "0d80080d3f3c",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Molecular Basis of Inherited Reproductive Disorders",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05971836",
-      "published": "2026-01-07",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
       "id": "86eb53c8d1fe",
       "category": "clinical-trial",
       "compound": "MOTS-c",
@@ -834,22 +818,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -863,6 +831,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -898,19 +882,19 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
+      "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "not_yet_recruiting"
+        "recruiting"
       ]
     },
     {
