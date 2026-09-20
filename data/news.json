@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:15:40Z",
+  "generated_at": "2026-09-20T10:55:07Z",
   "items": [
     {
       "id": "8e72503b1705",
@@ -13,6 +13,22 @@
       "published": "2026-12-15",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "20c8dc5920e8",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin \u03b1-1 in cancer therapy: Immunomodulatory mechanisms, clinical applications, and translational perspectives.",
+      "summary": "Published in Eur J Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Eur J Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641753/",
+      "published": "2026-10-28",
+      "tags": [
+        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
@@ -50,15 +66,15 @@
       ]
     },
     {
-      "id": "e49dd04e249d",
+      "id": "760cb41458aa",
       "category": "research",
       "compound": "LL-37",
-      "title": "Full-length brain-derived \u03b1-synuclein fibril models reveal fuzzy-coat control of peptide recognition.",
-      "summary": "Published in Protein Sci. See abstract for full findings.",
+      "title": "LL-37-based oral antimicrobial therapeutics: translational challenges and future directions-a narrative review.",
+      "summary": "Published in Odontology. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Protein Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742050/",
-      "published": "2026-10-01",
+      "source": "PubMed (Odontology)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763374/",
+      "published": "2026-09-20",
       "tags": [
         "ll-37",
         "research",
@@ -205,22 +221,6 @@
       "published": "2026-08-29",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "20c8dc5920e8",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "Thymosin \u03b1-1 in cancer therapy: Immunomodulatory mechanisms, clinical applications, and translational perspectives.",
-      "summary": "Published in Eur J Pharmacol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Eur J Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42641753/",
-      "published": "2026-08-26",
-      "tags": [
-        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
