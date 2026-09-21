@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:31:26Z",
+  "generated_at": "2026-09-21T12:20:51Z",
   "items": [
     {
       "id": "8e72503b1705",
@@ -786,19 +786,19 @@
       ]
     },
     {
-      "id": "120156eaa612",
+      "id": "0d80080d3f3c",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
+      "title": "The Molecular Basis of Inherited Reproductive Disorders",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224490",
+      "url": "https://clinicaltrials.gov/study/NCT05971836",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
         "clinicaltrials.gov",
-        "recruiting"
+        "completed"
       ]
     },
     {
@@ -818,22 +818,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -847,6 +831,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -1117,22 +1117,6 @@
       "published": "2025-01-10",
       "tags": [
         "tesamorelin",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
-      "id": "15b2b1858952",
-      "category": "regulatory",
-      "compound": "GHK-Cu",
-      "title": "FDA enforcement report: GHK-Cu (Copper Peptide) for Injection, all strengths and presentations, GenoGenix, LLC, 2840 NW 2nd Ave Ste 204 Boca Rat",
-      "summary": "Lack of Assurance of Sterility",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2025-01-10",
-      "tags": [
-        "ghk-cu",
         "FDA",
         "enforcement"
       ]
@@ -1437,22 +1421,6 @@
       "published": "2020-01-12",
       "tags": [
         "bpc-157",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
-      "id": "42c15aa00148",
-      "category": "regulatory",
-      "compound": "GHK-Cu",
-      "title": "FDA enforcement report: GHK-CU, 10 MG/ML, 5 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
-      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2020-01-12",
-      "tags": [
-        "ghk-cu",
         "FDA",
         "enforcement"
       ]
