@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:20:51Z",
+  "generated_at": "2026-09-21T21:49:43Z",
   "items": [
     {
       "id": "8e72503b1705",
@@ -1122,6 +1122,22 @@
       ]
     },
     {
+      "id": "15b2b1858952",
+      "category": "regulatory",
+      "compound": "GHK-Cu",
+      "title": "FDA enforcement report: GHK-Cu (Copper Peptide) for Injection, all strengths and presentations, GenoGenix, LLC, 2840 NW 2nd Ave Ste 204 Boca Rat",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2025-01-10",
+      "tags": [
+        "ghk-cu",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
       "id": "838c449b15b6",
       "category": "clinical-trial",
       "compound": "Selank",
@@ -1421,6 +1437,22 @@
       "published": "2020-01-12",
       "tags": [
         "bpc-157",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "42c15aa00148",
+      "category": "regulatory",
+      "compound": "GHK-Cu",
+      "title": "FDA enforcement report: GHK-CU, 10 MG/ML, 5 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
+      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-12",
+      "tags": [
+        "ghk-cu",
         "FDA",
         "enforcement"
       ]
