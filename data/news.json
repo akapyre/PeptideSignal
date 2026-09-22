@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-09-21T21:49:43Z",
+  "generated_at": "2026-09-22T11:12:15Z",
   "items": [
-    {
-      "id": "8e72503b1705",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Detection and Excretion Profile of Retatrutide in Human Plasma and Urine by LC-HRMS: Implications for Antidoping Analysis.",
-      "summary": "Published in Rapid Commun Mass Spectrom. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Rapid Commun Mass Spectrom)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42745421/",
-      "published": "2026-12-15",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
     {
       "id": "20c8dc5920e8",
       "category": "research",
@@ -66,6 +50,38 @@
       ]
     },
     {
+      "id": "e7e8a1fbe4cb",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Future GLP-1 receptor co-agonists and their cardiac effects.",
+      "summary": "Published in Naunyn Schmiedebergs Arch Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Naunyn Schmiedebergs Arch Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768195/",
+      "published": "2026-09-22",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "ab1cd74c012e",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "MOTS-c mediates remote ischemic preconditioning-induced protection against lung ischemia-reperfusion injury via NRF2-dependent mitochondrial biogenesis.",
+      "summary": "Published in Chin Med J (Engl). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Chin Med J (Engl))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767971/",
+      "published": "2026-09-21",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "760cb41458aa",
       "category": "research",
       "compound": "LL-37",
@@ -107,22 +123,6 @@
       "source": "PubMed (J Bioenerg Biomembr)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42734848/",
       "published": "2026-09-14",
-      "tags": [
-        "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f3aca967dd08",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Correction: Reduced serum and skeletal muscle MOTS c levels in women with polycystic ovary syndrome are associated with mitochondrial dysfunction.",
-      "summary": "Published in Sci Rep. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Sci Rep)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42716952/",
-      "published": "2026-09-09",
       "tags": [
         "mots-c",
         "research",
