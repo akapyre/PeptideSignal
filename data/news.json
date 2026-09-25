@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:18:25Z",
+  "generated_at": "2026-09-25T11:26:47Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -82,6 +82,38 @@
       ]
     },
     {
+      "id": "833c89f4b64c",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "The Possible Hematological Cost of Metabolic Success: Do Incretin-Based Therapies Silently Trigger Anemia?",
+      "summary": "Published in Med Sci (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Med Sci (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42783450/",
+      "published": "2026-09-17",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "234b00aec1b5",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Enzymatic Stability and Comparative Effects of Kisspeptin-14, Kisspeptin-13 and Kisspeptin-10 on Beta-Cell Function, Glucose Homeostasis and Appetite Regulation.",
+      "summary": "Published in Metabolites. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Metabolites)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42783811/",
+      "published": "2026-09-17",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "6d066791d89b",
       "category": "research",
       "compound": "LL-37",
@@ -141,22 +173,6 @@
       "published": "2026-09-03",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "dcb68b302614",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Intracerebroventricular injection of neuropeptide Y suppresses luteinizing hormone pulses in mice.",
-      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Neuroendocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42733213/",
-      "published": "2026-09-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
