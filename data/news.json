@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:16:45Z",
+  "generated_at": "2026-09-26T11:02:11Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -18,17 +18,17 @@
       ]
     },
     {
-      "id": "e7e8a1fbe4cb",
+      "id": "f3086521a7ae",
       "category": "research",
-      "compound": "retatrutide",
-      "title": "Future GLP-1 receptor co-agonists and their cardiac effects.",
-      "summary": "Published in Naunyn Schmiedebergs Arch Pharmacol. See abstract for full findings.",
+      "compound": "Melanotan",
+      "title": "Depigmented facial and neck patches following melanotan use in a patient with atopic dermatitis and alopecia areata.",
+      "summary": "Published in Clin Exp Dermatol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Naunyn Schmiedebergs Arch Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768195/",
-      "published": "2026-09-22",
+      "source": "PubMed (Clin Exp Dermatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42212476/",
+      "published": "2026-09-25",
       "tags": [
-        "retatrutide",
+        "melanotan",
         "research",
         "pubmed"
       ]
@@ -66,6 +66,54 @@
       ]
     },
     {
+      "id": "d3694fbd2fdf",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "BPC 157 in Rodent Ischemia-Reperfusion Injury: A Critical Review of Preclinical Evidence.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42794771/",
+      "published": "2026-09-19",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "60a475c050fa",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Apoptosis Modulation by LL-37: From Mitochondrial Cell Death to Prosurvival Signaling.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42794783/",
+      "published": "2026-09-19",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "c7734686a6c0",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Clinical Applications and Evidence Landscape of Thymosin Alpha 1 as an Immunomodulatory Adjunct in Cancer Care: A Scoping Review.",
+      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Pharmaceuticals (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797537/",
+      "published": "2026-09-19",
+      "tags": [
+        "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "833c89f4b64c",
       "category": "research",
       "compound": "retatrutide",
@@ -98,22 +146,6 @@
       ]
     },
     {
-      "id": "6d066791d89b",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Cathelicidin LL-37 inhibits angiogenesis and migration in gastric cancer via inhibition of NF-\u03baB/IL-6 signaling.",
-      "summary": "Published in Histol Histopathol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Histol Histopathol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42745581/",
-      "published": "2026-09-16",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "4e30e985848c",
       "category": "research",
       "compound": "MOTS-c",
@@ -125,6 +157,22 @@
       "published": "2026-09-14",
       "tags": [
         "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "cab292ac10b2",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Obesity, Oxidative Stress, and Inflammation in Precocious Puberty: Do All Roads Lead to the Hypothalamus?",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42794587/",
+      "published": "2026-09-13",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -146,6 +194,22 @@
       ]
     },
     {
+      "id": "80b633f6e383",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Neurogenic Rosacea and Facial Dysesthesia: Neurovascular-Immune Mechanisms and Translational Therapeutic Perspectives.",
+      "summary": "Published in Medicina (Kaunas). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Medicina (Kaunas))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42796296/",
+      "published": "2026-09-03",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "d5f2308abd98",
       "category": "research",
       "compound": "Thymosin Alpha-1",
@@ -157,6 +221,22 @@
       "published": "2026-09-03",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "01ab1587c001",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Potential Role of the Triple Receptor Agonist Retatrutide in Antipsychotic-Associated Metabolic Dysfunction Among Clozapine- and Olanzapine-Treated Schizophrenia Spectrum Disorders: A Narrative Review and Theoretical Framework.",
+      "summary": "Published in Biomedicines. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biomedicines)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42792699/",
+      "published": "2026-08-31",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -194,17 +274,17 @@
       ]
     },
     {
-      "id": "5df66c8a0122",
+      "id": "625868a6aa4e",
       "category": "research",
-      "compound": "BPC-157",
-      "title": "Efficient Expression of Small Molecule Bioactive Peptides in Bacillus licheniformis.",
-      "summary": "Published in Appl Biochem Biotechnol. See abstract for full findings.",
+      "compound": "GHK-Cu",
+      "title": "GHK-Cu as a Bioactive Metallopeptide and Drug-Delivery Cargo: Coordination Chemistry, Formulation Science, Therapeutic Evidence, and a Translational Roadmap.",
+      "summary": "Published in Pharmaceutics. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Appl Biochem Biotechnol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667535/",
-      "published": "2026-08-29",
+      "source": "PubMed (Pharmaceutics)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797253/",
+      "published": "2026-08-27",
       "tags": [
-        "bpc-157",
+        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -237,38 +317,6 @@
       "published": "2026-08-24",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "73b5a09fd099",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "The Regenerative Potential of GHK-Cu in Aesthetic Medicine.",
-      "summary": "Published in Aesthet Surg J. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Aesthet Surg J)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42619529/",
-      "published": "2026-08-20",
-      "tags": [
-        "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "85be09104854",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Transcriptome profiling of human hypothalamic agouti-related protein and proopiomelanocortin neurons regulating energy homeostasis.",
-      "summary": "Published in Nat Commun. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Nat Commun)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736279/",
-      "published": "2026-08-15",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -418,22 +466,6 @@
       ]
     },
     {
-      "id": "6443b4d00f46",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "Thymosin \u03b11 Augments CD8\u207a T-Cell Activation and Reverses Exhaustion In Vitro.",
-      "summary": "Published in Asian Pac J Cancer Prev. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Asian Pac J Cancer Prev)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42345155/",
-      "published": "2026-06-01",
-      "tags": [
-        "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "8331f26aeeb9",
       "category": "research",
       "compound": "KPV",
@@ -450,22 +482,6 @@
       ]
     },
     {
-      "id": "f3086521a7ae",
-      "category": "research",
-      "compound": "Melanotan",
-      "title": "Depigmented Facial and Neck Patches Following Melanotan Use in a Patient With Atopic Dermatitis and Alopecia Areata.",
-      "summary": "Published in Clin Exp Dermatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Exp Dermatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42212476/",
-      "published": "2026-05-29",
-      "tags": [
-        "melanotan",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "b57984ba054f",
       "category": "research",
       "compound": "CJC-1295",
@@ -477,22 +493,6 @@
       "published": "2026-05-01",
       "tags": [
         "cjc-1295",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "92eaa057109e",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Design of a multimodal synthetic peptide antibiotic derived from human cathelicidin.",
-      "summary": "Published in Cell Biomater. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cell Biomater)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42746282/",
-      "published": "2026-04-21",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
