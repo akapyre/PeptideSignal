@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:48:20Z",
+  "generated_at": "2026-09-27T11:41:10Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -13,6 +13,22 @@
       "published": "2026-10-28",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a8e3ea6e169b",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Implications of neuropeptide Y in the regulation of testicular functions in wall lizard, Hemidactylus flaviviridis.",
+      "summary": "Published in Comp Biochem Physiol A Mol Integr Physiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Comp Biochem Physiol A Mol Integr Physiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800552/",
+      "published": "2026-09-26",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -253,22 +269,6 @@
       "published": "2026-08-31",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "41cb6521938b",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Molecular Mechanisms of Endocrine-Disrupting Chemicals and Emerging-Pollutant Toxicity in Human Reproduction: From Xenobiotic Exposure to Fertility Impairment and Reproductive Carcinogenesis.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42737662/",
-      "published": "2026-08-30",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
