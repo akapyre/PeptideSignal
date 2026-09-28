@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:05:06Z",
+  "generated_at": "2026-09-28T13:16:49Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -13,6 +13,38 @@
       "published": "2026-10-28",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0b58040ccbe6",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Divergent effects of hyperandrogenemia on the female reproductive neuroendocrine axis under different physiological conditions.",
+      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Neuroendocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802656/",
+      "published": "2026-10-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "8202a40b2854",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Current perspectives on the pharmacologic treatment of boys and adolescents with congenital hypogonadotropic hypogonadism.",
+      "summary": "Published in Expert Opin Pharmacother. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Expert Opin Pharmacother)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802581/",
+      "published": "2026-09-27",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -146,22 +178,6 @@
       ]
     },
     {
-      "id": "234b00aec1b5",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Enzymatic Stability and Comparative Effects of Kisspeptin-14, Kisspeptin-13 and Kisspeptin-10 on Beta-Cell Function, Glucose Homeostasis and Appetite Regulation.",
-      "summary": "Published in Metabolites. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Metabolites)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42783811/",
-      "published": "2026-09-17",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "4e30e985848c",
       "category": "research",
       "compound": "MOTS-c",
@@ -173,22 +189,6 @@
       "published": "2026-09-14",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "cab292ac10b2",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Obesity, Oxidative Stress, and Inflammation in Precocious Puberty: Do All Roads Lead to the Hypothalamus?",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42794587/",
-      "published": "2026-09-13",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
