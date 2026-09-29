@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:24:20Z",
+  "generated_at": "2026-09-29T22:01:46Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -13,6 +13,22 @@
       "published": "2026-10-28",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "62c6da51cb66",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Gastrointestinal adverse effects of GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists: A narrative expert review of approved therapies, oral formulations, and pipeline agents.",
+      "summary": "Published in Nutr Clin Pract. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nutr Clin Pract)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808923/",
+      "published": "2026-10-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -975,22 +991,6 @@
         "melanotan",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "bfb9c55b81f1",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Advances in the management of obesity: non-pharmacological strategies, herbal formulations, current pharmacotherapy, emerging drugs, and future perspectives.",
-      "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Endocrinol (Lausanne))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42769318/",
-      "published": "2026-01-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
       ]
     },
     {
