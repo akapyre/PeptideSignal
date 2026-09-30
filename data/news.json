@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:09:27Z",
+  "generated_at": "2026-09-30T22:00:37Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -18,15 +18,15 @@
       ]
     },
     {
-      "id": "62c6da51cb66",
+      "id": "fb6295be03a1",
       "category": "research",
       "compound": "retatrutide",
-      "title": "Gastrointestinal adverse effects of GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists: A narrative expert review of approved therapies, oral formulations, and pipeline agents.",
-      "summary": "Published in Nutr Clin Pract. See abstract for full findings.",
+      "title": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
+      "summary": "Published in N Engl J Med. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Nutr Clin Pract)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42808923/",
-      "published": "2026-10-01",
+      "source": "PubMed (N Engl J Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42814954/",
+      "published": "2026-09-29",
       "tags": [
         "retatrutide",
         "research",
@@ -42,22 +42,6 @@
       "why_it_matters": "",
       "source": "PubMed (Diabetes Obes Metab)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42811393/",
-      "published": "2026-09-29",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "e35f6e61390c",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
-      "summary": "Published in Lancet. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Lancet)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/",
       "published": "2026-09-29",
       "tags": [
         "retatrutide",
@@ -991,6 +975,22 @@
         "melanotan",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "aed973861d96",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Recent Studies on the Effectiveness and Safety of Anti-Obesity Medications: A Scoping Review.",
+      "summary": "Published in Diabetes Metab Syndr Obes. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Diabetes Metab Syndr Obes)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812898/",
+      "published": "2026-01-01",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
       ]
     },
     {
