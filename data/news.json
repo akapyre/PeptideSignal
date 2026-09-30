@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:01:46Z",
+  "generated_at": "2026-09-30T12:09:27Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -34,17 +34,81 @@
       ]
     },
     {
-      "id": "0b58040ccbe6",
+      "id": "276ee8ab266b",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Efficacy and Safety of Dual GLP-1/Glucagon Receptor Agonism in Overweight and Obesity: A Class-Specific Systematic Review and Meta-Analysis.",
+      "summary": "Published in Diabetes Obes Metab. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Diabetes Obes Metab)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42811393/",
+      "published": "2026-09-29",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e35f6e61390c",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
+      "summary": "Published in Lancet. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Lancet)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/",
+      "published": "2026-09-29",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "8c5f9c8c67e9",
       "category": "research",
       "compound": "kisspeptin",
-      "title": "Divergent effects of hyperandrogenemia on the female reproductive neuroendocrine axis under different physiological conditions.",
-      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
+      "title": "Monosynaptic GABAergic projections from a subset of suprachiasmatic nucleus neuromedin S neurons suppress preoptic area kisspeptin neuron firing in female mice.",
+      "summary": "Published in J Neurosci. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (J Neuroendocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802656/",
-      "published": "2026-10-01",
+      "source": "PubMed (J Neurosci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810967/",
+      "published": "2026-09-29",
       "tags": [
         "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f046558c55f3",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Physiopathology of PMOS from a Neuroendocrine Perspective.",
+      "summary": "Published in Physiology (Bethesda). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Physiology (Bethesda))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809619/",
+      "published": "2026-09-29",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a453f8e21a5f",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "RK-14: A Novel Antimicrobial Peptide Targeting Multidrug-Resistant Bacteria and Catheter-Associated Biofilms.",
+      "summary": "Published in Probiotics Antimicrob Proteins. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Probiotics Antimicrob Proteins)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809173/",
+      "published": "2026-09-29",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -59,22 +123,6 @@
       "source": "PubMed (Reprod Sci)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42806235/",
       "published": "2026-09-28",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "8202a40b2854",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Current perspectives on the pharmacologic treatment of boys and adolescents with congenital hypogonadotropic hypogonadism.",
-      "summary": "Published in Expert Opin Pharmacother. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Expert Opin Pharmacother)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802581/",
-      "published": "2026-09-27",
       "tags": [
         "kisspeptin",
         "research",
@@ -114,22 +162,6 @@
       ]
     },
     {
-      "id": "760cb41458aa",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "LL-37-based oral antimicrobial therapeutics: translational challenges and future directions-a narrative review.",
-      "summary": "Published in Odontology. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Odontology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42763374/",
-      "published": "2026-09-20",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "d3694fbd2fdf",
       "category": "research",
       "compound": "BPC-157",
@@ -146,22 +178,6 @@
       ]
     },
     {
-      "id": "60a475c050fa",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Apoptosis Modulation by LL-37: From Mitochondrial Cell Death to Prosurvival Signaling.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42794783/",
-      "published": "2026-09-19",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "c7734686a6c0",
       "category": "research",
       "compound": "Thymosin Alpha-1",
@@ -173,22 +189,6 @@
       "published": "2026-09-19",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "833c89f4b64c",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "The Possible Hematological Cost of Metabolic Success: Do Incretin-Based Therapies Silently Trigger Anemia?",
-      "summary": "Published in Med Sci (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Med Sci (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42783450/",
-      "published": "2026-09-17",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -258,22 +258,6 @@
       ]
     },
     {
-      "id": "01ab1587c001",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Potential Role of the Triple Receptor Agonist Retatrutide in Antipsychotic-Associated Metabolic Dysfunction Among Clozapine- and Olanzapine-Treated Schizophrenia Spectrum Disorders: A Narrative Review and Theoretical Framework.",
-      "summary": "Published in Biomedicines. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biomedicines)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42792699/",
-      "published": "2026-08-31",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "85c8a4907aa4",
       "category": "research",
       "compound": "SS-31",
@@ -333,6 +317,22 @@
       "published": "2026-08-24",
       "tags": [
         "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f5ba94b3649f",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Impact of cathelicidin cleavage by SpeB on Streptococcus pyogenes CovRS signaling.",
+      "summary": "Published in bioRxiv. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (bioRxiv)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812144/",
+      "published": "2026-08-12",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -802,14 +802,14 @@
       ]
     },
     {
-      "id": "bf61705fb673",
+      "id": "ca61bf97035b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
-      "title": "Kisspeptin Administration Subcutaneously to Patients With Hypothalamic Amenorrhea",
+      "title": "Kisspeptin Administration Subcutaneously to Patients With IHH",
       "summary": "Status: RECRUITING. Registry entry updated 2026-07-13.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07224438",
+      "url": "https://clinicaltrials.gov/study/NCT05896293",
       "published": "2026-01-07",
       "tags": [
         "kisspeptin",
