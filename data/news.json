@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:43:01Z",
+  "generated_at": "2026-10-01T22:28:36Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -114,6 +114,22 @@
       ]
     },
     {
+      "id": "c198f204d372",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "A portable N-terminal biphenyl motif in LL-37 enhances the activity of short human cathelicidin derivatives.",
+      "summary": "Published in bioRxiv. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (bioRxiv)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817938/",
+      "published": "2026-09-25",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "f3086521a7ae",
       "category": "research",
       "compound": "Melanotan",
@@ -205,22 +221,6 @@
       "published": "2026-09-08",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "80b633f6e383",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Neurogenic Rosacea and Facial Dysesthesia: Neurovascular-Immune Mechanisms and Translational Therapeutic Perspectives.",
-      "summary": "Published in Medicina (Kaunas). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Medicina (Kaunas))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42796296/",
-      "published": "2026-09-03",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
