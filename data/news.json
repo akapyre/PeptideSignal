@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:29:45Z",
+  "generated_at": "2026-10-07T12:54:44Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -50,6 +50,22 @@
       ]
     },
     {
+      "id": "8e048d2cd38f",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Early neuroendocrine signatures of polyendocrine metabolic ovarian syndrome risk: Pubertal programming, social brain signals, and novel therapeutic targets.",
+      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Neuroendocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42838111/",
+      "published": "2026-10-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "145ad885752b",
       "category": "research",
       "compound": "kisspeptin",
@@ -74,22 +90,6 @@
       "why_it_matters": "",
       "source": "PubMed (Biol Reprod)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42821307/",
-      "published": "2026-10-01",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "133b71adfbc2",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Effect of Exogenous Danio rerio kiss1 Peptide on Cortisol Levels in Early Embryos and Juvenile Forms of Teleost Fish.",
-      "summary": "Published in Bull Exp Biol Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Bull Exp Biol Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42821224/",
       "published": "2026-10-01",
       "tags": [
         "kisspeptin",
