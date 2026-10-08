@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:53:49Z",
+  "generated_at": "2026-10-08T13:03:12Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -13,6 +13,22 @@
       "published": "2026-10-28",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "43bff127a248",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Emerging risks of health optimisation: refractory nausea associated with peptide injections reported to contain retatrutide.",
+      "summary": "Published in BMJ Case Rep. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMJ Case Rep)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843917/",
+      "published": "2026-10-07",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -562,6 +578,38 @@
       ]
     },
     {
+      "id": "d6e6c8a3bead",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated Steatotic Liver Disease (SYNERGY-Outcomes)",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-10-08.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07165028",
+      "published": "2026-01-10",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "06c61b33c7b4",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-10-08.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06383390",
+      "published": "2026-01-10",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
       "id": "31489a8ef303",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -594,6 +642,22 @@
       ]
     },
     {
+      "id": "5a72681d5788",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymalfasin for Immune Recovery in Adults With Sepsis",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-10-08.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07866118",
+      "published": "2026-01-10",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "e6c239eb3ca4",
       "category": "clinical-trial",
       "compound": "BPC-157",
@@ -607,38 +671,6 @@
         "bpc-157",
         "clinicaltrials.gov",
         "not_yet_recruiting"
-      ]
-    },
-    {
-      "id": "25a873e3697b",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "Effect of Retatrutide Compared With Semaglutide in Adult Participants With Type 2 Diabetes and Inadequate Glycemic Control With Metformin With or Without SGLT2 Inhibitor (TRANSCEND-T2D-2)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-09-28.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06260722",
-      "published": "2026-01-09",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
-      ]
-    },
-    {
-      "id": "e8de019c5736",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight and Chronic Low Back Pain",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-09-25.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07035093",
-      "published": "2026-01-09",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
       ]
     },
     {
@@ -738,22 +770,6 @@
       ]
     },
     {
-      "id": "1ad9b7428d0e",
-      "category": "clinical-trial",
-      "compound": "Thymosin Alpha-1",
-      "title": "The Impact of Thymosin \u03b1-1 on the Efficacy of Concurrent Chemoradiotherapy Followed by Immunotherpay Consolidation for Locally Advanced NSCLC",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-08-03.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06139419",
-      "published": "2026-01-08",
-      "tags": [
-        "thymosin alpha-1",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
       "id": "d27516809f8a",
       "category": "clinical-trial",
       "compound": "GHK-Cu",
@@ -818,22 +834,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -847,6 +847,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -882,19 +898,19 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
+      "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "recruiting"
+        "not_yet_recruiting"
       ]
     },
     {
@@ -975,22 +991,6 @@
         "melanotan",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "aed973861d96",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Recent Studies on the Effectiveness and Safety of Anti-Obesity Medications: A Scoping Review.",
-      "summary": "Published in Diabetes Metab Syndr Obes. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Diabetes Metab Syndr Obes)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42812898/",
-      "published": "2026-01-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
       ]
     },
     {
