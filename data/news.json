@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:49:45Z",
+  "generated_at": "2026-10-09T22:25:49Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -34,6 +34,22 @@
       ]
     },
     {
+      "id": "49ee50b0b501",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Unapproved GLP-1 Drugs Retatrutide and Zenagamtide Sold Online Are No Bargain.",
+      "summary": "Published in JAMA. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (JAMA)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853576/",
+      "published": "2026-10-09",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "9ec1f944095c",
       "category": "research",
       "compound": "retatrutide",
@@ -43,22 +59,6 @@
       "source": "PubMed (Eur J Pharmacol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42849689/",
       "published": "2026-10-08",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "43bff127a248",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Emerging risks of health optimisation: refractory nausea associated with peptide injections reported to contain retatrutide.",
-      "summary": "Published in BMJ Case Rep. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (BMJ Case Rep)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843917/",
-      "published": "2026-10-07",
       "tags": [
         "retatrutide",
         "research",
