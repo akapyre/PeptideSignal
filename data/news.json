@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:05:39Z",
+  "generated_at": "2026-10-09T12:49:45Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -18,6 +18,38 @@
       ]
     },
     {
+      "id": "805aa211831c",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide in adults with obesity and type 2 diabetes: what have we learned from TRIUMPH-2?",
+      "summary": "Published in Lancet. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Lancet)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849462/",
+      "published": "2026-10-10",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "9ec1f944095c",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "GLP-1 Receptor Biology and the Therapeutic Role of Incretin-Based Agonists in Metabolic Diseases.",
+      "summary": "Published in Eur J Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Eur J Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849689/",
+      "published": "2026-10-08",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "43bff127a248",
       "category": "research",
       "compound": "retatrutide",
@@ -27,22 +59,6 @@
       "source": "PubMed (BMJ Case Rep)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843917/",
       "published": "2026-10-07",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "a3727b19edf3",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide trial: Triple action jab can cause weight loss of up to 25%, results suggest.",
-      "summary": "Published in BMJ. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (BMJ)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42823062/",
-      "published": "2026-10-01",
       "tags": [
         "retatrutide",
         "research",
@@ -109,22 +125,6 @@
       "published": "2026-10-01",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "fb6295be03a1",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
-      "summary": "Published in N Engl J Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (N Engl J Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42814954/",
-      "published": "2026-09-29",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
