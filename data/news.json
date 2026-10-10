@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:25:49Z",
+  "generated_at": "2026-10-10T12:07:47Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -61,6 +61,22 @@
       "published": "2026-10-08",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "4218c9b5e87e",
+      "category": "research",
+      "compound": "KPV",
+      "title": "Lysine-Proline-Valine attenuates oxidized low-density lipoprotein-induced foam cell formation and inflammatory responses in RAW264.7 macrophages.",
+      "summary": "Published in Tissue Cell. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Tissue Cell)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854645/",
+      "published": "2026-10-07",
+      "tags": [
+        "kpv",
         "research",
         "pubmed"
       ]
@@ -477,22 +493,6 @@
       "published": "2026-06-01",
       "tags": [
         "ara-290",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "8331f26aeeb9",
-      "category": "research",
-      "compound": "KPV",
-      "title": "Lysine-proline-valine peptide attenuates hepatic lipid accumulation through ROS-dependent regulation of the PPAR\u03b3 pathway in HepG2 cells.",
-      "summary": "Published in Cytotechnology. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cytotechnology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42064835/",
-      "published": "2026-06-01",
-      "tags": [
-        "kpv",
         "research",
         "pubmed"
       ]
