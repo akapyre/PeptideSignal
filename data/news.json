@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:39:30Z",
+  "generated_at": "2026-10-12T14:48:46Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -141,22 +141,6 @@
       "published": "2026-10-01",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "a453f8e21a5f",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "RK-14: A Novel Antimicrobial Peptide Targeting Multidrug-Resistant Bacteria and Catheter-Associated Biofilms.",
-      "summary": "Published in Probiotics Antimicrob Proteins. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Probiotics Antimicrob Proteins)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42809173/",
-      "published": "2026-09-29",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1069,6 +1053,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "4ebb442addd6",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "LL-37-MRGPRX2-Mast Cell Signaling in Rosacea: Current Evidence and Directions for Human Studies.",
+      "summary": "Published in Clin Cosmet Investig Dermatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Clin Cosmet Investig Dermatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42861262/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
