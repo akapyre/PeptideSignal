@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:49:28Z",
+  "generated_at": "2026-10-13T22:25:37Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -301,22 +301,6 @@
       "published": "2026-08-24",
       "tags": [
         "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f5ba94b3649f",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Impact of cathelicidin cleavage by SpeB on Streptococcus pyogenes CovRS signaling.",
-      "summary": "Published in bioRxiv. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (bioRxiv)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42812144/",
-      "published": "2026-08-12",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1021,6 +1005,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3b5743e764a6",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Ameliorative effects and mechanisms of paeonol against rosacea through network pharmacology and experimental validation.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865362/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
