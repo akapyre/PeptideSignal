@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:48:46Z",
+  "generated_at": "2026-10-13T00:19:20Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -130,17 +130,17 @@
       ]
     },
     {
-      "id": "fe5c2c13ec77",
+      "id": "dfd5a0426697",
       "category": "research",
-      "compound": "kisspeptin",
-      "title": "Induced vs Spontaneous Ovulation: Integrating KNDy Circuitry, Sensory Cues, and Ecological Context.",
-      "summary": "Published in Biol Reprod. See abstract for full findings.",
+      "compound": "tesamorelin",
+      "title": "Peptides in urology and sexual medicine: clinical effectiveness, dosing, indications, and safety: a narrative review.",
+      "summary": "Published in Sex Med Rev. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Biol Reprod)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42821307/",
-      "published": "2026-10-01",
+      "source": "PubMed (Sex Med Rev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862021/",
+      "published": "2026-09-30",
       "tags": [
-        "kisspeptin",
+        "tesamorelin",
         "research",
         "pubmed"
       ]
@@ -157,22 +157,6 @@
       "published": "2026-09-25",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f3086521a7ae",
-      "category": "research",
-      "compound": "Melanotan",
-      "title": "Depigmented facial and neck patches following melanotan use in a patient with atopic dermatitis and alopecia areata.",
-      "summary": "Published in Clin Exp Dermatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Exp Dermatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42212476/",
-      "published": "2026-09-25",
-      "tags": [
-        "melanotan",
         "research",
         "pubmed"
       ]
@@ -477,22 +461,6 @@
       "published": "2026-06-01",
       "tags": [
         "ara-290",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "b57984ba054f",
-      "category": "research",
-      "compound": "CJC-1295",
-      "title": "Injectable Peptides in Sports Medicine: A Structured Narrative Review of Evidence, Safety, and Antidoping Implications.",
-      "summary": "Published in JBJS Rev. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (JBJS Rev)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42160466/",
-      "published": "2026-05-01",
-      "tags": [
-        "cjc-1295",
         "research",
         "pubmed"
       ]
@@ -996,7 +964,7 @@
     {
       "id": "52c91de3fc2c",
       "category": "research",
-      "compound": "tesamorelin",
+      "compound": "CJC-1295",
       "title": "The emerging landscape of performance-enhancing peptides modulating GH-IGF1 axis: bridging the gap between clinical evidence and patient self-administration.",
       "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
       "why_it_matters": "",
@@ -1004,7 +972,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42395176/",
       "published": "2026-01-01",
       "tags": [
-        "tesamorelin",
+        "cjc-1295",
         "research",
         "pubmed"
       ]
