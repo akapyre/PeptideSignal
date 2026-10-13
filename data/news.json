@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:19:20Z",
+  "generated_at": "2026-10-13T13:49:28Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -50,10 +50,26 @@
       ]
     },
     {
+      "id": "f0c1029fb8ed",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "SLC32A1 regulates puberty onset in female mice by modulating GnRH neuron function through Kisspeptin and GABA-GABA(B) receptor signaling.",
+      "summary": "Published in Theriogenology. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Theriogenology)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863441/",
+      "published": "2026-10-09",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "9ec1f944095c",
       "category": "research",
       "compound": "retatrutide",
-      "title": "GLP-1 Receptor Biology and the Therapeutic Role of Incretin-Based Agonists in Metabolic Diseases.",
+      "title": "GLP-1 receptor biology and the therapeutic role of incretin-based agonists in metabolic diseases.",
       "summary": "Published in Eur J Pharmacol. See abstract for full findings.",
       "why_it_matters": "",
       "source": "PubMed (Eur J Pharmacol)",
@@ -106,22 +122,6 @@
       "why_it_matters": "",
       "source": "PubMed (J Neuroendocrinol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42838111/",
-      "published": "2026-10-01",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "145ad885752b",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Functional interactions between anteroventral periventricular kisspeptin neurons and gonadotropin-releasing hormone neurons in female mice.",
-      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Neuroendocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42833261/",
       "published": "2026-10-01",
       "tags": [
         "kisspeptin",
@@ -786,22 +786,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -815,6 +799,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
