@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:03:33Z",
+  "generated_at": "2026-10-15T21:05:12Z",
   "items": [
     {
       "id": "96c798b9fdd7",
@@ -66,6 +66,38 @@
       ]
     },
     {
+      "id": "02821dd922ab",
+      "category": "research",
+      "compound": "CJC-1295",
+      "title": "Detection of CJC-1295 in Equine Plasma by ELISA.",
+      "summary": "Published in Drug Test Anal. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Drug Test Anal)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876013/",
+      "published": "2026-10-14",
+      "tags": [
+        "cjc-1295",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "11bdbae2553e",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Mitochondrial Quality Control in Degenerative Musculoskeletal Diseases: Signaling Networks and Therapeutic Landscapes.",
+      "summary": "Published in Adv Sci (Weinh). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Adv Sci (Weinh))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875857/",
+      "published": "2026-10-14",
+      "tags": [
+        "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "d3f47798d947",
       "category": "research",
       "compound": "LL-37",
@@ -125,22 +157,6 @@
       "published": "2026-10-01",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "1c8df712edac",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Oral Colon- and Mitochondria-Targeted Nanoparticles Alleviate Ulcerative Colitis by Reeducating Macrophage Polarization via SIRT3/FOXO3a-Mediated Mitochondrial Restoration.",
-      "summary": "Published in J Gastroenterol Hepatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Gastroenterol Hepatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638278/",
-      "published": "2026-10-01",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
@@ -292,7 +308,7 @@
     {
       "id": "832d3b896dcf",
       "category": "research",
-      "compound": "TB-500",
+      "compound": "GHK-Cu",
       "title": "Peptides in Regenerative Medicine: A Comprehensive Review of Clinical Applications in Tissue Repair and Chronic Pain Management.",
       "summary": "Published in Curr Pain Headache Rep. See abstract for full findings.",
       "why_it_matters": "",
@@ -300,7 +316,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42635865/",
       "published": "2026-08-24",
       "tags": [
-        "tb-500",
+        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -388,7 +404,7 @@
     {
       "id": "b2eecde3e818",
       "category": "research",
-      "compound": "BPC-157",
+      "compound": "TB-500",
       "title": "Synthetic Peptides in Pharmacy Compounding: Analysis of PCAC Recommendations and Industry Safety Standards.",
       "summary": "Published in Int J Pharm Compd. See abstract for full findings.",
       "why_it_matters": "",
@@ -396,7 +412,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42752426/",
       "published": "2026-07-01",
       "tags": [
-        "bpc-157",
+        "tb-500",
         "research",
         "pubmed"
       ]
@@ -562,6 +578,22 @@
       ]
     },
     {
+      "id": "93d929ba2441",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "The Interaction of Body Composition, Sex Hormones and Exercise in Men",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-10-15.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06970457",
+      "published": "2026-01-10",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "8451d56f2e7b",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -575,6 +607,22 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "not_yet_recruiting"
+      ]
+    },
+    {
+      "id": "ec3dab912a6b",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin-\u03b11 for Recurrent Implantation Failure",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-10-15.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07675980",
+      "published": "2026-01-10",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -658,22 +706,6 @@
       ]
     },
     {
-      "id": "be86452af5c3",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Prolonged Pulsatile Kisspeptin Administration in Hypogonadotropic Hypogonadism",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-08-26.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT04648969",
-      "published": "2026-01-08",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
       "id": "067650515f20",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -687,22 +719,6 @@
         "ll-37",
         "clinicaltrials.gov",
         "completed"
-      ]
-    },
-    {
-      "id": "ddd18fbd4027",
-      "category": "clinical-trial",
-      "compound": "Thymosin Alpha-1",
-      "title": "Study of Adebrelimab Combined With Thymalfasin and Chemotherapy for Neoadjuvant Treatment of Esophageal Cancer",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-08-21.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07780721",
-      "published": "2026-01-08",
-      "tags": [
-        "thymosin alpha-1",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
       ]
     },
     {
@@ -930,6 +946,22 @@
       ]
     },
     {
+      "id": "1a4ab29ee9bf",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Case Report: Regenerative peptides for Inferior alveolar nerve injury: a narrative review with hypothesis-generating three clinical cases.",
+      "summary": "Published in Front Oral Health. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Oral Health)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876687/",
+      "published": "2026-01-01",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "f694396de75f",
       "category": "research",
       "compound": "tesamorelin",
@@ -948,7 +980,7 @@
     {
       "id": "52c91de3fc2c",
       "category": "research",
-      "compound": "CJC-1295",
+      "compound": "Ipamorelin",
       "title": "The emerging landscape of performance-enhancing peptides modulating GH-IGF1 axis: bridging the gap between clinical evidence and patient self-administration.",
       "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
       "why_it_matters": "",
@@ -956,7 +988,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42395176/",
       "published": "2026-01-01",
       "tags": [
-        "cjc-1295",
+        "ipamorelin",
         "research",
         "pubmed"
       ]
@@ -1229,22 +1261,6 @@
       "published": "2023-07-01",
       "tags": [
         "bam-15",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "a49d3225d545",
-      "category": "research",
-      "compound": "ARA-290",
-      "title": "Mechanistic Approach for Protective Effect of ARA290, a Specific Ligand for the Erythropoietin/CD131 Heteroreceptor, against Cisplatin-Induced Nephrotoxicity, the Involvement of Apoptosis and Inflammation Pathways.",
-      "summary": "Published in Inflammation. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Inflammation)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/36085231/",
-      "published": "2023-02-01",
-      "tags": [
-        "ara-290",
         "research",
         "pubmed"
       ]
