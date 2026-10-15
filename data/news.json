@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:23:38Z",
+  "generated_at": "2026-10-15T11:03:33Z",
   "items": [
     {
       "id": "96c798b9fdd7",
@@ -50,17 +50,33 @@
       ]
     },
     {
-      "id": "49ee50b0b501",
+      "id": "0d2a559cc8aa",
       "category": "research",
       "compound": "retatrutide",
-      "title": "Unapproved GLP-1 Drugs Retatrutide and Zenagamtide Sold Online Are No Bargain.",
-      "summary": "Published in JAMA. See abstract for full findings.",
+      "title": "GLP-1 receptor agonists and hair loss: adverse effect, epiphenomenon, or therapeutic paradox?",
+      "summary": "Published in Acta Diabetol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (JAMA)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853576/",
-      "published": "2026-10-09",
+      "source": "PubMed (Acta Diabetol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873315/",
+      "published": "2026-10-14",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "d3f47798d947",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Device-Free Auricular Acupressure for Rosacea: A Randomized Clinical Trial.",
+      "summary": "Published in JAMA Dermatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (JAMA Dermatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873508/",
+      "published": "2026-10-14",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -82,22 +98,6 @@
       ]
     },
     {
-      "id": "9ec1f944095c",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "GLP-1 receptor biology and the therapeutic role of incretin-based agonists in metabolic diseases.",
-      "summary": "Published in Eur J Pharmacol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Eur J Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849689/",
-      "published": "2026-10-08",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "4218c9b5e87e",
       "category": "research",
       "compound": "KPV",
@@ -109,6 +109,22 @@
       "published": "2026-10-07",
       "tags": [
         "kpv",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "9ba9f29813c5",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Self-Reported Adverse Effects Among Social Media Users Taking Nonapproved Retatrutide.",
+      "summary": "Published in JAMA Netw Open. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (JAMA Netw Open)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873503/",
+      "published": "2026-10-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -1018,22 +1034,6 @@
       "why_it_matters": "",
       "source": "PubMed (Front Immunol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42865362/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "4ebb442addd6",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "LL-37-MRGPRX2-Mast Cell Signaling in Rosacea: Current Evidence and Directions for Human Studies.",
-      "summary": "Published in Clin Cosmet Investig Dermatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Clin Cosmet Investig Dermatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42861262/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
