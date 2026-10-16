@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:59:28Z",
+  "generated_at": "2026-10-16T20:41:02Z",
   "items": [
     {
       "id": "2f2d506c11ae",
@@ -578,22 +578,6 @@
       ]
     },
     {
-      "id": "06c61b33c7b4",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-10-08.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06383390",
-      "published": "2026-01-10",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
-      ]
-    },
-    {
       "id": "d6e6c8a3bead",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -607,6 +591,22 @@
         "retatrutide",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "06c61b33c7b4",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-10-08.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06383390",
+      "published": "2026-01-10",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
       ]
     },
     {
@@ -626,6 +626,22 @@
       ]
     },
     {
+      "id": "8451d56f2e7b",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Time-Restricted Eating as a Dietary Intervention for Polyendocrine Metabolic Ovarian Syndrome (PMOS): Protocol for a Randomized Controlled Trial",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-10-16.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06204965",
+      "published": "2026-01-10",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
+      ]
+    },
+    {
       "id": "93d929ba2441",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -639,22 +655,6 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "8451d56f2e7b",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Impact of Time-restricted Eating on the Outcomes Associated With Polycystic Ovary Syndrome (Polyendocrine Metabolic Ovarian Syndrome)",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-10-05.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06204965",
-      "published": "2026-01-10",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "not_yet_recruiting"
       ]
     },
     {
@@ -834,22 +834,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -863,6 +847,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -1042,14 +1042,14 @@
       ]
     },
     {
-      "id": "11198d93a59c",
+      "id": "efd0a4ad334c",
       "category": "research",
       "compound": "Semax",
-      "title": "Quantitative MRI Pharmacokinetic Modeling and MALDI Mass Spectrometry Imaging Biodistribution of a pH Mapping MRI Contrast Agent.",
-      "summary": "Published in Theranostics. See abstract for full findings.",
+      "title": "[Changes in retinal light sensitivity and morphometry during surgical treatment of primary glaucoma with physiotherapeutic stimulation].",
+      "summary": "Published in Vestn Oftalmol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Theranostics)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42559144/",
+      "source": "PubMed (Vestn Oftalmol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885627/",
       "published": "2026-01-01",
       "tags": [
         "semax",
@@ -1058,14 +1058,14 @@
       ]
     },
     {
-      "id": "bfa62fac1a41",
+      "id": "11198d93a59c",
       "category": "research",
       "compound": "Semax",
-      "title": "[Effect of a combined physiotherapeutic approach on changes in functional parameters after endovitreal surgery of rhegmatogenous retinal detachment with a favorable anatomical outcome].",
-      "summary": "Published in Vestn Oftalmol. See abstract for full findings.",
+      "title": "Quantitative MRI Pharmacokinetic Modeling and MALDI Mass Spectrometry Imaging Biodistribution of a pH Mapping MRI Contrast Agent.",
+      "summary": "Published in Theranostics. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Vestn Oftalmol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42366656/",
+      "source": "PubMed (Theranostics)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42559144/",
       "published": "2026-01-01",
       "tags": [
         "semax",
