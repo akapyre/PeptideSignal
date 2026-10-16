@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-10-15T21:05:12Z",
+  "generated_at": "2026-10-16T10:59:28Z",
   "items": [
-    {
-      "id": "96c798b9fdd7",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "The pharmacotherapy for pediatric obesity: insights and challenges from adult weight-loss medications.",
-      "summary": "Published in J Diabetes Metab Disord. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Diabetes Metab Disord)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42871568/",
-      "published": "2026-12-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
     {
       "id": "2f2d506c11ae",
       "category": "research",
@@ -50,15 +34,15 @@
       ]
     },
     {
-      "id": "0d2a559cc8aa",
+      "id": "d2f2dde29ab1",
       "category": "research",
       "compound": "retatrutide",
-      "title": "GLP-1 receptor agonists and hair loss: adverse effect, epiphenomenon, or therapeutic paradox?",
-      "summary": "Published in Acta Diabetol. See abstract for full findings.",
+      "title": "Retatrutide treatment in streptozotocin-induced diabetic rats: renal inflammatory cytokines, HIF\u20111\u03b1 expression, and histopathological injury profile.",
+      "summary": "Published in J Mol Histol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Acta Diabetol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42873315/",
-      "published": "2026-10-14",
+      "source": "PubMed (J Mol Histol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878930/",
+      "published": "2026-10-15",
       "tags": [
         "retatrutide",
         "research",
@@ -114,6 +98,22 @@
       ]
     },
     {
+      "id": "8aaee606a567",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Mitochondrial-derived peptides in female reproduction: Emerging regulators of oocyte competence and novel therapeutic opportunities for infertility.",
+      "summary": "Published in Tissue Cell. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Tissue Cell)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880137/",
+      "published": "2026-10-11",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "f0c1029fb8ed",
       "category": "research",
       "compound": "kisspeptin",
@@ -125,6 +125,22 @@
       "published": "2026-10-09",
       "tags": [
         "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3b48a1505bbc",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Human evidence for BPC-157 in orthopaedic and regenerative medicine: a systematic review of efficacy and safety.",
+      "summary": "Published in Acta Orthop Belg. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Acta Orthop Belg)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885452/",
+      "published": "2026-10-08",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -162,6 +178,22 @@
       ]
     },
     {
+      "id": "d5c10346a46f",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "GLP-1, GIP, and Glucagon Receptor Agonism at the Obesity-Neurodegeneration Interface: A Narrative Review.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883986/",
+      "published": "2026-09-30",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "dfd5a0426697",
       "category": "research",
       "compound": "tesamorelin",
@@ -173,6 +205,38 @@
       "published": "2026-09-30",
       "tags": [
         "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "31ad90172ceb",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Polycystic ovary syndrome: An insight into pathophysiology, current management, and emerging therapeutic approaches.",
+      "summary": "Published in Curr Opin Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Curr Opin Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880183/",
+      "published": "2026-09-25",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "cd430b0a0346",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Mitochondria-Endoplasmic Reticulum Crosstalk in Pancreatic \u03b2-Cell Stress: A Driver of Diabetes.",
+      "summary": "Published in Cells. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cells)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42882431/",
+      "published": "2026-09-23",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
@@ -221,22 +285,6 @@
       "published": "2026-09-19",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "4e30e985848c",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Mitokines as bioenergetic stress signals in cardiovascular disease: mitochondrial communication, endocrine adaptation, and translational implications.",
-      "summary": "Published in J Bioenerg Biomembr. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Bioenerg Biomembr)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42734848/",
-      "published": "2026-09-14",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
@@ -388,7 +436,7 @@
     {
       "id": "66b7c5d0280c",
       "category": "research",
-      "compound": "BPC-157",
+      "compound": "TB-500",
       "title": "Dangers of Injectable Peptides and Other Unregulated \"Biohacking\" Drugs.",
       "summary": "Published in Mo Med. See abstract for full findings.",
       "why_it_matters": "",
@@ -396,7 +444,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42757290/",
       "published": "2026-07-01",
       "tags": [
-        "bpc-157",
+        "tb-500",
         "research",
         "pubmed"
       ]
@@ -1042,14 +1090,14 @@
       ]
     },
     {
-      "id": "ee13ec6d161f",
+      "id": "ddf6f1c48174",
       "category": "research",
       "compound": "LL-37",
-      "title": "The active immune role of keratinocytes: from passive targets to key hubs in psoriatic inflammation.",
+      "title": "Inflammatory memory as a potential driver of rosacea pathogenesis: integrating mechanisms of chronic relapse and perspectives on disease modification.",
       "summary": "Published in Front Immunol. See abstract for full findings.",
       "why_it_matters": "",
       "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42871309/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877634/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
@@ -1058,14 +1106,14 @@
       ]
     },
     {
-      "id": "3b5743e764a6",
+      "id": "ee13ec6d161f",
       "category": "research",
       "compound": "LL-37",
-      "title": "Ameliorative effects and mechanisms of paeonol against rosacea through network pharmacology and experimental validation.",
+      "title": "The active immune role of keratinocytes: from passive targets to key hubs in psoriatic inflammation.",
       "summary": "Published in Front Immunol. See abstract for full findings.",
       "why_it_matters": "",
       "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42865362/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42871309/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
