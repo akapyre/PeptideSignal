@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:41:02Z",
+  "generated_at": "2026-10-17T10:20:46Z",
   "items": [
     {
       "id": "2f2d506c11ae",
@@ -29,6 +29,22 @@
       "published": "2026-10-28",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "09409d31f07f",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Population pharmacokinetic-pharmacodynamic modeling and dose selection of GS1-144 based on luteinizing hormone suppression in postmenopausal women.",
+      "summary": "Published in J Pharmacokinet Pharmacodyn. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Pharmacokinet Pharmacodyn)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42888352/",
+      "published": "2026-10-16",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -114,17 +130,17 @@
       ]
     },
     {
-      "id": "f0c1029fb8ed",
+      "id": "7d8af8a77b52",
       "category": "research",
-      "compound": "kisspeptin",
-      "title": "SLC32A1 regulates puberty onset in female mice by modulating GnRH neuron function through Kisspeptin and GABA-GABA(B) receptor signaling.",
-      "summary": "Published in Theriogenology. See abstract for full findings.",
+      "compound": "GHK-Cu",
+      "title": "Characterization of copper tripeptide-loaded lipid carriers and their stability in complex cosmetic matrices.",
+      "summary": "Published in J Chromatogr A. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Theriogenology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42863441/",
-      "published": "2026-10-09",
+      "source": "PubMed (J Chromatogr A)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42887096/",
+      "published": "2026-10-10",
       "tags": [
-        "kisspeptin",
+        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -356,7 +372,7 @@
     {
       "id": "832d3b896dcf",
       "category": "research",
-      "compound": "GHK-Cu",
+      "compound": "ARA-290",
       "title": "Peptides in Regenerative Medicine: A Comprehensive Review of Clinical Applications in Tissue Repair and Chronic Pain Management.",
       "summary": "Published in Curr Pain Headache Rep. See abstract for full findings.",
       "why_it_matters": "",
@@ -364,7 +380,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42635865/",
       "published": "2026-08-24",
       "tags": [
-        "ghk-cu",
+        "ara-290",
         "research",
         "pubmed"
       ]
