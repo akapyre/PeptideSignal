@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-10-17T20:19:00Z",
+  "generated_at": "2026-10-18T10:37:00Z",
   "items": [
-    {
-      "id": "2f2d506c11ae",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Kisspeptin-10 alleviates OGD/R-induced H9c2 cardiomyocyte injury by triggering autophagy via regulating the YY1/TFEB axis.",
-      "summary": "Published in Cytotechnology. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cytotechnology)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42871171/",
-      "published": "2026-12-01",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
     {
       "id": "20c8dc5920e8",
       "category": "research",
@@ -29,6 +13,22 @@
       "published": "2026-10-28",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e3b3e99a2476",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Plasticizers induce central precocious puberty via dysregulation of EGFR/MYC/PTEN/mTOR-mediated HPG axis activation.",
+      "summary": "Published in Ecotoxicol Environ Saf. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Ecotoxicol Environ Saf)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892294/",
+      "published": "2026-10-17",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -178,22 +178,6 @@
       ]
     },
     {
-      "id": "9ba9f29813c5",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Self-Reported Adverse Effects Among Social Media Users Taking Nonapproved Retatrutide.",
-      "summary": "Published in JAMA Netw Open. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (JAMA Netw Open)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42873503/",
-      "published": "2026-10-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "d5c10346a46f",
       "category": "research",
       "compound": "retatrutide",
@@ -333,6 +317,22 @@
       "published": "2026-09-03",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "07ec7840e8df",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Modern Obesity Treatment: Efficacy, Safety, and Future Directions of GLP-1 (Glucagon-Like Peptide-1) and GIP (Glucose-Dependent Insulinotropic Polypeptide) Receptor Agonists.",
+      "summary": "Published in Cureus. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cureus)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42889249/",
+      "published": "2026-09-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
