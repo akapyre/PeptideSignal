@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:33:28Z",
+  "generated_at": "2026-10-19T22:07:45Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -13,6 +13,22 @@
       "published": "2026-10-28",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "b2d53b414de2",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "The Mitochondrial-Derived Peptide MOTS-c Improves Bioenergetics in Aging-Associated Granulosa Cells and Oocytes.",
+      "summary": "Published in Reprod Fertil. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Reprod Fertil)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42895211/",
+      "published": "2026-10-19",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
@@ -235,22 +251,6 @@
       "source": "PubMed (Cells)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42882431/",
       "published": "2026-09-23",
-      "tags": [
-        "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "ab1cd74c012e",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "MOTS-c mediates remote ischemic preconditioning-induced protection against lung ischemia-reperfusion injury via NRF2-dependent mitochondrial biogenesis.",
-      "summary": "Published in Chin Med J (Engl). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Chin Med J (Engl))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767971/",
-      "published": "2026-09-21",
       "tags": [
         "mots-c",
         "research",
