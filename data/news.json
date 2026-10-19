@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:18:26Z",
+  "generated_at": "2026-10-19T12:33:28Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -13,6 +13,22 @@
       "published": "2026-10-28",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "207c8b728c8a",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Evidence that undernutrition increases AgRP signaling to arcuate kisspeptin neurons in male and female lambs.",
+      "summary": "Published in J Reprod Dev. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Reprod Dev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893863/",
+      "published": "2026-10-17",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -205,22 +221,6 @@
       "published": "2026-09-30",
       "tags": [
         "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "31ad90172ceb",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Polycystic ovary syndrome: An insight into pathophysiology, current management, and emerging therapeutic approaches.",
-      "summary": "Published in Curr Opin Pharmacol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Curr Opin Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42880183/",
-      "published": "2026-09-25",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -850,22 +850,6 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -879,6 +863,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "terminated"
+      ]
+    },
+    {
+      "id": "b9a6eef753c7",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -914,19 +914,19 @@
       ]
     },
     {
-      "id": "c3e72ef84dd7",
+      "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "recruiting"
+        "not_yet_recruiting"
       ]
     },
     {
