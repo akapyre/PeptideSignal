@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:08:24Z",
+  "generated_at": "2026-10-20T21:24:05Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -674,6 +674,22 @@
       ]
     },
     {
+      "id": "b9c0e7fc8109",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymalfasin Combined With Chemotherapy and Immunotherapy in TNBC Neoadjuvant Treatment",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-10-20.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07884201",
+      "published": "2026-01-10",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "not_yet_recruiting"
+      ]
+    },
+    {
       "id": "ec3dab912a6b",
       "category": "clinical-trial",
       "compound": "Thymosin Alpha-1",
@@ -735,22 +751,6 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "3ba233accad2",
-      "category": "clinical-trial",
-      "compound": "Thymosin Alpha-1",
-      "title": "Protective Effect of Thymosin \u03b11 Against Negative Immune Dysregulation and Organ Dysfunction After Acute Aortic Dissection Surgery (PANDA II)",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-09-14.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05339529",
-      "published": "2026-01-09",
-      "tags": [
-        "thymosin alpha-1",
-        "clinicaltrials.gov",
-        "completed"
       ]
     },
     {
@@ -850,22 +850,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
@@ -879,6 +863,22 @@
         "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "e5a4855a4f0b",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "published": "2026-01-05",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "terminated"
       ]
     },
     {
@@ -1362,22 +1362,6 @@
       ]
     },
     {
-      "id": "9ab5b46b6457",
-      "category": "regulatory",
-      "compound": "Melanotan",
-      "title": "FDA enforcement report: Melanotan I 200mcg/mL (2mg/ml), a) 1.5mL-vial, b) 5 mL-vial, Refrigerate, Tailor Made Compounding",
-      "summary": "Lack of Assurance of Sterility",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2022-01-07",
-      "tags": [
-        "melanotan",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
       "id": "b1f2961919fd",
       "category": "regulatory",
       "compound": "ARA-290",
@@ -1405,22 +1389,6 @@
       "published": "2022-01-04",
       "tags": [
         "ll-37",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
-      "id": "2884d1874b8f",
-      "category": "regulatory",
-      "compound": "Melanotan",
-      "title": "FDA enforcement report: Melanotan II 1 mg/mL (10 mL) Injection, 10mL vials, Rx only, Farmakeio 1736 N Greenville Ave Richardson, TX 75081 USA",
-      "summary": "Lack of Assurance of Sterility: deviations from Current Good Manufacturing Practices (CGMP) that call into question the sterility of products intended to be sterile.",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2022-01-04",
-      "tags": [
-        "melanotan",
         "FDA",
         "enforcement"
       ]
@@ -1597,22 +1565,6 @@
       "published": "2019-01-02",
       "tags": [
         "bpc-157",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
-      "id": "da6c01c4f107",
-      "category": "regulatory",
-      "compound": "Melanotan",
-      "title": "FDA enforcement report: Melanotan II, 10mg injection, Rx Only, Promise Pharmacy Compounding Specialists 31818 US Hwy 19N, Palm Harbor, FL 34684",
-      "summary": "Lack of sterility assurance.",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2019-01-02",
-      "tags": [
-        "melanotan",
         "FDA",
         "enforcement"
       ]
