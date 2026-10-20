@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:07:45Z",
+  "generated_at": "2026-10-20T11:08:24Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -34,6 +34,22 @@
       ]
     },
     {
+      "id": "a934e6914985",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "The Childhood Estrobolome: A Missing Link in Early Puberty Onset.",
+      "summary": "Published in Endocr Pract. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Endocr Pract)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896808/",
+      "published": "2026-10-19",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "207c8b728c8a",
       "category": "research",
       "compound": "kisspeptin",
@@ -59,22 +75,6 @@
       "source": "PubMed (Ecotoxicol Environ Saf)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892294/",
       "published": "2026-10-17",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "09409d31f07f",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Population pharmacokinetic-pharmacodynamic modeling and dose selection of GS1-144 based on luteinizing hormone suppression in postmenopausal women.",
-      "summary": "Published in J Pharmacokinet Pharmacodyn. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Pharmacokinet Pharmacodyn)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888352/",
-      "published": "2026-10-16",
       "tags": [
         "kisspeptin",
         "research",
