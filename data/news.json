@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:24:05Z",
+  "generated_at": "2026-10-21T11:24:10Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -258,6 +258,22 @@
       ]
     },
     {
+      "id": "e19de01a9038",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Engineered Mitochondria-Targeted Biomimetic Hybrid Nanovesicles Ameliorate Rheumatoid Arthritis via Regulating Macrophage Autophagy and cGAS-STING Signaling.",
+      "summary": "Published in ACS Appl Mater Interfaces. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (ACS Appl Mater Interfaces)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42709510/",
+      "published": "2026-09-23",
+      "tags": [
+        "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "d3694fbd2fdf",
       "category": "research",
       "compound": "BPC-157",
@@ -285,22 +301,6 @@
       "published": "2026-09-19",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "e19de01a9038",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Engineered Mitochondria-Targeted Biomimetic Hybrid Nanovesicles Ameliorate Rheumatoid Arthritis via Regulating Macrophage Autophagy and cGAS-STING Signaling.",
-      "summary": "Published in ACS Appl Mater Interfaces. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (ACS Appl Mater Interfaces)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709510/",
-      "published": "2026-09-08",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
@@ -1362,6 +1362,22 @@
       ]
     },
     {
+      "id": "9ab5b46b6457",
+      "category": "regulatory",
+      "compound": "Melanotan",
+      "title": "FDA enforcement report: Melanotan I 200mcg/mL (2mg/ml), a) 1.5mL-vial, b) 5 mL-vial, Refrigerate, Tailor Made Compounding",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2022-01-07",
+      "tags": [
+        "melanotan",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
       "id": "b1f2961919fd",
       "category": "regulatory",
       "compound": "ARA-290",
@@ -1389,6 +1405,22 @@
       "published": "2022-01-04",
       "tags": [
         "ll-37",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "2884d1874b8f",
+      "category": "regulatory",
+      "compound": "Melanotan",
+      "title": "FDA enforcement report: Melanotan II 1 mg/mL (10 mL) Injection, 10mL vials, Rx only, Farmakeio 1736 N Greenville Ave Richardson, TX 75081 USA",
+      "summary": "Lack of Assurance of Sterility: deviations from Current Good Manufacturing Practices (CGMP) that call into question the sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2022-01-04",
+      "tags": [
+        "melanotan",
         "FDA",
         "enforcement"
       ]
@@ -1565,6 +1597,22 @@
       "published": "2019-01-02",
       "tags": [
         "bpc-157",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "da6c01c4f107",
+      "category": "regulatory",
+      "compound": "Melanotan",
+      "title": "FDA enforcement report: Melanotan II, 10mg injection, Rx Only, Promise Pharmacy Compounding Specialists 31818 US Hwy 19N, Palm Harbor, FL 34684",
+      "summary": "Lack of sterility assurance.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2019-01-02",
+      "tags": [
+        "melanotan",
         "FDA",
         "enforcement"
       ]
