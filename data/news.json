@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:19:50Z",
+  "generated_at": "2026-10-23T11:14:22Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -13,6 +13,38 @@
       "published": "2026-10-28",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "2e9cdcefa43a",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Glucose-dependent insulinotropic polypeptide (GIP) signaling in visceral and subcutaneous adipose tissue: implications for obesity and metabolic disease-a narrative review with a structured literature search.",
+      "summary": "Published in Rev Endocr Metab Disord. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Rev Endocr Metab Disord)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907720/",
+      "published": "2026-10-22",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "b8f6106b9235",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.",
+      "summary": "Published in N Engl J Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (N Engl J Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904878/",
+      "published": "2026-10-21",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -77,22 +109,6 @@
       "published": "2026-10-17",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "d2f2dde29ab1",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide treatment in streptozotocin-induced diabetic rats: renal inflammatory cytokines, HIF\u20111\u03b1 expression, and histopathological injury profile.",
-      "summary": "Published in J Mol Histol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Mol Histol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42878930/",
-      "published": "2026-10-15",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -210,22 +226,6 @@
       ]
     },
     {
-      "id": "d5c10346a46f",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "GLP-1, GIP, and Glucagon Receptor Agonism at the Obesity-Neurodegeneration Interface: A Narrative Review.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42883986/",
-      "published": "2026-09-30",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "dfd5a0426697",
       "category": "research",
       "compound": "tesamorelin",
@@ -237,6 +237,22 @@
       "published": "2026-09-30",
       "tags": [
         "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "60c2e96571bb",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Mechanism-Guided Antimicrobial Peptide Design through Membrane-Surface Fingerprinting and Graph Diffusion.",
+      "summary": "Published in J Chem Inf Model. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Chem Inf Model)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906046/",
+      "published": "2026-09-28",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1130,22 +1146,6 @@
       "why_it_matters": "",
       "source": "PubMed (Front Immunol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42877634/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "ee13ec6d161f",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "The active immune role of keratinocytes: from passive targets to key hubs in psoriatic inflammation.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42871309/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
