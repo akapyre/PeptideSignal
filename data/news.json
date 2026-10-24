@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:09:49Z",
+  "generated_at": "2026-10-24T10:33:00Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -18,6 +18,22 @@
       ]
     },
     {
+      "id": "608718eff083",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Mots-c attenuates diabetic nephropathy by downregulating LARS1 to promote lipophagy and suppress tubular senescence.",
+      "summary": "Published in Biochem Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biochem Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918312/",
+      "published": "2026-10-23",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "2e9cdcefa43a",
       "category": "research",
       "compound": "retatrutide",
@@ -29,6 +45,22 @@
       "published": "2026-10-22",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "de283367615d",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Progesterone feedback effects on LH pulse and surge secretion in ovariectomized Bos taurus, Bos indicus and crossbred heifers.",
+      "summary": "Published in Reproduction. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Reproduction)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42911641/",
+      "published": "2026-10-22",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -98,22 +130,6 @@
       ]
     },
     {
-      "id": "e3b3e99a2476",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Plasticizers induce central precocious puberty via dysregulation of EGFR/MYC/PTEN/mTOR-mediated HPG axis activation.",
-      "summary": "Published in Ecotoxicol Environ Saf. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Ecotoxicol Environ Saf)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42892294/",
-      "published": "2026-10-17",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "02821dd922ab",
       "category": "research",
       "compound": "CJC-1295",
@@ -146,38 +162,6 @@
       ]
     },
     {
-      "id": "d3f47798d947",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Device-Free Auricular Acupressure for Rosacea: A Randomized Clinical Trial.",
-      "summary": "Published in JAMA Dermatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (JAMA Dermatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42873508/",
-      "published": "2026-10-14",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "8aaee606a567",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Mitochondrial-derived peptides in female reproduction: Emerging regulators of oocyte competence and novel therapeutic opportunities for infertility.",
-      "summary": "Published in Tissue Cell. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Tissue Cell)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42880137/",
-      "published": "2026-10-11",
-      "tags": [
-        "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "7d8af8a77b52",
       "category": "research",
       "compound": "GHK-Cu",
@@ -189,6 +173,22 @@
       "published": "2026-10-10",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "03954d614c29",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Antimicrobial Peptoids Show Potent Antifungal Activity against Candidozyma (Candida) auris In Vivo and Broad-Spectrum Activity In Vitro against Other Candida Species.",
+      "summary": "Published in ACS Infect Dis. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (ACS Infect Dis)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42917104/",
+      "published": "2026-10-09",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -237,6 +237,22 @@
       "published": "2026-09-30",
       "tags": [
         "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3528a1a2d656",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "MonoXtract: A Deep Learning Framework for Extracting Transmembrane Protein Dynamics from Single-Color Single-Molecule Imaging.",
+      "summary": "Published in Nano Lett. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nano Lett)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42916650/",
+      "published": "2026-09-30",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1090,14 +1106,14 @@
       ]
     },
     {
-      "id": "efd0a4ad334c",
+      "id": "65b3364cb61b",
       "category": "research",
       "compound": "Semax",
-      "title": "[Changes in retinal light sensitivity and morphometry during surgical treatment of primary glaucoma with physiotherapeutic stimulation].",
-      "summary": "Published in Vestn Oftalmol. See abstract for full findings.",
+      "title": "[Expert Council resolution: adjunctive pharmacotherapy for hyperkinetic disorders (attention deficit hyperactivity disorder) in children and adolescents].",
+      "summary": "Published in Zh Nevrol Psikhiatr Im S S Korsakova. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Vestn Oftalmol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42885627/",
+      "source": "PubMed (Zh Nevrol Psikhiatr Im S S Korsakova)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910684/",
       "published": "2026-01-01",
       "tags": [
         "semax",
@@ -1106,14 +1122,14 @@
       ]
     },
     {
-      "id": "11198d93a59c",
+      "id": "efd0a4ad334c",
       "category": "research",
       "compound": "Semax",
-      "title": "Quantitative MRI Pharmacokinetic Modeling and MALDI Mass Spectrometry Imaging Biodistribution of a pH Mapping MRI Contrast Agent.",
-      "summary": "Published in Theranostics. See abstract for full findings.",
+      "title": "[Changes in retinal light sensitivity and morphometry during surgical treatment of primary glaucoma with physiotherapeutic stimulation].",
+      "summary": "Published in Vestn Oftalmol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Theranostics)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42559144/",
+      "source": "PubMed (Vestn Oftalmol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885627/",
       "published": "2026-01-01",
       "tags": [
         "semax",
@@ -1133,22 +1149,6 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "ddf6f1c48174",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Inflammatory memory as a potential driver of rosacea pathogenesis: integrating mechanisms of chronic relapse and perspectives on disease modification.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42877634/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
