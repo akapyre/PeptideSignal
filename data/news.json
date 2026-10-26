@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:34:06Z",
+  "generated_at": "2026-10-26T12:30:27Z",
   "items": [
     {
       "id": "20c8dc5920e8",
@@ -962,19 +962,19 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
+      "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "not_yet_recruiting"
+        "recruiting"
       ]
     },
     {
