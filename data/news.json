@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-10-26T22:26:23Z",
+  "generated_at": "2026-10-27T11:48:55Z",
   "items": [
+    {
+      "id": "0bd9041474c7",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Arcuate kisspeptin neurons display two types of calcium events: Regulation by sex, gonads, and senktide.",
+      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Neuroendocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42935294/",
+      "published": "2026-11-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
     {
       "id": "20c8dc5920e8",
       "category": "research",
@@ -107,22 +123,6 @@
       "source": "PubMed (Endocr Pract)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42896808/",
       "published": "2026-10-19",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "207c8b728c8a",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Evidence that undernutrition increases AgRP signaling to arcuate kisspeptin neurons in male and female lambs.",
-      "summary": "Published in J Reprod Dev. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Reprod Dev)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42893863/",
-      "published": "2026-10-17",
       "tags": [
         "kisspeptin",
         "research",
@@ -269,22 +269,6 @@
       "published": "2026-09-28",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "cd430b0a0346",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Mitochondria-Endoplasmic Reticulum Crosstalk in Pancreatic \u03b2-Cell Stress: A Driver of Diabetes.",
-      "summary": "Published in Cells. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cells)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42882431/",
-      "published": "2026-09-23",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
@@ -461,6 +445,22 @@
       "published": "2026-08-01",
       "tags": [
         "aod-9604",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "0ca5c1669a8f",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "MOTS-c attenuates placental vascular endothelial cell apoptosis in intrahepatic cholestasis of pregnancy by inhibiting K33-linked deubiquitination of BACH1.",
+      "summary": "Published in Cell Commun Signal. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cell Commun Signal)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934731/",
+      "published": "2026-07-29",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
