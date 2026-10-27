@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-10-27T11:48:55Z",
+  "generated_at": "2026-10-27T21:56:45Z",
   "items": [
+    {
+      "id": "64c66e8f7ce9",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Regulation of PACAP gene expression by ovarian sex steroids and kisspeptin: Study using hypothalamic cell lines and an in vivo female rat model.",
+      "summary": "Published in Biochem Biophys Rep. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biochem Biophys Rep)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936012/",
+      "published": "2026-12-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
     {
       "id": "0bd9041474c7",
       "category": "research",
@@ -34,6 +50,38 @@
       ]
     },
     {
+      "id": "13aa31ac44cd",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Investigational Peptides in Orthopaedic Practice: Evidence, Safety, and Patient Counseling for BPC-157, Thymosin Beta-4, and TB-500.",
+      "summary": "Published in J Am Acad Orthop Surg. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Am Acad Orthop Surg)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42937313/",
+      "published": "2026-10-27",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a0927970db3d",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Association of Porphyromonas gingivalis peptidylarginine deiminase with CitH3, LL-37, and ACPA in periodontitis and rheumatoid arthritis.",
+      "summary": "Published in J Periodontol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Periodontol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42937026/",
+      "published": "2026-10-27",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "608718eff083",
       "category": "research",
       "compound": "MOTS-c",
@@ -61,70 +109,6 @@
       "published": "2026-10-22",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "de283367615d",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Progesterone feedback effects on LH pulse and surge secretion in ovariectomized Bos taurus, Bos indicus and crossbred heifers.",
-      "summary": "Published in Reproduction. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Reproduction)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42911641/",
-      "published": "2026-10-22",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "b8f6106b9235",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.",
-      "summary": "Published in N Engl J Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (N Engl J Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42904878/",
-      "published": "2026-10-21",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "b2d53b414de2",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "The Mitochondrial-Derived Peptide MOTS-c Improves Bioenergetics in Aging-Associated Granulosa Cells and Oocytes.",
-      "summary": "Published in Reprod Fertil. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Reprod Fertil)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42895211/",
-      "published": "2026-10-19",
-      "tags": [
-        "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "a934e6914985",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "The Childhood Estrobolome: A Missing Link in Early Puberty Onset.",
-      "summary": "Published in Endocr Pract. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Endocr Pract)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896808/",
-      "published": "2026-10-19",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -178,6 +162,38 @@
       ]
     },
     {
+      "id": "7b556aadc446",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Progress in Anti-Obesity Drug Development: A Pharmacodynamics Perspective.",
+      "summary": "Published in Pharmaceutics. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Pharmaceutics)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42942813/",
+      "published": "2026-10-09",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "c0ba069eb022",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide as a Unimolecular GIP/GLP-1/Glucagon Receptor Tri-Agonist: Molecular Design, Pharmaceutical Development and Critical Interpretation of Emerging Phase 3 Evidence.",
+      "summary": "Published in Pharmaceutics. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Pharmaceutics)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42942810/",
+      "published": "2026-10-09",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "03954d614c29",
       "category": "research",
       "compound": "LL-37",
@@ -226,6 +242,70 @@
       ]
     },
     {
+      "id": "d4bab8692bad",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Peptides in Aesthetic Dermatology: Classification, Fibroblast-Centered Mechanisms, Delivery Technologies, and Clinical Evidence.",
+      "summary": "Published in Life (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Life (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42942246/",
+      "published": "2026-10-02",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "daeed96fb2b2",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Mechanisms Linking Body Weight to Early Puberty in Children.",
+      "summary": "Published in Children (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Children (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42940660/",
+      "published": "2026-10-02",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6371f6b747fa",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Possibilities for Cytoprotective Liver Therapy, Stable Gastric Pentadecapeptide BPC 157, and Standard Agents-A Narrative Review.",
+      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Pharmaceuticals (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42943255/",
+      "published": "2026-10-01",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "73010f61e00f",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Associations of Serum MOTS-c with Exercise Capacity and Antioxidant Markers in Young Males: A Cross-Sectional Study.",
+      "summary": "Published in Antioxidants (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Antioxidants (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939841/",
+      "published": "2026-10-01",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "dfd5a0426697",
       "category": "research",
       "compound": "tesamorelin",
@@ -237,38 +317,6 @@
       "published": "2026-09-30",
       "tags": [
         "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "3528a1a2d656",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "MonoXtract: A Deep Learning Framework for Extracting Transmembrane Protein Dynamics from Single-Color Single-Molecule Imaging.",
-      "summary": "Published in Nano Lett. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Nano Lett)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42916650/",
-      "published": "2026-09-30",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "60c2e96571bb",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Mechanism-Guided Antimicrobial Peptide Design through Membrane-Surface Fingerprinting and Graph Diffusion.",
-      "summary": "Published in J Chem Inf Model. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Chem Inf Model)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906046/",
-      "published": "2026-09-28",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -290,17 +338,17 @@
       ]
     },
     {
-      "id": "d3694fbd2fdf",
+      "id": "ca98e1fd7e72",
       "category": "research",
-      "compound": "BPC-157",
-      "title": "BPC 157 in Rodent Ischemia-Reperfusion Injury: A Critical Review of Preclinical Evidence.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "compound": "LL-37",
+      "title": "Association of Vitamin D Supplementation with VDR and CAMP Expression and Ulcer Healing in Diabetic Foot Infection Involving Biofilm-Forming Bacteria: An Exploratory Prospective Cohort Study.",
+      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42794771/",
-      "published": "2026-09-19",
+      "source": "PubMed (Pharmaceuticals (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42943205/",
+      "published": "2026-09-23",
       "tags": [
-        "bpc-157",
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -333,22 +381,6 @@
       "published": "2026-09-03",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "07ec7840e8df",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Modern Obesity Treatment: Efficacy, Safety, and Future Directions of GLP-1 (Glucagon-Like Peptide-1) and GIP (Glucose-Dependent Insulinotropic Polypeptide) Receptor Agonists.",
-      "summary": "Published in Cureus. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cureus)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889249/",
-      "published": "2026-09-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -500,7 +532,7 @@
     {
       "id": "b2eecde3e818",
       "category": "research",
-      "compound": "TB-500",
+      "compound": "Semax",
       "title": "Synthetic Peptides in Pharmacy Compounding: Analysis of PCAC Recommendations and Industry Safety Standards.",
       "summary": "Published in Int J Pharm Compd. See abstract for full findings.",
       "why_it_matters": "",
@@ -508,23 +540,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42752426/",
       "published": "2026-07-01",
       "tags": [
-        "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "c4d2c1f692b6",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "A Systematic Review of the Mechanisms and Therapeutic Applications of GHK-Cu (Glycyl-L-Histidyl-L-Lysine-Copper Complex) in Topical Microneedle Delivery: A Case for Expanded Clinical Trials.",
-      "summary": "Published in Arch Intern Med Res. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Arch Intern Med Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42787770/",
-      "published": "2026-07-01",
-      "tags": [
-        "ghk-cu",
+        "semax",
         "research",
         "pubmed"
       ]
@@ -717,6 +733,22 @@
       "published": "2026-01-10",
       "tags": [
         "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "4b49f2d4e621",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "Crosstalk Between Mucosal-Associated Invariant T (MAIT) Cells and the Gut Microbiota and Mucosa in the Development of Type 1 Diabetes in Children",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-10-27.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05054361",
+      "published": "2026-01-10",
+      "tags": [
+        "ll-37",
         "clinicaltrials.gov",
         "recruiting"
       ]
@@ -946,35 +978,19 @@
       ]
     },
     {
-      "id": "4b49f2d4e621",
+      "id": "a9b4085a86c4",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "Crosstalk Between Mucosal-Associated Invariant T (MAIT) Cells and the Gut Microbiota and Mucosa in the Development of Type 1 Diabetes in Children",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-13.",
+      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
+      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05054361",
+      "url": "https://clinicaltrials.gov/study/NCT07505329",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "c3e72ef84dd7",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07490587",
-      "published": "2026-01-04",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "recruiting"
+        "not_yet_recruiting"
       ]
     },
     {
@@ -1060,7 +1076,7 @@
     {
       "id": "1a4ab29ee9bf",
       "category": "research",
-      "compound": "BPC-157",
+      "compound": "TB-500",
       "title": "Case Report: Regenerative peptides for Inferior alveolar nerve injury: a narrative review with hypothesis-generating three clinical cases.",
       "summary": "Published in Front Oral Health. See abstract for full findings.",
       "why_it_matters": "",
@@ -1068,7 +1084,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42876687/",
       "published": "2026-01-01",
       "tags": [
-        "bpc-157",
+        "tb-500",
         "research",
         "pubmed"
       ]
