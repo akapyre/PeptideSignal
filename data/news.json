@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:22:44Z",
+  "generated_at": "2026-10-28T22:21:19Z",
   "items": [
     {
       "id": "64c66e8f7ce9",
@@ -1186,6 +1186,22 @@
       ]
     },
     {
+      "id": "0905b8f50272",
+      "category": "regulatory",
+      "compound": "BPC-157",
+      "title": "FDA enforcement report: BPC-157 for Injection, 15mg/10mL vial, all presentations, GenoGenix, LLC, 2840 NW 2nd Ave Ste 204 Boca Raton, FL 33431-6",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2025-01-10",
+      "tags": [
+        "bpc-157",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
       "id": "47ffed4fadbc",
       "category": "regulatory",
       "compound": "retatrutide",
@@ -1490,6 +1506,22 @@
       ]
     },
     {
+      "id": "8a15fc3f46cc",
+      "category": "regulatory",
+      "compound": "BPC-157",
+      "title": "FDA enforcement report: BPC-157, 2000 MCG/ML, 5 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
+      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2020-01-12",
+      "tags": [
+        "bpc-157",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
       "id": "42c15aa00148",
       "category": "regulatory",
       "compound": "GHK-Cu",
@@ -1565,6 +1597,22 @@
       "published": "2020-01-01",
       "tags": [
         "cjc-1295",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "62e99b081eb1",
+      "category": "regulatory",
+      "compound": "BPC-157",
+      "title": "FDA enforcement report: BPC 157, 10mg injection, Rx Only, Promise Pharmacy Compounding Specialists 31818 US Hwy 19N, Palm Harbor, FL 34684",
+      "summary": "Lack of sterility assurance.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2019-01-02",
+      "tags": [
+        "bpc-157",
         "FDA",
         "enforcement"
       ]
