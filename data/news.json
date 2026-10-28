@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:56:45Z",
+  "generated_at": "2026-10-28T12:22:44Z",
   "items": [
     {
       "id": "64c66e8f7ce9",
@@ -66,6 +66,22 @@
       ]
     },
     {
+      "id": "c524451bb98a",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "A Multifunctional Biomimetic Hydrogel with Antibacterial and Antifibrotic Properties for Scar Minimizing Repair of Infected Skin Wounds.",
+      "summary": "Published in Acta Biomater. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Acta Biomater)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946320/",
+      "published": "2026-10-27",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "a0927970db3d",
       "category": "research",
       "compound": "LL-37",
@@ -93,22 +109,6 @@
       "published": "2026-10-23",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "2e9cdcefa43a",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Glucose-dependent insulinotropic polypeptide (GIP) signaling in visceral and subcutaneous adipose tissue: implications for obesity and metabolic disease-a narrative review with a structured literature search.",
-      "summary": "Published in Rev Endocr Metab Disord. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Rev Endocr Metab Disord)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42907720/",
-      "published": "2026-10-22",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -189,22 +189,6 @@
       "published": "2026-10-09",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "03954d614c29",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Antimicrobial Peptoids Show Potent Antifungal Activity against Candidozyma (Candida) auris In Vivo and Broad-Spectrum Activity In Vitro against Other Candida Species.",
-      "summary": "Published in ACS Infect Dis. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (ACS Infect Dis)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42917104/",
-      "published": "2026-10-09",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1090,6 +1074,22 @@
       ]
     },
     {
+      "id": "7eb127ab81db",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "From pathophysiology to therapy: dual and triple agonists as a new frontier in metabolic dysfunction-associated steatotic liver disease.",
+      "summary": "Published in Front Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947668/",
+      "published": "2026-01-01",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "f694396de75f",
       "category": "research",
       "compound": "tesamorelin",
@@ -1183,22 +1183,6 @@
         "ss-31",
         "clinicaltrials.gov",
         "completed"
-      ]
-    },
-    {
-      "id": "0905b8f50272",
-      "category": "regulatory",
-      "compound": "BPC-157",
-      "title": "FDA enforcement report: BPC-157 for Injection, 15mg/10mL vial, all presentations, GenoGenix, LLC, 2840 NW 2nd Ave Ste 204 Boca Raton, FL 33431-6",
-      "summary": "Lack of Assurance of Sterility",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2025-01-10",
-      "tags": [
-        "bpc-157",
-        "FDA",
-        "enforcement"
       ]
     },
     {
@@ -1506,22 +1490,6 @@
       ]
     },
     {
-      "id": "8a15fc3f46cc",
-      "category": "regulatory",
-      "compound": "BPC-157",
-      "title": "FDA enforcement report: BPC-157, 2000 MCG/ML, 5 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
-      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2020-01-12",
-      "tags": [
-        "bpc-157",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
       "id": "42c15aa00148",
       "category": "regulatory",
       "compound": "GHK-Cu",
@@ -1597,22 +1565,6 @@
       "published": "2020-01-01",
       "tags": [
         "cjc-1295",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
-      "id": "62e99b081eb1",
-      "category": "regulatory",
-      "compound": "BPC-157",
-      "title": "FDA enforcement report: BPC 157, 10mg injection, Rx Only, Promise Pharmacy Compounding Specialists 31818 US Hwy 19N, Palm Harbor, FL 34684",
-      "summary": "Lack of sterility assurance.",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2019-01-02",
-      "tags": [
-        "bpc-157",
         "FDA",
         "enforcement"
       ]
