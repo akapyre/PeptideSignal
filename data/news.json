@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:21:19Z",
+  "generated_at": "2026-10-29T12:32:01Z",
   "items": [
     {
       "id": "64c66e8f7ce9",
@@ -18,6 +18,22 @@
       ]
     },
     {
+      "id": "7d8af8a77b52",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Characterization of copper tripeptide-loaded lipid carriers and their stability in complex cosmetic matrices.",
+      "summary": "Published in J Chromatogr A. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Chromatogr A)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42887096/",
+      "published": "2026-11-22",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "0bd9041474c7",
       "category": "research",
       "compound": "kisspeptin",
@@ -29,6 +45,22 @@
       "published": "2026-11-01",
       "tags": [
         "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "24ed640c5ffe",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Isotretinoin Alleviates Rosacea-like Inflammation by Partially Involving TET2 Upregulation and JAK2/STAT3 Suppression.",
+      "summary": "Published in J Invest Dermatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Invest Dermatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951126/",
+      "published": "2026-10-28",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -82,22 +114,6 @@
       ]
     },
     {
-      "id": "a0927970db3d",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Association of Porphyromonas gingivalis peptidylarginine deiminase with CitH3, LL-37, and ACPA in periodontitis and rheumatoid arthritis.",
-      "summary": "Published in J Periodontol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Periodontol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42937026/",
-      "published": "2026-10-27",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "608718eff083",
       "category": "research",
       "compound": "MOTS-c",
@@ -141,22 +157,6 @@
       "published": "2026-10-14",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "7d8af8a77b52",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "Characterization of copper tripeptide-loaded lipid carriers and their stability in complex cosmetic matrices.",
-      "summary": "Published in J Chromatogr A. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Chromatogr A)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42887096/",
-      "published": "2026-10-10",
-      "tags": [
-        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -962,19 +962,19 @@
       ]
     },
     {
-      "id": "a9b4085a86c4",
+      "id": "c3e72ef84dd7",
       "category": "clinical-trial",
       "compound": "LL-37",
-      "title": "An Intervention Study in Healthy Infants Aged 0-6 Months With Probiotics Lacticaseibacillus Rhamnosus LRa05 (LRa05) and Bifidobacterium Animalis Subsp. Lactis BLa80 (BLa80) vs. Placebo, for Promoting Gut Microbiome Development.",
-      "summary": "Status: NOT_YET_RECRUITING. Registry entry updated 2026-04-01.",
+      "title": "To Investigate the Effects of Bifidobacterium Animalis Subsp. Lactis XLTG11 on Growth and Development, Incidence of Allergy and Immune Function in Infants",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-04-01.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07505329",
+      "url": "https://clinicaltrials.gov/study/NCT07490587",
       "published": "2026-01-04",
       "tags": [
         "ll-37",
         "clinicaltrials.gov",
-        "not_yet_recruiting"
+        "recruiting"
       ]
     },
     {
