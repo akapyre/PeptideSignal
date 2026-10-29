@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:32:01Z",
+  "generated_at": "2026-10-29T22:34:14Z",
   "items": [
     {
       "id": "64c66e8f7ce9",
@@ -109,22 +109,6 @@
       "published": "2026-10-27",
       "tags": [
         "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "608718eff083",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Mots-c attenuates diabetic nephropathy by downregulating LARS1 to promote lipophagy and suppress tubular senescence.",
-      "summary": "Published in Biochem Pharmacol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biochem Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918312/",
-      "published": "2026-10-23",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
@@ -1117,6 +1101,22 @@
       "published": "2026-01-01",
       "tags": [
         "ipamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e1c06887642f",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Integrative transcriptomic and computational analysis associates Ms4a6c+ macrophages with fibrosis in radiation proctitis and computationally nominates MOTS-c as a candidate modulator.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952740/",
+      "published": "2026-01-01",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
