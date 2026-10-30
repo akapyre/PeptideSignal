@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:23:23Z",
+  "generated_at": "2026-10-30T22:02:45Z",
   "items": [
     {
       "id": "64c66e8f7ce9",
@@ -146,22 +146,6 @@
       ]
     },
     {
-      "id": "c0ba069eb022",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide as a Unimolecular GIP/GLP-1/Glucagon Receptor Tri-Agonist: Molecular Design, Pharmaceutical Development and Critical Interpretation of Emerging Phase 3 Evidence.",
-      "summary": "Published in Pharmaceutics. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Pharmaceutics)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42942810/",
-      "published": "2026-10-09",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "3b48a1505bbc",
       "category": "research",
       "compound": "BPC-157",
@@ -237,6 +221,22 @@
       "published": "2026-10-01",
       "tags": [
         "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "152577850e0e",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Single or multiple nutritional hormone receptor modulators for chronic kidney disease.",
+      "summary": "Published in Clin Kidney J. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Clin Kidney J)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959190/",
+      "published": "2026-10-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
