@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:50:31Z",
+  "generated_at": "2026-11-03T23:01:01Z",
   "items": [
     {
       "id": "64c66e8f7ce9",
@@ -29,6 +29,22 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "da0a8f80f51a",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Helicobacter pylori Infection Remodels Neutrophil-Derived Extracellular Vesicles, Promoting Stress and Apoptosis in Infected Epithelial Cells.",
+      "summary": "Published in J Extracell Vesicles. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Extracell Vesicles)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976050/",
+      "published": "2026-11-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -269,22 +285,6 @@
       "published": "2026-09-23",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "ca98e1fd7e72",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Association of Vitamin D Supplementation with VDR and CAMP Expression and Ulcer Healing in Diabetic Foot Infection Involving Biofilm-Forming Bacteria: An Exploratory Prospective Cohort Study.",
-      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Pharmaceuticals (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42943205/",
-      "published": "2026-09-23",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
