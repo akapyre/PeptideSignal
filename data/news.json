@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-11-04T13:58:32Z",
+  "generated_at": "2026-11-04T23:23:56Z",
   "items": [
-    {
-      "id": "64c66e8f7ce9",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Regulation of PACAP gene expression by ovarian sex steroids and kisspeptin: Study using hypothalamic cell lines and an in vivo female rat model.",
-      "summary": "Published in Biochem Biophys Rep. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biochem Biophys Rep)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42936012/",
-      "published": "2026-12-01",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
     {
       "id": "7d8af8a77b52",
       "category": "research",
@@ -290,38 +274,6 @@
       ]
     },
     {
-      "id": "c7734686a6c0",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "Clinical Applications and Evidence Landscape of Thymosin Alpha 1 as an Immunomodulatory Adjunct in Cancer Care: A Scoping Review.",
-      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Pharmaceuticals (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42797537/",
-      "published": "2026-09-19",
-      "tags": [
-        "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "d5f2308abd98",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "Thymosin Alpha-1 Provides Direct Neuroprotection by Engaging the Orexin Receptor HCRTR1 to Suppress Neuronal Necroptosis.",
-      "summary": "Published in Adv Sci (Weinh). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Adv Sci (Weinh))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693587/",
-      "published": "2026-09-03",
-      "tags": [
-        "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "da2c4190e984",
       "category": "research",
       "compound": "kisspeptin",
@@ -413,22 +365,6 @@
       "published": "2026-08-09",
       "tags": [
         "kpv",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "45d8b25f169d",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "Association between thymosin \u03b11 therapy and 28-day mortality risk in critically ill patients with tuberculosis-related sepsis: a retrospective cohort study.",
-      "summary": "Published in BMC Infect Dis. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (BMC Infect Dis)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972235/",
-      "published": "2026-08-05",
-      "tags": [
-        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
@@ -1165,6 +1101,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "2e37e484a422",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Effects of intraperitoneal administration of kisspeptin-10 on ischemia-reperfusion injury in a rat testicular torsion and detorsion model.",
+      "summary": "Published in Vet Res Forum. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Vet Res Forum)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979496/",
+      "published": "2026-01-01",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
