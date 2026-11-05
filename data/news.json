@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:23:56Z",
+  "generated_at": "2026-11-05T14:17:47Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -93,6 +93,22 @@
       "published": "2026-10-27",
       "tags": [
         "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "75b0bb508327",
+      "category": "research",
+      "compound": "Melanotan",
+      "title": "Tachycardia and rhabdomyolysis after use of melanotan and an uncommon synthetic cannabinoid receptor agonist.",
+      "summary": "Published in Am J Emerg Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Am J Emerg Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981758/",
+      "published": "2026-10-25",
+      "tags": [
+        "melanotan",
         "research",
         "pubmed"
       ]
@@ -274,6 +290,38 @@
       ]
     },
     {
+      "id": "c7734686a6c0",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Clinical Applications and Evidence Landscape of Thymosin Alpha 1 as an Immunomodulatory Adjunct in Cancer Care: A Scoping Review.",
+      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Pharmaceuticals (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42797537/",
+      "published": "2026-09-19",
+      "tags": [
+        "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "d5f2308abd98",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin Alpha-1 Provides Direct Neuroprotection by Engaging the Orexin Receptor HCRTR1 to Suppress Neuronal Necroptosis.",
+      "summary": "Published in Adv Sci (Weinh). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Adv Sci (Weinh))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693587/",
+      "published": "2026-09-03",
+      "tags": [
+        "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "da2c4190e984",
       "category": "research",
       "compound": "kisspeptin",
@@ -370,6 +418,22 @@
       ]
     },
     {
+      "id": "45d8b25f169d",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Association between thymosin \u03b11 therapy and 28-day mortality risk in critically ill patients with tuberculosis-related sepsis: a retrospective cohort study.",
+      "summary": "Published in BMC Infect Dis. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (BMC Infect Dis)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972235/",
+      "published": "2026-08-05",
+      "tags": [
+        "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "35d6f1d3325b",
       "category": "research",
       "compound": "AOD-9604",
@@ -445,22 +509,6 @@
       "published": "2026-07-01",
       "tags": [
         "semax",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "7ac0169662df",
-      "category": "research",
-      "compound": "Melanotan",
-      "title": "Five primary melanomas in situ in a patient with recent tanning bed use, melanotan exposure, and anabolic hormone use.",
-      "summary": "Published in JAAD Case Rep. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (JAAD Case Rep)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42328529/",
-      "published": "2026-07-01",
-      "tags": [
-        "melanotan",
         "research",
         "pubmed"
       ]
