@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:51:51Z",
+  "generated_at": "2026-11-07T12:40:47Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -13,6 +13,22 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "dd3019179eb1",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "AgRP neurons as an integrative node linking the somatotropic and reproductive axes.",
+      "summary": "Published in J Neurosci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Neurosci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994993/",
+      "published": "2026-11-06",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -173,22 +189,6 @@
       "published": "2026-10-02",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "daeed96fb2b2",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Mechanisms Linking Body Weight to Early Puberty in Children.",
-      "summary": "Published in Children (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Children (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42940660/",
-      "published": "2026-10-02",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
