@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:50:34Z",
+  "generated_at": "2026-11-09T15:36:26Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -13,6 +13,22 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "5abcf2775abd",
+      "category": "research",
+      "compound": "tesamorelin",
+      "title": "Weight management in people with HIV.",
+      "summary": "Published in Lancet HIV. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Lancet HIV)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000036/",
+      "published": "2026-11-08",
+      "tags": [
+        "tesamorelin",
         "research",
         "pubmed"
       ]
@@ -450,22 +466,6 @@
       ]
     },
     {
-      "id": "cd6679909be4",
-      "category": "research",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV (TRIUMPH): a clinical trial protocol.",
-      "summary": "Published in BMJ Open. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (BMJ Open)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42419889/",
-      "published": "2026-07-08",
-      "tags": [
-        "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "66b7c5d0280c",
       "category": "research",
       "compound": "TB-500",
@@ -578,6 +578,38 @@
       ]
     },
     {
+      "id": "1bdcc40b0a02",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) on Renal Function in Participants With Overweight or Obesity and Chronic Kidney Disease With or Without Type 2 Diabetes",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-11-09.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05936151",
+      "published": "2026-01-11",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
+      "id": "9ab3cbf85125",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin to Improve Functional Outcomes After Peripheral Nerve Injury",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-11-09.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03150511",
+      "published": "2026-01-11",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "6dde0031b56c",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -639,22 +671,6 @@
         "retatrutide",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "31489a8ef303",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study to Evaluate the Effect of Retatrutide on Insulin Secretion and Insulin Sensitivity in Adult Participants With Type 2 Diabetes Mellitus",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-10-06.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06982859",
-      "published": "2026-01-10",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
       ]
     },
     {
@@ -941,22 +957,6 @@
       "published": "2026-01-03",
       "tags": [
         "tb-500",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "0b6e7ca3a917",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Tesamorelin for Reduction of Liver Fat in Adults With Fatty Liver Disease (Mock Study)",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-03-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07481734",
-      "published": "2026-01-03",
-      "tags": [
-        "tesamorelin",
         "clinicaltrials.gov",
         "recruiting"
       ]
