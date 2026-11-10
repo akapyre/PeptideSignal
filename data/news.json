@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:36:26Z",
+  "generated_at": "2026-11-10T01:18:44Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -18,6 +18,22 @@
       ]
     },
     {
+      "id": "f0ac513c66d8",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide Once Weekly in Adults with Knee Osteoarthritis Pain and Obesity.",
+      "summary": "Published in N Engl J Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (N Engl J Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001755/",
+      "published": "2026-11-08",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "5abcf2775abd",
       "category": "research",
       "compound": "tesamorelin",
@@ -29,6 +45,22 @@
       "published": "2026-11-08",
       "tags": [
         "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "06fcd14be164",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Peptides for male sexual dysfunction: a systematic review of emerging evidence.",
+      "summary": "Published in J Sex Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Sex Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002584/",
+      "published": "2026-11-06",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -242,6 +274,22 @@
       ]
     },
     {
+      "id": "e09237924cd0",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Management of Vasomotor Symptoms in Women With Breast Cancer: From Pathophysiology to the Emerging Role of Neurokinin Receptor Antagonism.",
+      "summary": "Published in Cureus. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cureus)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001086/",
+      "published": "2026-10-01",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "dfd5a0426697",
       "category": "research",
       "compound": "tesamorelin",
@@ -301,22 +349,6 @@
       "published": "2026-09-03",
       "tags": [
         "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "da2c4190e984",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Preserved ovarian reserve in night-active versus day-active women: a cross-sectional comparison of neuroendocrine markers.",
-      "summary": "Published in BMC Womens Health. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (BMC Womens Health)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42958239/",
-      "published": "2026-09-02",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -1026,22 +1058,6 @@
       ]
     },
     {
-      "id": "51c46b7363ee",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Future directions in obesity pharmacotherapy: Novel targets and pipeline therapies.",
-      "summary": "Published in Adv Pharmacol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Adv Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42977350/",
-      "published": "2026-01-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "f694396de75f",
       "category": "research",
       "compound": "tesamorelin",
@@ -1133,22 +1149,6 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "2e37e484a422",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Effects of intraperitoneal administration of kisspeptin-10 on ischemia-reperfusion injury in a rat testicular torsion and detorsion model.",
-      "summary": "Published in Vet Res Forum. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Vet Res Forum)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42979496/",
-      "published": "2026-01-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
