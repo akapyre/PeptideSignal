@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:32:43Z",
+  "generated_at": "2026-11-10T22:58:49Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -11,6 +11,22 @@
       "source": "PubMed (J Chromatogr A)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42887096/",
       "published": "2026-11-22",
+      "tags": [
+        "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "ec7d7031ebd1",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "Response to: Mechanistic Plausibility Should Not Be Conflated With Clinical Validation of GHK-Cu.",
+      "summary": "Published in Aesthet Surg J. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Aesthet Surg J)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43006658/",
+      "published": "2026-11-10",
       "tags": [
         "ghk-cu",
         "research",
@@ -93,22 +109,6 @@
       "published": "2026-11-06",
       "tags": [
         "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "d39e35f3ccd9",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Next-generation incretin therapeutics for polyendocrine metabolic ovarian syndrome: navigating current pipeline and clinical considerations.",
-      "summary": "Published in Expert Opin Pharmacother. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Expert Opin Pharmacother)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42978208/",
-      "published": "2026-11-03",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -370,33 +370,17 @@
       ]
     },
     {
-      "id": "85c8a4907aa4",
+      "id": "dea6b547ac58",
       "category": "research",
       "compound": "SS-31",
-      "title": "Targeting Mitochondria in MASLD: Comparative Evaluation of MitoQ and SS-31 (Elamipretide) in Aged Female Mice under Nutritional Stress.",
-      "summary": "Published in Physiol Res. See abstract for full findings.",
+      "title": "Mitochondrial Dysfunction and Bioenergetics in Chronic Obstructive Pulmonary Disease: Mechanisms, Biomarkers, and Therapeutic Opportunities.",
+      "summary": "Published in Yale J Biol Med. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Physiol Res)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708867/",
-      "published": "2026-08-31",
+      "source": "PubMed (Yale J Biol Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005042/",
+      "published": "2026-09-01",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "625868a6aa4e",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "GHK-Cu as a Bioactive Metallopeptide and Drug-Delivery Cargo: Coordination Chemistry, Formulation Science, Therapeutic Evidence, and a Translational Roadmap.",
-      "summary": "Published in Pharmaceutics. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Pharmaceutics)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42797253/",
-      "published": "2026-08-27",
-      "tags": [
-        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -1053,6 +1037,22 @@
       "published": "2026-01-01",
       "tags": [
         "tb-500",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3531813ef317",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Systematic review and network meta-analysis of the safety and efficacy of the triple incretin receptor agonist, retatrutide compared to the dual incretin receptor agonist, tirzepatide, for treatment of type 2 diabetes mellitus.",
+      "summary": "Published in Ther Adv Endocrinol Metab. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Ther Adv Endocrinol Metab)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005518/",
+      "published": "2026-01-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
