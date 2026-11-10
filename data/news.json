@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:18:44Z",
+  "generated_at": "2026-11-10T14:32:43Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -13,6 +13,22 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "1dfc307a2a99",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Linking skin to system: LL-37 as a potential molecular link between psoriasis and its comorbidities.",
+      "summary": "Published in Autoimmun Rev. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Autoimmun Rev)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003168/",
+      "published": "2026-11-09",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -107,22 +123,6 @@
       "source": "PubMed (J Extracell Vesicles)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42976050/",
       "published": "2026-11-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "24ed640c5ffe",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Isotretinoin Alleviates Rosacea-like Inflammation by Partially Involving TET2 Upregulation and JAK2/STAT3 Suppression.",
-      "summary": "Published in J Invest Dermatol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Invest Dermatol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42951126/",
-      "published": "2026-10-28",
       "tags": [
         "ll-37",
         "research",
@@ -610,6 +610,22 @@
       ]
     },
     {
+      "id": "edd565cc0de0",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Obesity or Overweight",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-11-10.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07232719",
+      "published": "2026-01-11",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
       "id": "1bdcc40b0a02",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -658,6 +674,22 @@
       ]
     },
     {
+      "id": "ec3dab912a6b",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin-\u03b11 for Recurrent Implantation Failure",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-11-10.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07675980",
+      "published": "2026-01-11",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "92e2353061a8",
       "category": "clinical-trial",
       "compound": "Thymosin Alpha-1",
@@ -669,22 +701,6 @@
       "published": "2026-01-11",
       "tags": [
         "thymosin alpha-1",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
-      ]
-    },
-    {
-      "id": "06c61b33c7b4",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-10-08.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06383390",
-      "published": "2026-01-10",
-      "tags": [
-        "retatrutide",
         "clinicaltrials.gov",
         "active_not_recruiting"
       ]
@@ -783,22 +799,6 @@
         "thymosin alpha-1",
         "clinicaltrials.gov",
         "not_yet_recruiting"
-      ]
-    },
-    {
-      "id": "ec3dab912a6b",
-      "category": "clinical-trial",
-      "compound": "Thymosin Alpha-1",
-      "title": "Thymosin-\u03b11 for Recurrent Implantation Failure",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-10-15.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07675980",
-      "published": "2026-01-10",
-      "tags": [
-        "thymosin alpha-1",
-        "clinicaltrials.gov",
-        "recruiting"
       ]
     },
     {
