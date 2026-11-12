@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:47:35Z",
+  "generated_at": "2026-11-12T00:14:24Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -98,22 +98,6 @@
       ]
     },
     {
-      "id": "dd3019179eb1",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "AgRP neurons as an integrative node linking the somatotropic and reproductive axes.",
-      "summary": "Published in J Neurosci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Neurosci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994993/",
-      "published": "2026-11-06",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "da0a8f80f51a",
       "category": "research",
       "compound": "LL-37",
@@ -189,22 +173,6 @@
       "published": "2026-10-14",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "3b48a1505bbc",
-      "category": "research",
-      "compound": "BPC-157",
-      "title": "Human evidence for BPC-157 in orthopaedic and regenerative medicine: a systematic review of efficacy and safety.",
-      "summary": "Published in Acta Orthop Belg. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Acta Orthop Belg)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42885452/",
-      "published": "2026-10-08",
-      "tags": [
-        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -402,6 +370,22 @@
       ]
     },
     {
+      "id": "c219b0d21c8c",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Disruption of the Non-classical ER\u03b1-PCYT1A-Phospholipid-NR5A2 Axis impairs kisspeptin signaling in hypothalamic KNDy neurons and drives postpartum depression.",
+      "summary": "Published in Transl Psychiatry. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Transl Psychiatry)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009469/",
+      "published": "2026-08-19",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "369e0559ede1",
       "category": "research",
       "compound": "CJC-1295",
@@ -482,22 +466,6 @@
       ]
     },
     {
-      "id": "66b7c5d0280c",
-      "category": "research",
-      "compound": "TB-500",
-      "title": "Dangers of Injectable Peptides and Other Unregulated \"Biohacking\" Drugs.",
-      "summary": "Published in Mo Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Mo Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42757290/",
-      "published": "2026-07-01",
-      "tags": [
-        "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "b2eecde3e818",
       "category": "research",
       "compound": "Semax",
@@ -509,22 +477,6 @@
       "published": "2026-07-01",
       "tags": [
         "semax",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "e651aec77a9e",
-      "category": "research",
-      "compound": "ARA-290",
-      "title": "Immunometabolic dysregulation drives selective executive cognitive dysfunction in male db/db mice.",
-      "summary": "Published in Neurobiol Dis. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Neurobiol Dis)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41933665/",
-      "published": "2026-06-01",
-      "tags": [
-        "ara-290",
         "research",
         "pubmed"
       ]
@@ -1023,6 +975,22 @@
         "melanotan",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "870b19fa66c3",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Regenerative peptides for inferior alveolar nerve injury: a narrative review.",
+      "summary": "Published in Front Dent Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Dent Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43011877/",
+      "published": "2026-01-01",
+      "tags": [
+        "bpc-157",
+        "research",
+        "pubmed"
       ]
     },
     {
