@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:51:19Z",
+  "generated_at": "2026-11-12T23:20:28Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -13,6 +13,22 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "1f0efeb32fbd",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Serum vitamin D, innate immunity markers, and biofilm presence as determinants of therapeutic strategies in diabetic foot infections: A comparative cross-sectional study.",
+      "summary": "Published in Nutr Health. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nutr Health)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017885/",
+      "published": "2026-11-12",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1117,22 +1133,6 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "e287771e7b60",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "A putative pharmacodynamic ceiling for topical corticosteroids in atopic dermatitis: a steroid-primed inflammasome and caspase-1-mediated glucocorticoid receptor cleavage.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42991303/",
-      "published": "2026-01-01",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
