@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:14:24Z",
+  "generated_at": "2026-11-12T14:51:19Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -13,6 +13,38 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "ee55f63f01da",
+      "category": "research",
+      "compound": "tesamorelin",
+      "title": "Detecting GHRH Analogue Tesamorelin and Its Metabolites in Post-Administration Human Urine and Serum Using LC-HRMS/MS.",
+      "summary": "Published in Drug Test Anal. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Drug Test Anal)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013893/",
+      "published": "2026-11-11",
+      "tags": [
+        "tesamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "88ce588ba7cd",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Arsenic exposure in association with reproductive hormones, kisspeptin, and age at menarche in European teenagers.",
+      "summary": "Published in Ecotoxicol Environ Saf. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Ecotoxicol Environ Saf)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014218/",
+      "published": "2026-11-11",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -98,22 +130,6 @@
       ]
     },
     {
-      "id": "da0a8f80f51a",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Helicobacter pylori Infection Remodels Neutrophil-Derived Extracellular Vesicles, Promoting Stress and Apoptosis in Infected Epithelial Cells.",
-      "summary": "Published in J Extracell Vesicles. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Extracell Vesicles)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42976050/",
-      "published": "2026-11-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "13aa31ac44cd",
       "category": "research",
       "compound": "BPC-157",
@@ -178,6 +194,22 @@
       ]
     },
     {
+      "id": "f57e5b8437c2",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Fever enhances host bacterial defence while limiting mitochondrial damage.",
+      "summary": "Published in Nat Commun. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nat Commun)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015295/",
+      "published": "2026-10-14",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "4218c9b5e87e",
       "category": "research",
       "compound": "KPV",
@@ -237,22 +269,6 @@
       "published": "2026-10-01",
       "tags": [
         "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "e09237924cd0",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Management of Vasomotor Symptoms in Women With Breast Cancer: From Pathophysiology to the Emerging Role of Neurokinin Receptor Antagonism.",
-      "summary": "Published in Cureus. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cureus)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43001086/",
-      "published": "2026-10-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -546,6 +562,38 @@
       ]
     },
     {
+      "id": "84888b8ca571",
+      "category": "clinical-trial",
+      "compound": "TB-500",
+      "title": "TB-500 (Thymosin Beta 4 17-23 Fragment) for Cardiovascular Biomarkers in Stable ASCVD",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-11-12.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07487363",
+      "published": "2026-01-11",
+      "tags": [
+        "tb-500",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "0b8a8966146c",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "Effect of Retatrutide Versus Placebo in Participants Who Have Obesity or Are Overweight",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-11-12.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07467447",
+      "published": "2026-01-11",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "edd565cc0de0",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -575,6 +623,22 @@
         "retatrutide",
         "clinicaltrials.gov",
         "completed"
+      ]
+    },
+    {
+      "id": "0b6e7ca3a917",
+      "category": "clinical-trial",
+      "compound": "tesamorelin",
+      "title": "Tesamorelin for Reduction of Liver Fat in Adults With Fatty Liver Disease",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-11-12.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07481734",
+      "published": "2026-01-11",
+      "tags": [
+        "tesamorelin",
+        "clinicaltrials.gov",
+        "recruiting"
       ]
     },
     {
@@ -642,17 +706,17 @@
       ]
     },
     {
-      "id": "d6e6c8a3bead",
+      "id": "ad9d6c32ed9d",
       "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated Steatotic Liver Disease (SYNERGY-Outcomes)",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-10-08.",
+      "compound": "Melanotan",
+      "title": "Melanotan II (MT-II) as an Adjunct to NB-UVB Phototherapy for Repigmentation in Stable Nonsegmental Vitiligo",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-11-12.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07165028",
-      "published": "2026-01-10",
+      "url": "https://clinicaltrials.gov/study/NCT07437560",
+      "published": "2026-01-11",
       "tags": [
-        "retatrutide",
+        "melanotan",
         "clinicaltrials.gov",
         "recruiting"
       ]
@@ -882,22 +946,6 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
-      "category": "clinical-trial",
-      "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
-      "published": "2026-01-05",
-      "tags": [
-        "tesamorelin",
-        "clinicaltrials.gov",
-        "terminated"
-      ]
-    },
-    {
       "id": "17d1a0da7511",
       "category": "clinical-trial",
       "compound": "MOTS-c",
@@ -909,22 +957,6 @@
       "published": "2026-01-04",
       "tags": [
         "mots-c",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "84888b8ca571",
-      "category": "clinical-trial",
-      "compound": "TB-500",
-      "title": "TB-500 (Thymosin Beta 4 17-23 Fragment) for Cardiovascular Biomarkers in Stable ASCVD",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-03-23.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07487363",
-      "published": "2026-01-03",
-      "tags": [
-        "tb-500",
         "clinicaltrials.gov",
         "recruiting"
       ]
@@ -957,22 +989,6 @@
       "published": "2026-01-02",
       "tags": [
         "ghk-cu",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "ad9d6c32ed9d",
-      "category": "clinical-trial",
-      "compound": "Melanotan",
-      "title": "Melanotan II (MT-II) as an Adjunct to NB-UVB Phototherapy for Repigmentation in Stable Nonsegmental Vitiligo",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-02-27.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07437560",
-      "published": "2026-01-02",
-      "tags": [
-        "melanotan",
         "clinicaltrials.gov",
         "recruiting"
       ]
@@ -1021,22 +1037,6 @@
       "published": "2026-01-01",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f694396de75f",
-      "category": "research",
-      "compound": "tesamorelin",
-      "title": "Efficacy and Safety of Tesamorelin in People Living With HIV (PLWH) With Lipodystrophy: A Systematic Review and Meta-Analysis.",
-      "summary": "Published in J Int Assoc Provid AIDS Care. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Int Assoc Provid AIDS Care)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538058/",
-      "published": "2026-01-01",
-      "tags": [
-        "tesamorelin",
         "research",
         "pubmed"
       ]
