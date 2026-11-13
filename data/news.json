@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:12:06Z",
+  "generated_at": "2026-11-13T23:22:59Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -82,6 +82,22 @@
       ]
     },
     {
+      "id": "daead2167d75",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Observing the Role of UBE2T in Hypothalamic Kiss1 Expression and Pubertal Development.",
+      "summary": "Published in Curr Mol Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Curr Mol Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023518/",
+      "published": "2026-11-10",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "1dfc307a2a99",
       "category": "research",
       "compound": "LL-37",
@@ -132,7 +148,7 @@
     {
       "id": "06fcd14be164",
       "category": "research",
-      "compound": "kisspeptin",
+      "compound": "Melanotan",
       "title": "Peptides for male sexual dysfunction: a systematic review of emerging evidence.",
       "summary": "Published in J Sex Med. See abstract for full findings.",
       "why_it_matters": "",
@@ -140,7 +156,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43002584/",
       "published": "2026-11-06",
       "tags": [
-        "kisspeptin",
+        "melanotan",
         "research",
         "pubmed"
       ]
@@ -331,22 +347,6 @@
       "source": "PubMed (Pharmaceuticals (Basel))",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42797537/",
       "published": "2026-09-19",
-      "tags": [
-        "thymosin alpha-1",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "d5f2308abd98",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "Thymosin Alpha-1 Provides Direct Neuroprotection by Engaging the Orexin Receptor HCRTR1 to Suppress Neuronal Necroptosis.",
-      "summary": "Published in Adv Sci (Weinh). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Adv Sci (Weinh))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693587/",
-      "published": "2026-09-03",
       "tags": [
         "thymosin alpha-1",
         "research",
@@ -594,6 +594,22 @@
       ]
     },
     {
+      "id": "e1731bdb8c9f",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-11-13.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06297603",
+      "published": "2026-01-11",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
       "id": "0b8a8966146c",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -623,22 +639,6 @@
         "retatrutide",
         "clinicaltrials.gov",
         "active_not_recruiting"
-      ]
-    },
-    {
-      "id": "1bdcc40b0a02",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) on Renal Function in Participants With Overweight or Obesity and Chronic Kidney Disease With or Without Type 2 Diabetes",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-11-09.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05936151",
-      "published": "2026-01-11",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "completed"
       ]
     },
     {
@@ -946,19 +946,19 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
+      "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
       "published": "2026-01-05",
       "tags": [
         "tesamorelin",
         "clinicaltrials.gov",
-        "recruiting"
+        "terminated"
       ]
     },
     {
@@ -1133,6 +1133,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3a3badda57a5",
+      "category": "research",
+      "compound": "Thymosin Alpha-1",
+      "title": "Efficacy and safety of thymosin combined with anticancer therapy for colorectal cancer: a systematic review and meta-analysis of controlled studies.",
+      "summary": "Published in Front Oncol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Oncol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022192/",
+      "published": "2026-01-01",
+      "tags": [
+        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
