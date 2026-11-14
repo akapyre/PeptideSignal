@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:22:59Z",
+  "generated_at": "2026-11-14T13:12:07Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -45,22 +45,6 @@
       "published": "2026-11-11",
       "tags": [
         "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "88ce588ba7cd",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Arsenic exposure in association with reproductive hormones, kisspeptin, and age at menarche in European teenagers.",
-      "summary": "Published in Ecotoxicol Environ Saf. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Ecotoxicol Environ Saf)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43014218/",
-      "published": "2026-11-11",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -162,6 +146,54 @@
       ]
     },
     {
+      "id": "a916b21f6cf1",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "The Lactate-Mitokine Axis in Exercise Adaptation: Linking Glycolytic and Mitochondrial Stress Signaling.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43028116/",
+      "published": "2026-11-04",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "15ac5b0150e6",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "From Oxyntomodulin to Retatrutide: A Translational Review of Metabolic Polyagonism.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027901/",
+      "published": "2026-10-28",
+      "tags": [
+        "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "30e48755eca2",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Time-Restricted Eating as a Dietary Intervention for Polyendocrine Metabolic Ovarian Syndrome (PMOS): Protocol for a Randomized Controlled Trial.",
+      "summary": "Published in Nutrients. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nutrients)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030186/",
+      "published": "2026-10-28",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "13aa31ac44cd",
       "category": "research",
       "compound": "BPC-157",
@@ -189,6 +221,22 @@
       "published": "2026-10-25",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "eb59191ba12b",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Estrous Cycle-Dependent Expression of Nucleobindin-2/Nesfatin-1 in the Porcine Hypothalamus: Colocalization with GnRH and Kisspeptin.",
+      "summary": "Published in Cells. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cells)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027276/",
+      "published": "2026-10-22",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -354,22 +402,6 @@
       ]
     },
     {
-      "id": "04ddfab59e65",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "The prodigal peptides.",
-      "summary": "Published in J Pak Med Assoc. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Pak Med Assoc)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989673/",
-      "published": "2026-09-01",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "dea6b547ac58",
       "category": "research",
       "compound": "SS-31",
@@ -397,22 +429,6 @@
       "published": "2026-08-24",
       "tags": [
         "ara-290",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "c219b0d21c8c",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Disruption of the Non-classical ER\u03b1-PCYT1A-Phospholipid-NR5A2 Axis impairs kisspeptin signaling in hypothalamic KNDy neurons and drives postpartum depression.",
-      "summary": "Published in Transl Psychiatry. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Transl Psychiatry)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43009469/",
-      "published": "2026-08-19",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -477,22 +493,6 @@
       "published": "2026-08-01",
       "tags": [
         "aod-9604",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "0ca5c1669a8f",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "MOTS-c attenuates placental vascular endothelial cell apoptosis in intrahepatic cholestasis of pregnancy by inhibiting K33-linked deubiquitination of BACH1.",
-      "summary": "Published in Cell Commun Signal. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cell Commun Signal)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934731/",
-      "published": "2026-07-29",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
