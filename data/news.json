@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:06:53Z",
+  "generated_at": "2026-11-15T13:40:07Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -13,6 +13,22 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "d708b0a4256f",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "The correlation between reproductive initiation and remodeling of the TSH-DIO2-T3 axis in Daurian ground squirrels (Spermophilus dauricus).",
+      "summary": "Published in Biol Reprod. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biol Reprod)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033100/",
+      "published": "2026-11-14",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -61,22 +77,6 @@
       "published": "2026-11-10",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "daead2167d75",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Observing the Role of UBE2T in Hypothalamic Kiss1 Expression and Pubertal Development.",
-      "summary": "Published in Curr Mol Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Curr Mol Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023518/",
-      "published": "2026-11-10",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -333,22 +333,6 @@
       "published": "2026-10-01",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "73010f61e00f",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Associations of Serum MOTS-c with Exercise Capacity and Antioxidant Markers in Young Males: A Cross-Sectional Study.",
-      "summary": "Published in Antioxidants (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Antioxidants (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939841/",
-      "published": "2026-10-01",
-      "tags": [
-        "mots-c",
         "research",
         "pubmed"
       ]
@@ -1069,6 +1053,22 @@
       "published": "2026-01-01",
       "tags": [
         "ipamorelin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "9a82bd4c9772",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Mitochondrial-derived peptides: emerging therapeutic targets at the intersection of mitochondrial dysfunction and pain.",
+      "summary": "Published in Front Pain Res (Lausanne). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Pain Res (Lausanne))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032139/",
+      "published": "2026-01-01",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
