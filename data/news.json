@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:37:12Z",
+  "generated_at": "2026-11-16T15:12:06Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -13,6 +13,22 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "235634a937d5",
+      "category": "research",
+      "compound": "SS-31",
+      "title": "Soft Movable Nanosystems for Synergistic Intervention of Hepatic Injury Induced by Severe Burns Plus Delayed Resuscitation.",
+      "summary": "Published in Adv Healthc Mater. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Adv Healthc Mater)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036005/",
+      "published": "2026-11-15",
+      "tags": [
+        "ss-31",
         "research",
         "pubmed"
       ]
@@ -349,22 +365,6 @@
       "published": "2026-09-30",
       "tags": [
         "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "e19de01a9038",
-      "category": "research",
-      "compound": "SS-31",
-      "title": "Engineered Mitochondria-Targeted Biomimetic Hybrid Nanovesicles Ameliorate Rheumatoid Arthritis via Regulating Macrophage Autophagy and cGAS-STING Signaling.",
-      "summary": "Published in ACS Appl Mater Interfaces. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (ACS Appl Mater Interfaces)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42709510/",
-      "published": "2026-09-23",
-      "tags": [
-        "ss-31",
         "research",
         "pubmed"
       ]
@@ -930,19 +930,19 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
+      "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
       "published": "2026-01-05",
       "tags": [
         "tesamorelin",
         "clinicaltrials.gov",
-        "terminated"
+        "recruiting"
       ]
     },
     {
