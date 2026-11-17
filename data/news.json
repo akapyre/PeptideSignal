@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:44:25Z",
+  "generated_at": "2026-11-17T15:41:18Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -582,7 +582,7 @@
       "category": "clinical-trial",
       "compound": "retatrutide",
       "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-11-13.",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-11-17.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT06297603",
@@ -658,6 +658,102 @@
       ]
     },
     {
+      "id": "1a3f80c47de5",
+      "category": "regulatory",
+      "compound": "tesamorelin",
+      "title": "FDA enforcement report: TESAMORELIN/IPAMORELIN (MDV) 5MG/2MG/ML **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "summary": "Lack of Processing Controls",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2026-01-11",
+      "tags": [
+        "tesamorelin",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "21c88b62b9aa",
+      "category": "regulatory",
+      "compound": "tesamorelin",
+      "title": "FDA enforcement report: TESAMORELIN (MDV) 10MG/ML **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "summary": "Lack of Processing Controls",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2026-01-11",
+      "tags": [
+        "tesamorelin",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "7ffd059a7f61",
+      "category": "regulatory",
+      "compound": "GHK-Cu",
+      "title": "FDA enforcement report: GHK- CU (MDV) 10MG/ML **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "summary": "Lack of Processing Controls",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2026-01-11",
+      "tags": [
+        "ghk-cu",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "dec3e1cdd3c1",
+      "category": "regulatory",
+      "compound": "CJC-1295",
+      "title": "FDA enforcement report: CJC-1295/IPAMORELIN (MDV) 2/2MG/ML **5ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "summary": "Lack of Processing Controls",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2026-01-11",
+      "tags": [
+        "cjc-1295",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "e8282047621e",
+      "category": "regulatory",
+      "compound": "CJC-1295",
+      "title": "FDA enforcement report: CJC-1295/IPAMORELIN (MDV) 2/2MG/ML **2ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "summary": "Lack of Processing Controls",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2026-01-11",
+      "tags": [
+        "cjc-1295",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "af299e12f243",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "Effects of Glucagon-like Peptide-1 (GLP-1) Agonist in Neuro-reproductive Function in Obese Adolescent Females With Polycystic Ovary Syndrome (PCOS)",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-11-17.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07169136",
+      "published": "2026-01-11",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "recruiting"
+      ]
+    },
+    {
       "id": "6dde0031b56c",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -703,6 +799,38 @@
         "thymosin alpha-1",
         "clinicaltrials.gov",
         "active_not_recruiting"
+      ]
+    },
+    {
+      "id": "6bf968e65530",
+      "category": "regulatory",
+      "compound": "Thymosin Alpha-1",
+      "title": "FDA enforcement report: THYMOSIN ALPHA-1 (MDV) 3MG/ML **5ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "summary": "Lack of Processing Controls",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2026-01-11",
+      "tags": [
+        "thymosin alpha-1",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "fa4b525eeb1a",
+      "category": "regulatory",
+      "compound": "KPV",
+      "title": "FDA enforcement report: BPC-157/KPV 5/5MG/ML (MDV) **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "summary": "Lack of Processing Controls",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2026-01-11",
+      "tags": [
+        "kpv",
+        "FDA",
+        "enforcement"
       ]
     },
     {
@@ -818,22 +946,6 @@
       ]
     },
     {
-      "id": "af299e12f243",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "Effects of Glucagon-like Peptide-1 (GLP-1) Agonist in Neuro-reproductive Function in Obese Adolescent Females With Polycystic Ovary Syndrome (PCOS)",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-09-18.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07169136",
-      "published": "2026-01-09",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "cc41790aec9f",
       "category": "clinical-trial",
       "compound": "BPC-157",
@@ -930,19 +1042,19 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
+      "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
       "published": "2026-01-05",
       "tags": [
         "tesamorelin",
         "clinicaltrials.gov",
-        "recruiting"
+        "terminated"
       ]
     },
     {
@@ -1522,22 +1634,6 @@
       ]
     },
     {
-      "id": "cce5b9db55ad",
-      "category": "regulatory",
-      "compound": "CJC-1295",
-      "title": "FDA enforcement report: CJC-1295, 2000 MCG/ML, 5 ML vial, The Guyer Institute of Molecular Medicine, Indianapolis, IN",
-      "summary": "Lack of Assurance of Sterility: due to concerns with production processes which cannot assure sterility of products intended to be sterile.",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2020-01-12",
-      "tags": [
-        "cjc-1295",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
       "id": "28dd16df27be",
       "category": "regulatory",
       "compound": "LL-37",
@@ -1570,22 +1666,6 @@
       ]
     },
     {
-      "id": "31bb9c2ae198",
-      "category": "regulatory",
-      "compound": "CJC-1295",
-      "title": "FDA enforcement report: CJC-1295 2000 mcg/Ipamorelin 2000 mcg/mL Inj. in 2 mL vial  Assurance Infusion (713) 533-8800",
-      "summary": "Lack of sterility assurance.",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2020-01-01",
-      "tags": [
-        "cjc-1295",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
       "id": "62e99b081eb1",
       "category": "regulatory",
       "compound": "BPC-157",
@@ -1613,38 +1693,6 @@
       "published": "2019-01-02",
       "tags": [
         "melanotan",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
-      "id": "3cef1c5445b8",
-      "category": "regulatory",
-      "compound": "tesamorelin",
-      "title": "FDA enforcement report: Tesamorelin, 1mg/vial, 6mL vial, Lyophilized Powder for Reconstitution and Subcutaneous Injection, Rx Only, Tailor Made ",
-      "summary": "Labeling: Incorrect or Missing Lot and/or Expiration Date; vial indicates a 1 year expiration date instead of a 6 month expiration date",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2018-01-11",
-      "tags": [
-        "tesamorelin",
-        "FDA",
-        "enforcement"
-      ]
-    },
-    {
-      "id": "787c9b5f2026",
-      "category": "regulatory",
-      "compound": "Ipamorelin",
-      "title": "FDA enforcement report: Ipamorelin 3 mg Lyophilized 1 vial 1109 East Hallandale Beach Blvd. Hallandale Beach, FL 33009",
-      "summary": "Lack of assurance of sterility.",
-      "why_it_matters": "",
-      "source": "openFDA (drug enforcement)",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-      "published": "2018-01-09",
-      "tags": [
-        "ipamorelin",
         "FDA",
         "enforcement"
       ]
