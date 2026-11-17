@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:12:06Z",
+  "generated_at": "2026-11-17T01:44:25Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -13,6 +13,54 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "deb6cfa0e02a",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Correction: Kisspeptin as a marker for male infertility: a comparative study of serum and seminal plasma kisspeptin between fertile and infertile men.",
+      "summary": "Published in J Assist Reprod Genet. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Assist Reprod Genet)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43037870/",
+      "published": "2026-11-16",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "1e1238ab8f09",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Metabolic-reproductive axis in normogonadotropic anovulation: a comparative study of polycystic ovary syndrome and hypothalamic-pituitary-ovarian dysfunction.",
+      "summary": "Published in Endocrine. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Endocrine)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43037851/",
+      "published": "2026-11-16",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "cf96e121c51e",
+      "category": "research",
+      "compound": "SLU-PP-332",
+      "title": "Emerging Interest in SLU-PP-332: Implications for Public Health and Doping Control.",
+      "summary": "Published in Drug Test Anal. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Drug Test Anal)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036973/",
+      "published": "2026-11-16",
+      "tags": [
+        "slu-pp-332",
         "research",
         "pubmed"
       ]
@@ -194,22 +242,6 @@
       ]
     },
     {
-      "id": "30e48755eca2",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Time-Restricted Eating as a Dietary Intervention for Polyendocrine Metabolic Ovarian Syndrome (PMOS): Protocol for a Randomized Controlled Trial.",
-      "summary": "Published in Nutrients. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Nutrients)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43030186/",
-      "published": "2026-10-28",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "13aa31ac44cd",
       "category": "research",
       "compound": "BPC-157",
@@ -237,22 +269,6 @@
       "published": "2026-10-25",
       "tags": [
         "melanotan",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "eb59191ba12b",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Estrous Cycle-Dependent Expression of Nucleobindin-2/Nesfatin-1 in the Porcine Hypothalamus: Colocalization with GnRH and Kisspeptin.",
-      "summary": "Published in Cells. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cells)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43027276/",
-      "published": "2026-10-22",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -507,22 +523,6 @@
       "source": "PubMed (Int J Biol Macromol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41850449/",
       "published": "2026-04-01",
-      "tags": [
-        "slu-pp-332",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "3d5b92d69217",
-      "category": "research",
-      "compound": "SLU-PP-332",
-      "title": "Analysis and Identification of In\u00a0Vitro Metabolites of Exercise Mimetic SLU-PP-332 ERR\u03b1/\u03b2/\u03b3 Agonist for Doping-Control Purposes.",
-      "summary": "Published in Drug Test Anal. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Drug Test Anal)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41688415/",
-      "published": "2026-03-01",
       "tags": [
         "slu-pp-332",
         "research",
