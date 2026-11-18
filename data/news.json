@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:41:18Z",
+  "generated_at": "2026-11-18T00:43:49Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -244,7 +244,7 @@
     {
       "id": "13aa31ac44cd",
       "category": "research",
-      "compound": "BPC-157",
+      "compound": "TB-500",
       "title": "Investigational Peptides in Orthopaedic Practice: Evidence, Safety, and Patient Counseling for BPC-157, Thymosin Beta-4, and TB-500.",
       "summary": "Published in J Am Acad Orthop Surg. See abstract for full findings.",
       "why_it_matters": "",
@@ -252,7 +252,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42937313/",
       "published": "2026-10-27",
       "tags": [
-        "bpc-157",
+        "tb-500",
         "research",
         "pubmed"
       ]
@@ -349,6 +349,22 @@
       "published": "2026-10-02",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "42d1084a55ac",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Injectable Peptides in Aesthetic Medicine: When Optimization Replaces Outcomes.",
+      "summary": "Published in J Clin Aesthet Dermatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Clin Aesthet Dermatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042351/",
+      "published": "2026-10-01",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
