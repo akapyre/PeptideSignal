@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:43:49Z",
+  "generated_at": "2026-11-18T15:20:14Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -77,22 +77,6 @@
       "published": "2026-11-15",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "d708b0a4256f",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "The correlation between reproductive initiation and remodeling of the TSH-DIO2-T3 axis in Daurian ground squirrels (Spermophilus dauricus).",
-      "summary": "Published in Biol Reprod. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Biol Reprod)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033100/",
-      "published": "2026-11-14",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -221,6 +205,22 @@
       "published": "2026-11-04",
       "tags": [
         "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "52fbeb82e75a",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "The effect of the synthetic analogue of kisspeptin on the level of hormones of the reproductive system in Danio rerio.",
+      "summary": "Published in Biomed Khim. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biomed Khim)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046915/",
+      "published": "2026-11-01",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -1058,19 +1058,19 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
+      "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
       "published": "2026-01-05",
       "tags": [
         "tesamorelin",
         "clinicaltrials.gov",
-        "terminated"
+        "recruiting"
       ]
     },
     {
