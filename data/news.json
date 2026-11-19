@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:01:24Z",
+  "generated_at": "2026-11-19T15:27:01Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -26,22 +26,6 @@
       "why_it_matters": "",
       "source": "PubMed (J Assist Reprod Genet)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43037870/",
-      "published": "2026-11-16",
-      "tags": [
-        "kisspeptin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "1e1238ab8f09",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Metabolic-reproductive axis in normogonadotropic anovulation: a comparative study of polycystic ovary syndrome and hypothalamic-pituitary-ovarian dysfunction.",
-      "summary": "Published in Endocrine. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Endocrine)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43037851/",
       "published": "2026-11-16",
       "tags": [
         "kisspeptin",
@@ -429,6 +413,22 @@
       "published": "2026-09-01",
       "tags": [
         "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "086912884d0b",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Targeting central and peripheral kisspeptin/KISS1R signaling: a novel perspective on PMOS pathogenesis and therapy.",
+      "summary": "Published in Cell Biol Toxicol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Cell Biol Toxicol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052593/",
+      "published": "2026-08-24",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -1058,19 +1058,19 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
+      "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
       "published": "2026-01-05",
       "tags": [
         "tesamorelin",
         "clinicaltrials.gov",
-        "recruiting"
+        "terminated"
       ]
     },
     {
