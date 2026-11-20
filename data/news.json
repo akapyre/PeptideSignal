@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:27:01Z",
+  "generated_at": "2026-11-20T00:24:24Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -114,22 +114,6 @@
       ]
     },
     {
-      "id": "1dfc307a2a99",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Linking skin to system: LL-37 as a potential molecular link between psoriasis and its comorbidities.",
-      "summary": "Published in Autoimmun Rev. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Autoimmun Rev)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43003168/",
-      "published": "2026-11-09",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "f0ac513c66d8",
       "category": "research",
       "compound": "retatrutide",
@@ -189,6 +173,22 @@
       "published": "2026-11-04",
       "tags": [
         "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "410150a153b3",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Popularity Without Proof: A Narrative Review of Peptide Adjuncts to Testosterone Therapy in Body Composition and Functional-Driven Use.",
+      "summary": "Published in Am J Mens Health. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Am J Mens Health)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056390/",
+      "published": "2026-11-01",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -346,22 +346,6 @@
       "why_it_matters": "",
       "source": "PubMed (J Clin Aesthet Dermatol)",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43042351/",
-      "published": "2026-10-01",
-      "tags": [
-        "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "6371f6b747fa",
-      "category": "research",
-      "compound": "BPC-157",
-      "title": "Possibilities for Cytoprotective Liver Therapy, Stable Gastric Pentadecapeptide BPC 157, and Standard Agents-A Narrative Review.",
-      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Pharmaceuticals (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42943255/",
       "published": "2026-10-01",
       "tags": [
         "bpc-157",
@@ -1138,22 +1122,6 @@
       ]
     },
     {
-      "id": "1a4ab29ee9bf",
-      "category": "research",
-      "compound": "TB-500",
-      "title": "Case Report: Regenerative peptides for Inferior alveolar nerve injury: a narrative review with hypothesis-generating three clinical cases.",
-      "summary": "Published in Front Oral Health. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Oral Health)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42876687/",
-      "published": "2026-01-01",
-      "tags": [
-        "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "3531813ef317",
       "category": "research",
       "compound": "retatrutide",
@@ -1261,6 +1229,38 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "1a4ab29ee9bf",
+      "category": "research",
+      "compound": "ARA-290",
+      "title": "Case Report: Regenerative peptides for Inferior alveolar nerve injury: a narrative review with hypothesis-generating three clinical cases.",
+      "summary": "Published in Front Oral Health. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Oral Health)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876687/",
+      "published": "2026-01-01",
+      "tags": [
+        "ara-290",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "532b88935ef6",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Engineering a multifunctional LL37-TP5 hybrid peptide with potent antimicrobial endotoxin-neutralizing and anti-inflammatory properties.",
+      "summary": "Published in Front Pharmacol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Pharmacol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054286/",
+      "published": "2026-01-01",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
