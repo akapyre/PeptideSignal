@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-11-20T15:03:52Z",
+  "generated_at": "2026-11-20T23:47:05Z",
   "items": [
+    {
+      "id": "35c43aa9acbc",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Characterization of human cationic peptide LL-37 activity against multidrug-resistant Enterococcus faecium in the context of bacteriophage-daptomycin-ampicillin combinations.",
+      "summary": "Published in JAC Antimicrob Resist. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (JAC Antimicrob Resist)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061252/",
+      "published": "2026-12-01",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a2bf7799633d",
+      "category": "research",
+      "compound": "Melanotan",
+      "title": "The dangers of social media misinformation: A case report on the risks of Melanotan II.",
+      "summary": "Published in JAAD Case Rep. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (JAAD Case Rep)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060386/",
+      "published": "2026-12-01",
+      "tags": [
+        "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
     {
       "id": "7d8af8a77b52",
       "category": "research",
@@ -77,22 +109,6 @@
       "published": "2026-11-15",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "1f0efeb32fbd",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Serum vitamin D, innate immunity markers, and biofilm presence as determinants of therapeutic strategies in diabetic foot infections: A comparative cross-sectional study.",
-      "summary": "Published in Nutr Health. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Nutr Health)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43017885/",
-      "published": "2026-11-12",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
@@ -1250,14 +1266,14 @@
       ]
     },
     {
-      "id": "532b88935ef6",
+      "id": "7bf3a78a2a6d",
       "category": "research",
       "compound": "LL-37",
-      "title": "Engineering a multifunctional LL37-TP5 hybrid peptide with potent antimicrobial endotoxin-neutralizing and anti-inflammatory properties.",
-      "summary": "Published in Front Pharmacol. See abstract for full findings.",
+      "title": "Understanding antimicrobial peptide activation in mesenchymal stem cells through the aryl hydrocarbon receptor pathway and inflammatory signals.",
+      "summary": "Published in Turk J Biol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Front Pharmacol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43054286/",
+      "source": "PubMed (Turk J Biol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061639/",
       "published": "2026-01-01",
       "tags": [
         "ll-37",
