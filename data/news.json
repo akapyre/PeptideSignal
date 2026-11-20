@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:24:24Z",
+  "generated_at": "2026-11-20T15:03:52Z",
   "items": [
     {
       "id": "7d8af8a77b52",
@@ -13,6 +13,22 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a37e9dce09dc",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Evolutionary plasticity of bacterial surface layer protein exoskeletons.",
+      "summary": "Published in Nat Commun. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nat Commun)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058107/",
+      "published": "2026-11-19",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -109,22 +125,6 @@
       "published": "2026-11-10",
       "tags": [
         "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "f0ac513c66d8",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Retatrutide Once Weekly in Adults with Knee Osteoarthritis Pain and Obesity.",
-      "summary": "Published in N Engl J Med. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (N Engl J Med)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43001755/",
-      "published": "2026-11-08",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -290,22 +290,6 @@
       ]
     },
     {
-      "id": "f57e5b8437c2",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Fever enhances host bacterial defence while limiting mitochondrial damage.",
-      "summary": "Published in Nat Commun. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Nat Commun)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43015295/",
-      "published": "2026-10-14",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "4218c9b5e87e",
       "category": "research",
       "compound": "KPV",
@@ -381,6 +365,22 @@
       "published": "2026-09-19",
       "tags": [
         "thymosin alpha-1",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "6544484515b0",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "The metabolic paradigm shift in gastroenterology and hepatology: Clinical applications of incretin-based co-agonists.",
+      "summary": "Published in Best Pract Res Clin Gastroenterol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Best Pract Res Clin Gastroenterol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057751/",
+      "published": "2026-09-01",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -1042,19 +1042,19 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
+      "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
       "published": "2026-01-05",
       "tags": [
         "tesamorelin",
         "clinicaltrials.gov",
-        "terminated"
+        "recruiting"
       ]
     },
     {
