@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:47:05Z",
+  "generated_at": "2026-11-21T14:24:57Z",
   "items": [
     {
       "id": "35c43aa9acbc",
@@ -45,6 +45,22 @@
       "published": "2026-11-22",
       "tags": [
         "ghk-cu",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "c385eeb44ebd",
+      "category": "research",
+      "compound": "BPC-157",
+      "title": "Chatbots and Social Media-Embedded AI Assistants Provide Inconsistent Information on the Use of Unregulated Peptides Marketed for Musculoskeletal Recovery.",
+      "summary": "Published in HSS J. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (HSS J)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065586/",
+      "published": "2026-11-19",
+      "tags": [
+        "bpc-157",
         "research",
         "pubmed"
       ]
@@ -1124,7 +1140,7 @@
     {
       "id": "870b19fa66c3",
       "category": "research",
-      "compound": "BPC-157",
+      "compound": "TB-500",
       "title": "Regenerative peptides for inferior alveolar nerve injury: a narrative review.",
       "summary": "Published in Front Dent Med. See abstract for full findings.",
       "why_it_matters": "",
@@ -1132,7 +1148,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43011877/",
       "published": "2026-01-01",
       "tags": [
-        "bpc-157",
+        "tb-500",
         "research",
         "pubmed"
       ]
