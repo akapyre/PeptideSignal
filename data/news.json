@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:17:50Z",
+  "generated_at": "2026-11-22T23:24:21Z",
   "items": [
     {
       "id": "35c43aa9acbc",
@@ -1522,6 +1522,22 @@
       ]
     },
     {
+      "id": "9ab5b46b6457",
+      "category": "regulatory",
+      "compound": "Melanotan",
+      "title": "FDA enforcement report: Melanotan I 200mcg/mL (2mg/ml), a) 1.5mL-vial, b) 5 mL-vial, Refrigerate, Tailor Made Compounding",
+      "summary": "Lack of Assurance of Sterility",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2022-01-07",
+      "tags": [
+        "melanotan",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
       "id": "b1f2961919fd",
       "category": "regulatory",
       "compound": "ARA-290",
@@ -1549,6 +1565,22 @@
       "published": "2022-01-04",
       "tags": [
         "ll-37",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "2884d1874b8f",
+      "category": "regulatory",
+      "compound": "Melanotan",
+      "title": "FDA enforcement report: Melanotan II 1 mg/mL (10 mL) Injection, 10mL vials, Rx only, Farmakeio 1736 N Greenville Ave Richardson, TX 75081 USA",
+      "summary": "Lack of Assurance of Sterility: deviations from Current Good Manufacturing Practices (CGMP) that call into question the sterility of products intended to be sterile.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2022-01-04",
+      "tags": [
+        "melanotan",
         "FDA",
         "enforcement"
       ]
@@ -1693,6 +1725,22 @@
       "published": "2019-01-02",
       "tags": [
         "bpc-157",
+        "FDA",
+        "enforcement"
+      ]
+    },
+    {
+      "id": "da6c01c4f107",
+      "category": "regulatory",
+      "compound": "Melanotan",
+      "title": "FDA enforcement report: Melanotan II, 10mg injection, Rx Only, Promise Pharmacy Compounding Specialists 31818 US Hwy 19N, Palm Harbor, FL 34684",
+      "summary": "Lack of sterility assurance.",
+      "why_it_matters": "",
+      "source": "openFDA (drug enforcement)",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+      "published": "2019-01-02",
+      "tags": [
+        "melanotan",
         "FDA",
         "enforcement"
       ]
