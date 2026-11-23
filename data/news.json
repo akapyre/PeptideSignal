@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:24:21Z",
+  "generated_at": "2026-11-23T17:40:24Z",
   "items": [
     {
       "id": "35c43aa9acbc",
@@ -226,14 +226,14 @@
       ]
     },
     {
-      "id": "52fbeb82e75a",
+      "id": "5d10588f4481",
       "category": "research",
       "compound": "kisspeptin",
-      "title": "The effect of the synthetic analogue of kisspeptin on the level of hormones of the reproductive system in Danio rerio.",
-      "summary": "Published in Biomed Khim. See abstract for full findings.",
+      "title": "Peri-irradiation GABA-B receptor modulation and central precocious puberty after cranial irradiation: A neuroendocrine perspective.",
+      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Biomed Khim)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046915/",
+      "source": "PubMed (J Neuroendocrinol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069671/",
       "published": "2026-11-01",
       "tags": [
         "kisspeptin",
@@ -610,6 +610,22 @@
       ]
     },
     {
+      "id": "06c61b33c7b4",
+      "category": "clinical-trial",
+      "compound": "retatrutide",
+      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-11-23.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06383390",
+      "published": "2026-01-11",
+      "tags": [
+        "retatrutide",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
       "id": "e1731bdb8c9f",
       "category": "clinical-trial",
       "compound": "retatrutide",
@@ -639,22 +655,6 @@
         "retatrutide",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "edd565cc0de0",
-      "category": "clinical-trial",
-      "compound": "retatrutide",
-      "title": "A Study of Retatrutide (LY3437943) in Participants With Obesity or Overweight",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-11-10.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07232719",
-      "published": "2026-01-11",
-      "tags": [
-        "retatrutide",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
       ]
     },
     {
@@ -783,6 +783,22 @@
         "kisspeptin",
         "clinicaltrials.gov",
         "recruiting"
+      ]
+    },
+    {
+      "id": "a636fc2fbeff",
+      "category": "clinical-trial",
+      "compound": "LL-37",
+      "title": "High-Dose Versus Low-Dose Vitamin D and Zinc Supplementation in Patients With Pulmonary Tuberculosis",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-11-23.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07953946",
+      "published": "2026-01-11",
+      "tags": [
+        "ll-37",
+        "clinicaltrials.gov",
+        "completed"
       ]
     },
     {
@@ -994,22 +1010,6 @@
       ]
     },
     {
-      "id": "067650515f20",
-      "category": "clinical-trial",
-      "compound": "LL-37",
-      "title": "Salivary Antimicrobial Peptides and Severe Early Childhood Caries in Turkish Children",
-      "summary": "Status: COMPLETED. Registry entry updated 2026-08-17.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07414030",
-      "published": "2026-01-08",
-      "tags": [
-        "ll-37",
-        "clinicaltrials.gov",
-        "completed"
-      ]
-    },
-    {
       "id": "d27516809f8a",
       "category": "clinical-trial",
       "compound": "GHK-Cu",
@@ -1074,19 +1074,19 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
+      "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
       "published": "2026-01-05",
       "tags": [
         "tesamorelin",
         "clinicaltrials.gov",
-        "recruiting"
+        "terminated"
       ]
     },
     {
