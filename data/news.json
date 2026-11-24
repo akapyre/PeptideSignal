@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:53:58Z",
+  "generated_at": "2026-11-24T17:11:49Z",
   "items": [
     {
       "id": "35c43aa9acbc",
@@ -29,6 +29,22 @@
       "published": "2026-12-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "c870202b09a8",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Retatrutide reduces knee OA pain and weight.",
+      "summary": "Published in Nat Rev Rheumatol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Nat Rev Rheumatol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073351/",
+      "published": "2026-11-23",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -1074,19 +1090,19 @@
       ]
     },
     {
-      "id": "e5a4855a4f0b",
+      "id": "b9a6eef753c7",
       "category": "clinical-trial",
       "compound": "tesamorelin",
-      "title": "Body Composition and Adipose Tissue in HIV",
-      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03226821",
+      "url": "https://clinicaltrials.gov/study/NCT06554717",
       "published": "2026-01-05",
       "tags": [
         "tesamorelin",
         "clinicaltrials.gov",
-        "terminated"
+        "recruiting"
       ]
     },
     {
@@ -1149,22 +1165,6 @@
       "published": "2026-01-01",
       "tags": [
         "tb-500",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "3531813ef317",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "Systematic review and network meta-analysis of the safety and efficacy of the triple incretin receptor agonist, retatrutide compared to the dual incretin receptor agonist, tirzepatide, for treatment of type 2 diabetes mellitus.",
-      "summary": "Published in Ther Adv Endocrinol Metab. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Ther Adv Endocrinol Metab)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43005518/",
-      "published": "2026-01-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
