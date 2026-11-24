@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:40:24Z",
+  "generated_at": "2026-11-24T03:53:58Z",
   "items": [
     {
       "id": "35c43aa9acbc",
@@ -29,6 +29,22 @@
       "published": "2026-12-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "faada73a27ef",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Safety and efficacy of Streptococcus salivarius subsp. thermophilus ST36 in the improvement of gut and immune function: a randomized, double-blind, placebo-controlled trial.",
+      "summary": "Published in J Appl Microbiol. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Appl Microbiol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071416/",
+      "published": "2026-11-23",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -77,22 +93,6 @@
       "published": "2026-11-19",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "a37e9dce09dc",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Evolutionary plasticity of bacterial surface layer protein exoskeletons.",
-      "summary": "Published in Nat Commun. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Nat Commun)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43058107/",
-      "published": "2026-11-19",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
