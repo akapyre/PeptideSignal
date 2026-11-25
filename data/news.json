@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-11-25T02:01:17Z",
+  "generated_at": "2026-11-25T16:57:32Z",
   "items": [
-    {
-      "id": "35c43aa9acbc",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Characterization of human cationic peptide LL-37 activity against multidrug-resistant Enterococcus faecium in the context of bacteriophage-daptomycin-ampicillin combinations.",
-      "summary": "Published in JAC Antimicrob Resist. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (JAC Antimicrob Resist)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43061252/",
-      "published": "2026-12-01",
-      "tags": [
-        "ll-37",
-        "research",
-        "pubmed"
-      ]
-    },
     {
       "id": "a2bf7799633d",
       "category": "research",
@@ -66,30 +50,14 @@
       ]
     },
     {
-      "id": "7d8af8a77b52",
-      "category": "research",
-      "compound": "GHK-Cu",
-      "title": "Characterization of copper tripeptide-loaded lipid carriers and their stability in complex cosmetic matrices.",
-      "summary": "Published in J Chromatogr A. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Chromatogr A)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42887096/",
-      "published": "2026-11-22",
-      "tags": [
-        "ghk-cu",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "2f20e250885a",
+      "id": "d0199d22b0fe",
       "category": "research",
       "compound": "kisspeptin",
-      "title": "Molecular and physiological role of phoenixin in reproduction and metabolic regulation.",
-      "summary": "Published in Reprod Biol. See abstract for full findings.",
+      "title": "Circulating biomarker panels in early pregnancy for predicting subsequent pregnancy loss in women with a history of recurrent pregnancy loss.",
+      "summary": "Published in Eur J Obstet Gynecol Reprod Biol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Reprod Biol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43067247/",
+      "source": "PubMed (Eur J Obstet Gynecol Reprod Biol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077755/",
       "published": "2026-11-21",
       "tags": [
         "kisspeptin",
@@ -109,6 +77,22 @@
       "published": "2026-11-19",
       "tags": [
         "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "1d91e636abb0",
+      "category": "research",
+      "compound": "GHK-Cu",
+      "title": "A Bioactive Alginate Polyelectrolyte Layer Incorporating GHK-Cu: Characterization In Vitro for Potential Wound-Healing Applications.",
+      "summary": "Published in Membranes (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Membranes (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43083215/",
+      "published": "2026-11-18",
+      "tags": [
+        "ghk-cu",
         "research",
         "pubmed"
       ]
@@ -253,6 +237,38 @@
       "published": "2026-11-01",
       "tags": [
         "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "a4923874a60f",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Exposure to Synthetic Phenols and Metal(loid)s and Neuroendocrine Effect Biomarkers in Spanish Girls with and Without Early Puberty.",
+      "summary": "Published in Toxics. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Toxics)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43083588/",
+      "published": "2026-10-31",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "d5177845ecd2",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Characterization of Immunomodulators and Cellular Signaling Molecules in Cleft Lip and Palate Tissues According to Cleft Laterality.",
+      "summary": "Published in J Pers Med. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Pers Med)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082812/",
+      "published": "2026-10-30",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -445,22 +461,6 @@
       "published": "2026-09-01",
       "tags": [
         "ss-31",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "086912884d0b",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Targeting central and peripheral kisspeptin/KISS1R signaling: a novel perspective on PMOS pathogenesis and therapy.",
-      "summary": "Published in Cell Biol Toxicol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Cell Biol Toxicol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43052593/",
-      "published": "2026-08-24",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -786,6 +786,22 @@
       ]
     },
     {
+      "id": "c65d465e1a8c",
+      "category": "clinical-trial",
+      "compound": "kisspeptin",
+      "title": "A Prospective Cohort Study on the Serum Kisspeptin Levels Throughout Pregnancy in PCOS",
+      "summary": "Status: COMPLETED. Registry entry updated 2026-11-25.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06545994",
+      "published": "2026-01-11",
+      "tags": [
+        "kisspeptin",
+        "clinicaltrials.gov",
+        "completed"
+      ]
+    },
+    {
       "id": "af299e12f243",
       "category": "clinical-trial",
       "compound": "kisspeptin",
@@ -946,22 +962,6 @@
       ]
     },
     {
-      "id": "93d929ba2441",
-      "category": "clinical-trial",
-      "compound": "kisspeptin",
-      "title": "The Interaction of Body Composition, Sex Hormones and Exercise in Men",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-10-15.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06970457",
-      "published": "2026-01-10",
-      "tags": [
-        "kisspeptin",
-        "clinicaltrials.gov",
-        "recruiting"
-      ]
-    },
-    {
       "id": "4b49f2d4e621",
       "category": "clinical-trial",
       "compound": "LL-37",
@@ -1090,19 +1090,19 @@
       ]
     },
     {
-      "id": "b9a6eef753c7",
+      "id": "e5a4855a4f0b",
       "category": "clinical-trial",
       "compound": "tesamorelin",
-      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
-      "summary": "Status: RECRUITING. Registry entry updated 2026-05-19.",
+      "title": "Body Composition and Adipose Tissue in HIV",
+      "summary": "Status: TERMINATED. Registry entry updated 2026-05-19.",
       "why_it_matters": "",
       "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06554717",
+      "url": "https://clinicaltrials.gov/study/NCT03226821",
       "published": "2026-01-05",
       "tags": [
         "tesamorelin",
         "clinicaltrials.gov",
-        "recruiting"
+        "terminated"
       ]
     },
     {
