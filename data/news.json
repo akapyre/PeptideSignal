@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:41:44Z",
+  "generated_at": "2026-11-26T16:35:49Z",
   "items": [
     {
       "id": "a2bf7799633d",
@@ -66,6 +66,22 @@
       ]
     },
     {
+      "id": "10895b669e9f",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "MOTS-c: A Narrative Review of Cell and Molecular, Preclinical, Clinical, and Regulatory Literature in Regenerative, Longevity, and Pain Medicine.",
+      "summary": "Published in Biomedicines. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Biomedicines)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43087953/",
+      "published": "2026-11-20",
+      "tags": [
+        "mots-c",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "c385eeb44ebd",
       "category": "research",
       "compound": "BPC-157",
@@ -98,6 +114,22 @@
       ]
     },
     {
+      "id": "1e2075e00069",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Gut Microbiota and Microbial Metabolites in Central Precocious Puberty: A Narrative Review.",
+      "summary": "Published in Microorganisms. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Microorganisms)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43092545/",
+      "published": "2026-11-18",
+      "tags": [
+        "kisspeptin",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "cf96e121c51e",
       "category": "research",
       "compound": "SLU-PP-332",
@@ -125,6 +157,22 @@
       "published": "2026-11-15",
       "tags": [
         "ss-31",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "7531e95fe152",
+      "category": "research",
+      "compound": "MOTS-c",
+      "title": "Nrf2 Inhibits CXCL2-Dependent Neutrophil Recruitment to Alleviate Airway Inflammation and Epithelial Barrier Injury in House Dust Mite-Induced Murine Asthma.",
+      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Int J Mol Sci)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43091814/",
+      "published": "2026-11-13",
+      "tags": [
+        "mots-c",
         "research",
         "pubmed"
       ]
@@ -194,22 +242,6 @@
       ]
     },
     {
-      "id": "a916b21f6cf1",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "The Lactate-Mitokine Axis in Exercise Adaptation: Linking Glycolytic and Mitochondrial Stress Signaling.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43028116/",
-      "published": "2026-11-04",
-      "tags": [
-        "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "410150a153b3",
       "category": "research",
       "compound": "BPC-157",
@@ -221,22 +253,6 @@
       "published": "2026-11-01",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "5d10588f4481",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Peri-irradiation GABA-B receptor modulation and central precocious puberty after cranial irradiation: A neuroendocrine perspective.",
-      "summary": "Published in J Neuroendocrinol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Neuroendocrinol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43069671/",
-      "published": "2026-11-01",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -285,6 +301,22 @@
       "published": "2026-10-28",
       "tags": [
         "retatrutide",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3de0fbade605",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "Acute Intravenous Tolerability of Antimicrobial Peptides Derived from the Human Cathelicidin LL-37 and Local Antibacterial Activity of Its FK-16 Fragment in a Methicillin-Resistant Staphylococcus epidermidis Rat Femoral Osteotomy Model.",
+      "summary": "Published in Antibiotics (Basel). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Antibiotics (Basel))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43090116/",
+      "published": "2026-10-28",
+      "tags": [
+        "ll-37",
         "research",
         "pubmed"
       ]
@@ -413,22 +445,6 @@
       "published": "2026-09-30",
       "tags": [
         "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "c7734686a6c0",
-      "category": "research",
-      "compound": "Thymosin Alpha-1",
-      "title": "Clinical Applications and Evidence Landscape of Thymosin Alpha 1 as an Immunomodulatory Adjunct in Cancer Care: A Scoping Review.",
-      "summary": "Published in Pharmaceuticals (Basel). See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Pharmaceuticals (Basel))",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42797537/",
-      "published": "2026-09-19",
-      "tags": [
-        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
@@ -1202,22 +1218,6 @@
       ]
     },
     {
-      "id": "e1c06887642f",
-      "category": "research",
-      "compound": "MOTS-c",
-      "title": "Integrative transcriptomic and computational analysis associates Ms4a6c+ macrophages with fibrosis in radiation proctitis and computationally nominates MOTS-c as a candidate modulator.",
-      "summary": "Published in Front Immunol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Front Immunol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42952740/",
-      "published": "2026-01-01",
-      "tags": [
-        "mots-c",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "65b3364cb61b",
       "category": "research",
       "compound": "Semax",
@@ -1282,17 +1282,17 @@
       ]
     },
     {
-      "id": "7bf3a78a2a6d",
+      "id": "a119b3e53c32",
       "category": "research",
-      "compound": "LL-37",
-      "title": "Understanding antimicrobial peptide activation in mesenchymal stem cells through the aryl hydrocarbon receptor pathway and inflammatory signals.",
-      "summary": "Published in Turk J Biol. See abstract for full findings.",
+      "compound": "Thymosin Alpha-1",
+      "title": "A bioengineered CATH-2 (1-15)-Ta1 (1-9) hybrid peptide attenuates LPS-induced inflammation and oxidative stress through LPS neutralization and TLR4/MD-2 modulation.",
+      "summary": "Published in Front Immunol. See abstract for full findings.",
       "why_it_matters": "",
-      "source": "PubMed (Turk J Biol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43061639/",
+      "source": "PubMed (Front Immunol)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43094489/",
       "published": "2026-01-01",
       "tags": [
-        "ll-37",
+        "thymosin alpha-1",
         "research",
         "pubmed"
       ]
