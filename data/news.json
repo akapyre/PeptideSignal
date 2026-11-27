@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:35:49Z",
+  "generated_at": "2026-11-27T01:34:39Z",
   "items": [
     {
       "id": "a2bf7799633d",
@@ -18,6 +18,22 @@
       ]
     },
     {
+      "id": "d15fc0be4e7e",
+      "category": "research",
+      "compound": "LL-37",
+      "title": "A Portable N-Terminal Biphenyl Motif in LL-37 Enhances the Activity of Short Human Cathelicidin Derivatives.",
+      "summary": "Published in J Med Chem. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (J Med Chem)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095992/",
+      "published": "2026-11-26",
+      "tags": [
+        "ll-37",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
       "id": "c870202b09a8",
       "category": "research",
       "compound": "retatrutide",
@@ -29,22 +45,6 @@
       "published": "2026-11-23",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "faada73a27ef",
-      "category": "research",
-      "compound": "LL-37",
-      "title": "Safety and efficacy of Streptococcus salivarius subsp. thermophilus ST36 in the improvement of gut and immune function: a randomized, double-blind, placebo-controlled trial.",
-      "summary": "Published in J Appl Microbiol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (J Appl Microbiol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43071416/",
-      "published": "2026-11-23",
-      "tags": [
-        "ll-37",
         "research",
         "pubmed"
       ]
