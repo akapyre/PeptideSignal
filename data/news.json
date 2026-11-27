@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:34:39Z",
+  "generated_at": "2026-11-27T16:21:32Z",
   "items": [
     {
       "id": "a2bf7799633d",
@@ -13,6 +13,22 @@
       "published": "2026-12-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "3848878b7cc8",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Efficacy and Safety of Retatrutide in Adults With Type 2 Diabetes, Overweight or Obesity: A Meta-Analysis of Randomized Controlled Trials.",
+      "summary": "Published in Diabetes Obes Metab. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Diabetes Obes Metab)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098770/",
+      "published": "2026-11-26",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -93,6 +109,22 @@
       "published": "2026-11-19",
       "tags": [
         "bpc-157",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "e26223e9d190",
+      "category": "research",
+      "compound": "retatrutide",
+      "title": "Modified Long-Acting UCN2 Promotes Fat Mass Loss While Preserving Skeletal Muscle Mass and Function in Mouse Models of Pharmacological Weight Loss and Sarcopenic Obesity.",
+      "summary": "Published in bioRxiv. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (bioRxiv)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100340/",
+      "published": "2026-11-19",
+      "tags": [
+        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -290,22 +322,6 @@
       ]
     },
     {
-      "id": "15ac5b0150e6",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "From Oxyntomodulin to Retatrutide: A Translational Review of Metabolic Polyagonism.",
-      "summary": "Published in Int J Mol Sci. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Int J Mol Sci)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43027901/",
-      "published": "2026-10-28",
-      "tags": [
-        "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
       "id": "3de0fbade605",
       "category": "research",
       "compound": "LL-37",
@@ -445,22 +461,6 @@
       "published": "2026-09-30",
       "tags": [
         "tesamorelin",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "6544484515b0",
-      "category": "research",
-      "compound": "retatrutide",
-      "title": "The metabolic paradigm shift in gastroenterology and hepatology: Clinical applications of incretin-based co-agonists.",
-      "summary": "Published in Best Pract Res Clin Gastroenterol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Best Pract Res Clin Gastroenterol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43057751/",
-      "published": "2026-09-01",
-      "tags": [
-        "retatrutide",
         "research",
         "pubmed"
       ]
@@ -754,6 +754,22 @@
       ]
     },
     {
+      "id": "b90b7bc21397",
+      "category": "clinical-trial",
+      "compound": "GHK-Cu",
+      "title": "Systemic and Topical Geroprotective Rejuvenation Assessed by START/REST Aging Clocks",
+      "summary": "Status: ENROLLING_BY_INVITATION. Registry entry updated 2026-11-27.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07888595",
+      "published": "2026-01-11",
+      "tags": [
+        "ghk-cu",
+        "clinicaltrials.gov",
+        "enrolling_by_invitation"
+      ]
+    },
+    {
       "id": "7ffd059a7f61",
       "category": "regulatory",
       "compound": "GHK-Cu",
@@ -866,6 +882,22 @@
       ]
     },
     {
+      "id": "92e2353061a8",
+      "category": "clinical-trial",
+      "compound": "Thymosin Alpha-1",
+      "title": "Thymosin Alpha 1 and IgM Levels in Sepsis",
+      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-11-27.",
+      "why_it_matters": "",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07922954",
+      "published": "2026-01-11",
+      "tags": [
+        "thymosin alpha-1",
+        "clinicaltrials.gov",
+        "active_not_recruiting"
+      ]
+    },
+    {
       "id": "ec3dab912a6b",
       "category": "clinical-trial",
       "compound": "Thymosin Alpha-1",
@@ -879,22 +911,6 @@
         "thymosin alpha-1",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "92e2353061a8",
-      "category": "clinical-trial",
-      "compound": "Thymosin Alpha-1",
-      "title": "Thymosin Alpha 1 and IgM Levels in Sepsis",
-      "summary": "Status: ACTIVE_NOT_RECRUITING. Registry entry updated 2026-11-06.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07922954",
-      "published": "2026-01-11",
-      "tags": [
-        "thymosin alpha-1",
-        "clinicaltrials.gov",
-        "active_not_recruiting"
       ]
     },
     {
@@ -943,22 +959,6 @@
         "melanotan",
         "clinicaltrials.gov",
         "recruiting"
-      ]
-    },
-    {
-      "id": "b90b7bc21397",
-      "category": "clinical-trial",
-      "compound": "GHK-Cu",
-      "title": "Systemic and Topical Geroprotective Rejuvenation Assessed by START/REST Aging Clocks",
-      "summary": "Status: ENROLLING_BY_INVITATION. Registry entry updated 2026-10-22.",
-      "why_it_matters": "",
-      "source": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07888595",
-      "published": "2026-01-10",
-      "tags": [
-        "ghk-cu",
-        "clinicaltrials.gov",
-        "enrolling_by_invitation"
       ]
     },
     {
