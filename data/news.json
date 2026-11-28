@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:21:32Z",
+  "generated_at": "2026-11-28T01:15:49Z",
   "items": [
     {
       "id": "a2bf7799633d",
@@ -13,6 +13,22 @@
       "published": "2026-12-01",
       "tags": [
         "melanotan",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "f888f8f58473",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Protective effects of p-coumaric acid against lead acetate-induced testicular tissue injury in rats: associations with oxidative stress, inflammation, apoptosis, and altered testicular kisspeptin-1/GnRH protein abundance.",
+      "summary": "Published in Mol Biol Rep. See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Mol Biol Rep)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102700/",
+      "published": "2026-11-27",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -61,22 +77,6 @@
       "published": "2026-11-23",
       "tags": [
         "retatrutide",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "d0199d22b0fe",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Circulating biomarker panels in early pregnancy for predicting subsequent pregnancy loss in women with a history of recurrent pregnancy loss.",
-      "summary": "Published in Eur J Obstet Gynecol Reprod Biol. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Eur J Obstet Gynecol Reprod Biol)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43077755/",
-      "published": "2026-11-21",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -285,22 +285,6 @@
       "published": "2026-11-01",
       "tags": [
         "bpc-157",
-        "research",
-        "pubmed"
-      ]
-    },
-    {
-      "id": "a4923874a60f",
-      "category": "research",
-      "compound": "kisspeptin",
-      "title": "Exposure to Synthetic Phenols and Metal(loid)s and Neuroendocrine Effect Biomarkers in Spanish Girls with and Without Early Puberty.",
-      "summary": "Published in Toxics. See abstract for full findings.",
-      "why_it_matters": "",
-      "source": "PubMed (Toxics)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43083588/",
-      "published": "2026-10-31",
-      "tags": [
-        "kisspeptin",
         "research",
         "pubmed"
       ]
@@ -1261,6 +1245,22 @@
       "published": "2026-01-01",
       "tags": [
         "selank",
+        "research",
+        "pubmed"
+      ]
+    },
+    {
+      "id": "73749619eac8",
+      "category": "research",
+      "compound": "kisspeptin",
+      "title": "Associations of prenatal isoflavones exposure with maternal and child urinary kisspeptin levels and their interaction with bisphenols.",
+      "summary": "Published in Front Endocrinol (Lausanne). See abstract for full findings.",
+      "why_it_matters": "",
+      "source": "PubMed (Front Endocrinol (Lausanne))",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100774/",
+      "published": "2026-01-01",
+      "tags": [
+        "kisspeptin",
         "research",
         "pubmed"
       ]
